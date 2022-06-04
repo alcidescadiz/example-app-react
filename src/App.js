@@ -1,24 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import {BrowserRouter, Routes, Route} from 'react-router-dom'
+import Conmemoracion from './components/commemoracion.js';
+import MenuApp from './components/layaut/index.js'
+import Pie from './components/layaut/pie.js';
+import Lectura from './components/lectura.js';
+import LecturaConme from './components/LecturaConme.js';
+import Libros from './components/libros.js';
+import Relatos from './components/relatos.js';
+import Videos from './components/videos.js';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <BrowserRouter>
+            <MenuApp />
+              <Routes>
+                <Route path='/' element={<Libros  />} />
+                <Route path='/lectura/:id/:idl/:inicio/:fin' element={<Lectura />} />
+                <Route path='/relatos/:id/:inicio/:fin' element={<Relatos />} />
+                <Route path='/videos/:id' element={<Videos />} />
+                <Route path='/conmemoracion' element={<Conmemoracion />} />
+                <Route path='/lecturaconme/:id' element={<LecturaConme />} />
+                <Route path='*' element={<h1>No found page</h1>} />
+              </Routes>
+            <Pie />
+      </BrowserRouter>
   );
 }
 
