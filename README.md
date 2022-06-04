@@ -14,4 +14,4 @@ You may also see any lint errors in the console.
 
 ### `npm run build`
 
-### View this app web in:  [https://comfy-florentine-397166.net](https://amazing-custard-6c2812.netlify.app/)lify.app/
+### View this app web in:  https://amazing-custard-6c2812.netlify.app/ 
