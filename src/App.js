@@ -16,7 +16,7 @@ function App() {
                 <Route path='/' element={<Libros  />} />
                 <Route path='/lectura/:id/:idl/:inicio/:fin' element={<Lectura />} />
                 <Route path='/relatos/:id/:inicio/:fin' element={<Relatos />} />
-                <Route path='/videos/:id' element={<Videos />} />
+                <Route path='/videos/:id/:idl/:inicio/:fin' element={<Videos />} />
                 <Route path='/conmemoracion' element={<Conmemoracion />} />
                 <Route path='/lecturaconme/:id' element={<LecturaConme />} />
                 <Route path='*' element={<h1>No found page</h1>} />

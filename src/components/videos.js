@@ -1,15 +1,14 @@
 import { Link, useParams } from "react-router-dom";
 import { biblia } from "../data";
 
-
 export default function Videos(){
-    let { id } = useParams();
-    
+    let { id, idl, inicio, fin } = useParams();
+
     return (<>
             <div className="mt-5"></div>
             <div className="container">
                 <div className=" my-2">
-                    <Link className='navbar-brand' to='/' >Volver</Link>
+                    <Link className='navbar-brand' to={`/relatos/${idl}/${inicio}/${fin}`} >Volver</Link>
                 </div>
                 <div className="" id="video" >
                     { typeof biblia[id].video === 'string' ? 
@@ -21,7 +20,7 @@ export default function Videos(){
                     
                 </div>
                 <div className=" my-2">
-                    <Link className='navbar-brand' to='/' >Volver</Link>
+                    <Link className='navbar-brand' to={`/relatos/${idl}/${inicio}/${fin}`} >Volver</Link>
                 </div>
             </div>
     </>)

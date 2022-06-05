@@ -15,10 +15,13 @@ export default function Libros(){
                 <h1 className="col-12 text-center">Libros de la Biblia</h1>
                 { detalles.map((e,i) =>  (
                     <React.Fragment key={i+'div'}>
-                        <div  className="col-sm col p-1  " id={e.libro} >
-                            <div>
+                        <div  
+                            className=" col text-center"   
+                            id={e.libro} >
+                            <div >
                                 <button  
-                                className="btn w-100 p-5 btn-lg btn-success"  
+                                style={{backgroundColor: e.color ? e.color : 'blue'}}
+                                className="btn w-100 p-5 btn-lg text-white h1"  
                                 onClick={()=> openRelatos(i) } >{ e.libro }</button>
                             </div>
                         </div>

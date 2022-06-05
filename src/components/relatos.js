@@ -23,7 +23,11 @@ export default function Relatos(){
     let relato = biblia.filter((e,i)=> i >= inicio && i <= fin)
     return (<>
         <div className="mt-5 container bg-light"></div>
-            <h2 className="text-center my-1">{detalles[id].libro}</h2>
+            <p className="text-center my-1 display-3">{detalles[id].libro}</p>
+            <p className="text-center my-1 h4"> {detalles[id].detalles[0].autor}</p>
+            <p className="text-center my-1 h4"> {detalles[id].detalles[0].donde}</p>
+            <p className="text-center my-1 h4"> {detalles[id].detalles[0].cuando}</p>
+            <p className="text-center my-1 h4"> {detalles[id].detalles[0].tiempo}</p>
         {
             relato.map((e,i)=>
             (<React.Fragment key={i+'div'}>
@@ -35,7 +39,7 @@ export default function Relatos(){
                         <Link  className='navbar-brand col text-white' to={`/lectura/${i+Number(inicio)}/${id}/${inicio}/${fin}`} >Leer</Link>
                         {e.video 
                             ? 
-                                <Link  className='navbar-brand text-white col' to={`/videos/${Number(i)+Number(inicio)}`} >Video</Link> 
+                                <Link  className='navbar-brand text-white col' to={`/videos/${Number(i)+Number(inicio)}/${id}/${inicio}/${fin}`} >Video</Link> 
                             : 
                                 ''}
                         <form>
