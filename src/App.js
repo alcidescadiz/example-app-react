@@ -1,4 +1,4 @@
-import {BrowserRouter, Routes, Route} from 'react-router-dom'
+import {BrowserRouter, Routes, Route, HashRouter} from 'react-router-dom'
 import Conmemoracion from './components/commemoracion.js';
 import MenuApp from './components/layaut/index.js'
 import Pie from './components/layaut/pie.js';
@@ -10,7 +10,7 @@ import Videos from './components/videos.js';
 
 function App() {
   return (
-      <BrowserRouter>
+      <HashRouter>
             <MenuApp />
               <Routes>
                 <Route path='/' element={<Libros  />} />
@@ -19,10 +19,10 @@ function App() {
                 <Route path='/videos/:id/:idl/:inicio/:fin' element={<Videos />} />
                 <Route path='/conmemoracion' element={<Conmemoracion />} />
                 <Route path='/lecturaconme/:id' element={<LecturaConme />} />
-                <Route path='*' element={<h1>No found page</h1>} />
+                <Route path='/*' element={<Libros  />} />
               </Routes>
             <Pie />
-      </BrowserRouter>
+      </HashRouter>
   );
 }
 
