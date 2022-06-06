@@ -1,4 +1,4 @@
-import {BrowserRouter, Routes, Route, HashRouter} from 'react-router-dom'
+import { Routes, Route, HashRouter} from 'react-router-dom'
 import Conmemoracion from './components/commemoracion.js';
 import MenuApp from './components/layaut/index.js'
 import Pie from './components/layaut/pie.js';

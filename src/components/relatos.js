@@ -15,6 +15,9 @@ export default function Relatos(){
             if (typeof(detalles[id].detalles) === 'string'){
                 document.querySelector('#contenido').innerHTML = detalles[id].detalles
             }
+            if (typeof(detalles[id].detalles[0].contenido) === 'string') {
+                document.querySelector('#contenido').innerHTML = detalles[id].detalles[0].contenido
+            }
         })
     },[id])
     let navigate = useNavigate()
@@ -65,7 +68,9 @@ export default function Relatos(){
         }
             <div className=" my-1 ">
                 <h3 id="contenidoClick" className="btn btn-info">Contenido del libro:</h3>
-                { typeof(detalles[id].detalles[0].contenido) === 'object' ? 
+                { typeof(detalles[id].detalles[0].contenido) === 'string' || typeof(detalles[id].detalles)==='string' ? 
+                    <div id="contenido"></div>
+                     :
                     detalles[id].detalles[0].contenido.map((e,i)=>{
                         return (<React.Fragment key={i}>
                                 <p className="h5">Capitulo {i+1}:</p>
@@ -73,7 +78,6 @@ export default function Relatos(){
                                     
                         </React.Fragment>)
                     })
-                    : <div id="contenido"></div>
                 }
             
             </div>
