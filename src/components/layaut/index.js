@@ -6,9 +6,11 @@ export default function MenuApp(){
         'backgroundColor' : '#590696',
       }
     return (<>
-        <div style={divStyle} className="fluid fixed-top row  text-center ">
-           <Link className='nav-link text-white col-6  h3' to='/' >Programa</Link>
-           <Link className='nav-link text-white col-6  h3' to='/conmemoracion' >Conmemoración</Link>
+        <div style={divStyle} className="nav justify-content-center fixed-top   ">
+
+                <Link className='nav-link text-white h4'  to='/' >Programa</Link>
+                <Link className='nav-link text-white h4' to='/conmemoracion' >Conmemoración</Link>
+
         </div>
  
     </>)
