@@ -5,7 +5,7 @@ import { commemoracion } from "../data";
 export default function Conmemoracion(){
     return (
         <div className="container">
-            <h1 className="m-2 text-center mt-5">Lectura de la Conmemoración</h1>
+            <h1 className="m-2 text-center mt-5 display-3">Lectura de la Conmemoración</h1>
             { commemoracion.map((e,i) =>  (
                 <React.Fragment key={i+'divPrincipal'}>
                     <div  className="d-flex m-2 border bg-light">

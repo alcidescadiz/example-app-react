@@ -11,18 +11,18 @@ export default function Libros(){
     }
     return (
         <div className="container mt-5 ">
-            <div className="row m-1">
-                <h1 className="col-12 text-center">Libros de la Biblia</h1>
+            <div className="row text-center mt-1">
+                <h1 className="display-3">Libros de la Biblia</h1>
                 { detalles.map((e,i) =>  (
                     <React.Fragment key={i+'div'}>
                         <div  
-                            className=" col text-center"   
+                            className="col-xl-3 col "   
                             id={e.libro} >
                             <div >
                                 <button  
                                 style={{backgroundColor: e.color ? e.color : 'blue'}}
-                                className="btn w-100 p-5 btn-lg text-white h1"  
-                                onClick={()=> openRelatos(i) } >{ e.libro }</button>
+                                className="btn w-100 px-5 py-3 btn-lg text-white h1"  
+                                onClick={()=> openRelatos(i) } >{ e.abreviatura }</button>
                             </div>
                         </div>
                     </React.Fragment>

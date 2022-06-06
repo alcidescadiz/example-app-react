@@ -1,6 +1,6 @@
 export default function Pie(){
     return (<>
-        <div className="container  text-center mx-5  my-3 " >
+        <div className="container  text-center  my-3 " >
             <h3 className="tex-center"><b>Fuente:</b></h3>
             <p className="tex-center">
                 Versión Biblia: Traducción del Nuevo Mundo (revisión del 2019) de los
