@@ -1,15 +1,14 @@
-import React from "react";
-import { useEffect, useState } from "react";
+import React, { useContext } from "react";
+import { useEffect } from "react";
 import { Link, useParams, useNavigate } from "react-router-dom";
 import { biblia, detalles} from "../data";
+import CheckedContext from "./checkedContex";
 
 export default function Relatos(){
     let { id, inicio, fin } = useParams();
-    let [check , setCheck] = useState([])
+    let {checkedList, setCheckedList, setTrueList} = useContext(CheckedContext)
 
     useEffect(()=>{
-        let checked = JSON.parse(localStorage.getItem('checked')) || []; 
-        setCheck(e =>  checked)
         console.log('hola')
         document.querySelector('#contenidoClick').addEventListener('click', ()=>{
             if (typeof(detalles[id].detalles) === 'string'){
@@ -23,9 +22,10 @@ export default function Relatos(){
     let navigate = useNavigate()
     function checklectura(event){
         let idc = event.target.name
-        check[idc]= !check[idc]
-        setCheck(e => check) 
-        localStorage.setItem( 'checked', JSON.stringify(check))
+        checkedList[idc]= !checkedList[idc]
+        setCheckedList(e => checkedList) 
+        setTrueList(((checkedList.filter(e => e=== true).length)*100/365).toFixed(2))
+        localStorage.setItem( 'checked', JSON.stringify(checkedList))
         navigate(`/relatos/${id}/${inicio}/${fin}`)
     }
     let relato = biblia.filter((e,i)=> i >= inicio && i <= fin)
@@ -55,7 +55,7 @@ export default function Relatos(){
                         <form>
                             <input  
                                 type="checkbox" 
-                                checked = {check[e.dia] ? check[e.dia] : false}  
+                                checked = {checkedList[e.dia] ? checkedList[e.dia] : false}  
                                 className="form-check-input " 
                                 name={e.dia} 
                                 onChange={(event)=> checklectura(event)} 
