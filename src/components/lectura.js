@@ -1,19 +1,13 @@
 import { Link, useParams } from "react-router-dom";
 import { biblia } from "../data";
-import {mas, menos} from "../utils/masmenos"
+import { Masomenos} from "../utils/masmenos"
 
 
 export default function Lectura(){
     let { id, idl, inicio, fin } = useParams();
     return (<>
             <div className="mt-5" id="textoBiblia">
-            <div 
-                className=" fixed-bottom my-1  text-center ">
-                <button 
-                    className="btn mx-1 btn-sm w-25 col btn-success" onClick={mas}>+</button >
-                <button 
-                    className="btn mx-1 btn-sm w-25 col btn-success" onClick={menos}>-</button>
-            </div>
+                <Masomenos color="success" />
                 <div className="container mt-1">
                     <Link className='navbar-brand' to={`/relatos/${idl}/${inicio}/${fin}`} >Volver</Link>
                 </div>

@@ -1,20 +1,12 @@
 import { Link, useParams } from "react-router-dom";
 import { commemoracion } from "../data";
-import {mas, menos} from "../utils/masmenos"
+import { Masomenos} from "../utils/masmenos"
 
 export default function LecturaConme(){
     let { id } = useParams();
     return (<>
             <div className="mt-5" id="textoBiblia">
-                <div 
-                    className=" fixed-bottom my-1  text-center ">
-                    <button 
-                        className="btn mx-1 btn-sm w-25 col h1 btn-warning" 
-                        onClick={mas}>+</button >
-                    <button 
-                        className="btn mx-1 btn-sm w-25 col h1 btn-warning" 
-                        onClick={menos}>-</button>
-                </div>
+                <Masomenos color="warning"/>
                 <div className="container">
                     <Link 
                         className='navbar-brand' 
