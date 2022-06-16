@@ -1,6 +1,7 @@
 import { Link, useParams } from "react-router-dom";
 import { commemoracion } from "../data";
 import { Masomenos} from "../utils/masmenos"
+import Cronometro from "./cronometro/Cronometro";
 
 export default function LecturaConme(){
     let { id } = useParams();
@@ -21,6 +22,7 @@ export default function LecturaConme(){
                         className='navbar-brand' 
                         to='/conmemoracion' >Volver</Link>
                 </div>
+                <Cronometro />
             </div>
     </>)
 }

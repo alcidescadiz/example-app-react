@@ -1,6 +1,7 @@
 import { Link, useParams } from "react-router-dom";
 import { biblia } from "../data";
 import { Masomenos} from "../utils/masmenos"
+import Cronometro from "./cronometro/Cronometro";
 
 
 export default function Lectura(){
@@ -18,7 +19,7 @@ export default function Lectura(){
                 <div className="container">
                     <Link className='navbar-brand' to={`/relatos/${idl}/${inicio}/${fin}`} >Volver</Link>
                 </div>
-
+                <Cronometro />
             </div>
     </>)
 }

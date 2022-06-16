@@ -13,7 +13,7 @@ export default function Conmemoracion(){
                         <p className="col-5 mx-1">{e.relato}</p>
                         <Link  
                             className='navbar-brand col-3 text-center' 
-                            to={`/lecturaconme/${i}`} >Leer</Link>
+                            to={`/conmemoracion/lecturaconme/${i}`} >Leer</Link>
                     </div>
                 </React.Fragment>))}
         </div>
