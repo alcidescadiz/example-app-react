@@ -1,9 +1,10 @@
-import React from "react";
+import React, { useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import { detalles } from "../data";
+import CheckedContext from "./checkedContex";
 
 export default function Libros(){
-
+    let {idioma} = useContext(CheckedContext)
     let navigate = useNavigate()
     function openRelatos(id){
         let {inicio, fin} = detalles[id]
@@ -12,8 +13,8 @@ export default function Libros(){
     return (
         <div className="container mt-5 ">
             <div className="row text-center mt-1">
-                <h1 className="display-3">Libros de la Biblia</h1>
-                { detalles.map((e,i) =>  (
+                <h1 className="display-3">{idioma.titulos.tituloBiblia}</h1>
+                { idioma.detalles.map((e,i) =>  (
                     <React.Fragment key={i+'div'}>
                         <div  
                             className="col-xl-3 col "   

@@ -1,17 +1,20 @@
+import { useContext } from "react";
+import CheckedContext from "../checkedContex";
+
 export default function Pie(){
+    let { idioma } = useContext(CheckedContext);
     return (<>
         <div className="container  text-center  my-5" >
-            <h3 className="tex-center"><b>Fuente:</b></h3>
+            <h3 className="tex-center"><b>{idioma.titulos.pie.fuente}</b></h3>
             <p className="tex-center">
-                Versión Biblia: Traducción del Nuevo Mundo (revisión del 2019) de los
-                Testigos de Jehová
+                {idioma.titulos.pie.version}
             </p>
-            <p>Todos los videos son propiedad de Jw.org</p>
-            <a className="tex-center" href="https://jw.org/es" target={"_blank" } rel="noreferrer">
-                www.jw.org/es</a>
+            <p>{idioma.titulos.pie.videos}</p>
+            <a className="tex-center" href={idioma.titulos.pie.jw} target={"_blank" } rel="noreferrer">
+                {idioma.titulos.pie.jw}</a>
             <br></br>
-            <a className="tex-center"  href="https://wol.jw.org/es" target={"_blank"} rel="noreferrer" >
-                Más información en Biblioteca en línea
+            <a className="tex-center"  href={idioma.titulos.pie.wol} target={"_blank"} rel="noreferrer" >
+                {idioma.titulos.pie.biblioteca}
             </a>
         </div>
     </>)

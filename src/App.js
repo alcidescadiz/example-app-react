@@ -13,13 +13,13 @@ import  {CheckedContextComponent} from './components/checkedContex/index'
 function App() {
   return (
       <HashRouter>
-              
-            <CheckedContextComponent><MenuApp /></CheckedContextComponent>
+            <CheckedContextComponent>
+              <MenuApp />
               <Routes>
                   <Route  path='/' >
                     <Route index element={<Libros  />} />
                     <Route path='lectura/:id/:idl/:inicio/:fin' element={<Lectura />} />
-                    <Route path='relatos/:id/:inicio/:fin' element={<CheckedContextComponent><Relatos /></CheckedContextComponent>} />
+                    <Route path='relatos/:id/:inicio/:fin' element={<Relatos />} />
                     <Route path='videos/:id/:idl/:inicio/:fin' element={<Videos />} />
                   </Route>
                   <Route path='/conmemoracion' >
@@ -28,8 +28,8 @@ function App() {
                   </Route> 
                   <Route path='*' element={<Libros  />} />
               </Routes>
-       
-            <Pie />
+              <Pie />
+            </CheckedContextComponent>
       </HashRouter>
   );
 }
