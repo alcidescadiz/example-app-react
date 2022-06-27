@@ -1,6 +1,6 @@
 {
   "name": "app-react",
-  "homepage": "https://alcidescadiz.github.io/lectura-diaria/",
+  "homepage": "https://alcidescadiz.github.io/example-app-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
