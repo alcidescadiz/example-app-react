@@ -1216,7 +1216,49 @@ Questi sono i capi delle case paterne dei leviti, secondo le loro famiglie.+
     dia: "21",
     relato: "Esodo 11-13",
     biblia: `
+    11 E Geova disse a Mosè: “Porterò ancora una piaga sul faraone e sull’Egitto. Dopo ciò lui vi manderà via di qui.+ E quando vi manderà via, letteralmente vi caccerà.+ 2 Ora parla a tutto il popolo e di’ che ogni uomo e ogni donna chieda al proprio vicino oggetti d’argento e d’oro”.+ 3 (Geova fece in modo che il popolo incontrasse il favore degli egiziani. Lo stesso Mosè era arrivato a godere di grande considerazione nel paese d’Egitto tra i servitori e il popolo del faraone.)
 
+    4 Mosè allora disse: “Geova ha detto questo: ‘Verso mezzanotte passerò per tutto l’Egitto,+ 5 e ogni primogenito nel paese d’Egitto morirà,+ dal primogenito del faraone che siede sul suo trono al primogenito della serva che lavora alla macina a mano, fino a ogni primogenito del bestiame.+ 6 In tutto il paese d’Egitto si leverà un grande grido, come non ce n’è mai stato prima e come non ce ne sarà più.+ 7 Ma nemmeno un cane abbaierà* agli israeliti, né agli uomini né ai loro animali, perché sappiate che Geova può fare una distinzione fra gli egiziani e gli israeliti’.+ 8 E tutti i tuoi servitori certamente verranno da me e si inchineranno davanti a me, dicendo: ‘Vattene, tu e tutto il popolo che ti segue’.+ Dopodiché me ne andrò”. Detto questo, pieno di collera, uscì dal cospetto del faraone.
+    
+    9 Geova disse poi a Mosè: “Il faraone non vi ascolterà,+ affinché i miei miracoli si moltiplichino nel paese d’Egitto”.+ 10 Mosè e Aronne compirono tutti questi miracoli davanti al faraone,+ ma Geova lasciò che il cuore del faraone diventasse ostinato, così che lui non mandò via gli israeliti dal suo paese.+
+    <br>
+    12 Geova disse ora a Mosè e ad Aronne nel paese d’Egitto: 2 “Questo mese sarà per voi il principio dei mesi: sarà per voi il primo dei mesi dell’anno.+ 3 Parla all’intera assemblea d’Israele, e di’ loro: ‘Il 10o giorno di questo mese, ciascuno prenda una pecora+ per la casa di suo padre, una pecora per casa. 4 Ma se la sua famiglia è troppo piccola per una pecora, allora lui e il suo vicino più prossimo la devono condividere in casa sua, in proporzione al numero delle persone.* Nel fare il calcolo, tenete conto di quanto ne mangerà ciascuno. 5 La pecora dev’essere un maschio sano+ di un anno; potete prendere un agnello o un capretto. 6 Dovete custodirla fino al 14o giorno di questo mese,+ e l’intera congregazione dell’assemblea d’Israele deve scannarla al crepuscolo.*+ 7 Devono prendere un po’ del sangue e spruzzarlo sui due stipiti e sull’architrave della porta delle case in cui la mangeranno.+
+
+8 “‘Devono mangiare la carne quella notte.+ Devono arrostirla sul fuoco e mangiarla con pane senza lievito+ ed erbe amare.+ 9 Non ne mangiate cruda o bollita, ma arrostita sul fuoco, testa insieme a zampe e interiora. 10 Non ne dovete lasciare nulla fino al mattino; ciò che rimane fino al mattino dev’essere bruciato nel fuoco.+ 11 E dovete mangiarla in questo modo: con i fianchi cinti, i sandali ai piedi e il bastone in mano; e dovete mangiarla in fretta. È la Pasqua* di Geova. 12 Infatti quella notte io passerò attraverso il paese d’Egitto e colpirò ogni primogenito nel paese d’Egitto, uomo o animale;+ ed eseguirò il giudizio su tutti gli dèi d’Egitto.+ Io sono Geova. 13 Il sangue fungerà da segno sulle case in cui sarete; e io vedrò il sangue e passerò oltre e, quando colpirò il paese d’Egitto, la piaga non verrà su di voi per distruggervi.+
+
+14 “‘Questo diventerà un giorno commemorativo, e dovrete celebrarlo come festa in onore di Geova di generazione in generazione. Dovrete celebrarlo in quanto decreto permanente. 15 Per sette giorni dovrete mangiare pane senza lievito.+ Il primo giorno dovrete eliminare dalle vostre case il lievito madre,* perché chiunque mangi ciò che è lievitato, dal primo al settimo giorno, quella persona* dovrà essere stroncata* di mezzo a Israele. 16 Il primo giorno terrete un santo congresso, e il settimo giorno un altro santo congresso. In questi giorni non si dovrà fare nessun lavoro.+ Si potrà preparare solo ciò che ognuno* di voi avrà bisogno di mangiare.
+
+17 “‘Dovrete osservare la Festa dei Pani Azzimi,*+ perché in questo stesso giorno io farò uscire le vostre schiere* dal paese d’Egitto. E dovrete osservare questo giorno di generazione in generazione in quanto decreto permanente. 18 Il 1o mese, dalla sera del 14o giorno dovrete mangiare pane senza lievito fino alla sera del 21o giorno del mese.+ 19 Per sette giorni non si dovrà trovare lievito madre nelle vostre case, perché chiunque mangi ciò che è lievitato, che sia uno straniero residente o un israelita,+ quella persona* dovrà essere stroncata* di mezzo all’assemblea d’Israele.+ 20 Non dovrete mangiare nulla di lievitato. In tutte le vostre case dovrete mangiare pane senza lievito’”.
+
+21 Mosè convocò prontamente tutti gli anziani d’Israele+ e disse loro: “Scegliete un giovane animale* per ognuna delle vostre famiglie e scannate il sacrificio pasquale. 22 Poi dovete intingere un mazzo d’issopo nel sangue raccolto in un catino e segnare con il sangue l’architrave e i due stipiti della porta; e nessuno di voi deve uscire dall’ingresso della sua casa fino al mattino. 23 Così, quando Geova passerà per colpire gli egiziani e vedrà il sangue sull’architrave e sui due stipiti della porta, Geova certamente passerà oltre l’ingresso e non permetterà che la piaga della morte* entri nelle vostre case.+
+
+24 “Dovete osservare questo evento come norma permanente per voi e per i vostri figli.+ 25 E quando sarete entrati nel paese che Geova vi darà, proprio come ha dichiarato, dovrete continuare a osservare questa celebrazione.+ 26 E quando i vostri figli vi chiederanno: ‘Che cosa significa per voi questa celebrazione?’,+ 27 dovrete dire: ‘È il sacrificio della Pasqua in onore di Geova, che passò oltre le case degli israeliti in Egitto quando colpì gli egiziani ma risparmiò le nostre case’”.
+
+Quindi il popolo si inginocchiò con il viso a terra. 28 Poi gli israeliti andarono e fecero proprio come Geova aveva comandato a Mosè e ad Aronne.+ Fecero proprio così.
+
+29 A mezzanotte Geova colpì ogni primogenito nel paese d’Egitto,+ dal primogenito del faraone che sedeva sul suo trono al primogenito di chi era in prigione,* a ogni primogenito degli animali.+ 30 Quella notte il faraone si alzò, e così pure tutti i suoi servitori e tutti gli altri egiziani, e si levò un grande grido fra gli egiziani, perché non c’era casa in cui non ci fosse un morto.+ 31 Subito, durante la notte, il faraone chiamò Mosè e Aronne+ e disse: “Alzatevi e andate via dal mio popolo, voi e gli altri israeliti. Andate a servire Geova, proprio come avete detto.+ 32 Prendete anche le vostre greggi e le vostre mandrie e andatevene, proprio come avete detto.+ Ma dovete anche benedirmi”.
+
+33 E gli egiziani cominciarono a sollecitare il popolo affinché se ne andasse in fretta+ dal paese, “perché”, dicevano, “rischiamo di morire tutti!”+ 34 Quindi il popolo portò con sé l’impasto prima che vi fosse aggiunto lievito, con le madie* avvolte nelle vesti sopra la spalla. 35 Gli israeliti fecero quello che Mosè aveva detto loro e chiesero agli egiziani oggetti d’argento e d’oro e indumenti.+ 36 Geova fece in modo che il popolo incontrasse il favore degli egiziani, così che questi diedero ciò che fu loro richiesto; e il popolo spogliò gli egiziani.+
+
+37 Poi gli israeliti partirono da Ràmses+ per Succòt:+ circa 600.000 uomini,* senza contare i bambini.+ 38 A loro si unì anche una numerosa folla mista;*+ portarono pure greggi e mandrie, una grandissima quantità di bestiame. 39 Fecero cuocere l’impasto che avevano portato dall’Egitto facendone pani a ciambella non lievitati. L’impasto non era lievitato, perché erano stati cacciati dall’Egitto così in fretta che non avevano potuto preparare per sé alcuna provvista.+
+
+40 Gli israeliti, che avevano dimorato in Egitto,+ avevano vissuto da forestieri per 430 anni.*+ 41 Alla fine dei 430 anni, in quello stesso giorno, tutte le schiere* di Geova uscirono dal paese d’Egitto. 42 È una notte in cui celebreranno la loro liberazione dal paese d’Egitto per mano di Geova. Questa notte dovrà essere osservata in onore di Geova da tutto il popolo d’Israele di generazione in generazione.+
+
+43 Geova disse poi a Mosè e ad Aronne: “Questo è il decreto riguardo alla Pasqua: nessuno straniero ne deve mangiare.+ 44 Ma se qualcuno ha uno schiavo che è stato acquistato con denaro, lo deve circoncidere.+ Solo allora questi potrà parteciparvi e mangiarne. 45 Il forestiero e il lavoratore salariato non ne devono mangiare. 46 Dev’essere mangiata in una sola casa. Non ne dovete portare la carne fuori dalla casa, e non dovete romperne alcun osso.+ 47 La deve celebrare tutta l’assemblea d’Israele. 48 Se uno straniero risiede con te e vuole celebrare la Pasqua in onore di Geova, ogni maschio che gli appartiene dovrà essere circonciso. Solo allora potrà avvicinarsi per celebrarla, e diventerà come un israelita. Ma nessun incirconciso deve mangiarne.+ 49 Per l’israelita e per lo straniero che risiede in mezzo a voi varrà un’unica legge”.+
+
+50 Pertanto tutti gli israeliti fecero proprio come Geova aveva comandato a Mosè e ad Aronne. Fecero proprio così. 51 Quello stesso giorno Geova fece uscire gli israeliti con le loro schiere* dal paese d’Egitto.
+<br>
+13 Geova disse ancora a Mosè: 2 “Consacrami* ogni primogenito maschio* tra gli israeliti: il primo maschio che nasce, sia fra gli uomini che fra gli animali, appartiene a me”.+
+
+3 Poi Mosè disse al popolo: “Ricordate questo giorno in cui siete usciti dall’Egitto,+ dalla casa di schiavitù, perché con mano potente Geova vi ha condotto fuori di qui.+ Perciò non si mangi nulla di lievitato. 4 Voi uscirete oggi, nel mese di avìv.*+ 5 Quando Geova ti avrà introdotto nel paese dei cananei, degli ittiti, degli amorrei, degli ivvei e dei gebusei,+ che giurò ai tuoi antenati di darti,+ un paese dove scorrono latte e miele,+ allora dovrai continuare a osservare questa celebrazione in questo mese. 6 Per sette giorni dovrai mangiare pane senza lievito,+ e il settimo giorno ci sarà una festa in onore di Geova. 7 Si dovrà mangiare pane senza lievito per sette giorni;+ non dev’esserci presso di te nulla di lievitato,+ e non dev’esserci lievito madre presso di te in tutto il tuo territorio.* 8 E quel giorno dovrai dire a tuo figlio: ‘Tutto questo è a motivo di ciò che Geova fece per me quando uscii dall’Egitto’.+ 9 E sarà per te un segno sulla mano e un memoriale* sulla fronte,*+ affinché la legge di Geova sia nella tua bocca, perché con mano potente Geova ti fece uscire dall’Egitto. 10 Dovrai osservare questo decreto di anno in anno al tempo stabilito.+
+
+11 “Quando Geova ti avrà introdotto nel paese dei cananei, che ha giurato a te e ai tuoi antenati di darvi,+ 12 dovrai riservare a Geova ogni primogenito maschio,* nonché ogni primo maschio che nasce fra gli animali in tuo possesso. I maschi appartengono a Geova.+ 13 Dovrai riscattare con una pecora ogni primogenito di asino, e se non lo riscatterai dovrai rompergli il collo. E dovrai riscattare ogni primogenito maschio fra i tuoi figli.+
+
+14 “Nel caso in cui un domani tuo figlio ti chieda: ‘Che cosa significa questo?’, allora dovrai dirgli: ‘Con mano potente Geova ci fece uscire dall’Egitto, dalla casa di schiavitù.+ 15 Quando il faraone si rifiutò ostinatamente di mandarci via,+ Geova uccise ogni primogenito nel paese d’Egitto, dal primogenito degli uomini al primogenito degli animali.+ Per questo io sacrifico a Geova tutti i primogeniti* maschi e riscatto ogni primogenito fra i miei figli’. 16 Questo sarà un segno sulla tua mano e una fascia* sulla tua fronte,*+ perché con mano potente Geova ci fece uscire dall’Egitto”.
+
+17 Ora, quando il faraone mandò via il popolo, Dio non lo condusse per la via che attraversava il paese dei filistei, sebbene fosse più breve. Dio infatti disse: “Di fronte alla prospettiva della guerra, il popolo potrebbe pentirsi e tornare in Egitto”. 18 Perciò Dio fece deviare il popolo per la via che attraversava il deserto del Mar Rosso.+ Gli israeliti salirono dal paese d’Egitto in formazione di battaglia. 19 Inoltre Mosè portò con sé le ossa di Giuseppe, perché questi aveva fatto giurare solennemente i figli d’Israele, dicendo: “Dio vi rivolgerà senz’altro la sua attenzione, e dovrete portare con voi le mie ossa via da qui”.+ 20 Partirono da Succòt e si accamparono a Ètham, ai margini del deserto.
+
+21 E Geova andava davanti a loro di giorno in una colonna di nuvola, per guidarli lungo il cammino,+ e di notte in una colonna di fuoco, per far loro luce, così che potessero viaggiare sia di giorno che di notte.+ 22 La colonna di nuvola non smetteva mai di precedere il popolo durante il giorno, né la colonna di fuoco durante la notte.+
         `,
   },
   {
@@ -1224,20 +1266,211 @@ Questi sono i capi delle case paterne dei leviti, secondo le loro famiglie.+
     relato: "Esodo 14-15",
     video: `https://download-a.akamaihd.net/files/media_publication/e1/jdp_S_r360P.mp4`,
     biblia: `
+    14 E Geova disse a Mosè: 2 “Di’ agli israeliti di tornare indietro e di accamparsi davanti a Piairòt, fra Mìgdol e il mare, in vista di Bàal-Zefòn.+ Vi accamperete lì di fronte, presso il mare. 3 A quel punto il faraone dirà degli israeliti: ‘Vagano per il paese in preda alla confusione. Il deserto li ha intrappolati’. 4 Lascerò che il cuore del faraone diventi ostinato,+ e lui li inseguirà e io mi glorificherò mediante il faraone e tutto il suo esercito;+ e gli egiziani certamente sapranno che io sono Geova”.+ Pertanto fecero così.
 
+    5 Fu poi riferito al re d’Egitto che il popolo era fuggito. Immediatamente il faraone e i suoi servitori cambiarono idea riguardo al popolo+ e dissero: “Perché abbiamo fatto una cosa del genere? Ora che lo abbiamo lasciato andare, Israele non ci servirà più come schiavo!” 6 Lui fece dunque preparare i suoi carri da guerra e prese con sé il suo popolo.+ 7 Prese 600 carri scelti e tutti gli altri carri dell’Egitto, con guerrieri su ognuno di essi. 8 Così Geova lasciò che il cuore del faraone, re d’Egitto, diventasse ostinato, e questi inseguì gli israeliti mentre loro uscivano a testa alta.*+ 9 Gli egiziani li inseguirono,+ e tutti i cavalli e i carri del faraone, i suoi cavalieri e il suo esercito li raggiunsero mentre erano accampati presso il mare, presso Piairòt, davanti a Bàal-Zefòn.
+    
+    10 Quando il faraone si fu avvicinato, gli israeliti alzarono lo sguardo e videro gli egiziani che li inseguivano; terrorizzati, cominciarono a implorare Geova.+ 11 E dicevano a Mosè: “Ci hai portato a morire qui nel deserto+ perché in Egitto non ci sono tombe? Che cosa ci hai fatto portandoci fuori dall’Egitto? 12 Non parlavamo proprio di questo quando in Egitto ti dicemmo di lasciarci servire in pace gli egiziani? Per noi è meglio servire gli egiziani che morire nel deserto!”+ 13 Allora Mosè rispose al popolo: “Non abbiate paura.+ Restate saldi e vedete la salvezza che oggi Geova opererà per voi.+ Gli egiziani che vedete oggi, infatti, non li vedrete mai più.+ 14 Geova stesso combatterà per voi,+ e voi starete fermi”.*
+    
+    15 Geova disse allora a Mosè: “Perché continui a invocare il mio aiuto? Di’ agli israeliti di levare l’accampamento. 16 Quanto a te, alza il tuo bastone, stendi la mano sul mare e dividilo, affinché gli israeliti attraversino il mare sull’asciutto. 17 Io, da parte mia, lascerò che il cuore degli egiziani diventi ostinato, perché li inseguano; così mi glorificherò mediante il faraone e tutto il suo esercito, i suoi carri da guerra e i suoi cavalieri.+ 18 E gli egiziani certamente sapranno che io sono Geova quando mi glorificherò mediante il faraone, i suoi carri da guerra e i suoi cavalieri”.+
+    
+    19 Quindi l’angelo del vero Dio+ che andava davanti agli israeliti si spostò e si mise dietro di loro, e la colonna di nuvola che stava davanti a loro si spostò e si fermò dietro di loro.+ 20 Si posizionò dunque fra gli egiziani e gli israeliti.+ Da una parte essa era una nuvola scura, dall’altra illuminava la notte.+ E per tutta la notte un gruppo non si avvicinò all’altro.
+    
+    21 Mosè stese la mano sul mare;+ e per tutta la notte Geova fece indietreggiare il mare con un forte vento orientale, trasformandone il fondo in suolo asciutto,+ e le acque si divisero.+ 22 Quindi gli israeliti passarono attraverso il mare sull’asciutto,+ mentre le acque formavano un muro alla loro destra e alla loro sinistra.+ 23 Gli egiziani li inseguirono: tutti i cavalli del faraone, i suoi carri da guerra e i suoi cavalieri si lanciarono nel mezzo del mare dietro a loro.+ 24 Durante la veglia del mattino* Geova guardò l’esercito degli egiziani da dentro la colonna di fuoco e di nuvola,+ e lo gettò in confusione. 25 Fece sì che le ruote dei carri si staccassero, così che gli egiziani avevano difficoltà a guidarli e dicevano: “Fuggiamo via dagli israeliti, perché Geova combatte per loro contro gli egiziani!”+
+    
+    26 Allora Geova disse a Mosè: “Stendi la mano sul mare, così che le acque si richiudano sugli egiziani, sui loro carri da guerra e sui loro cavalieri”. 27 Immediatamente Mosè stese la mano sul mare e, sul far del mattino, esso tornò com’era prima.* Mentre gli egiziani in fuga cercavano di scampare alle acque, Geova li travolse in mezzo al mare.+ 28 Richiudendosi, le acque sommersero i carri da guerra, i cavalieri e tutto l’esercito del faraone che si era lanciato nel mare dietro agli israeliti.+ Non sopravvisse nemmeno uno di loro.+
+    
+    29 Gli israeliti, invece, camminarono sull’asciutto nel mezzo del fondo marino;+ le acque formavano un muro a destra e a sinistra.+ 30 Così quel giorno Geova salvò Israele dalla mano degli egiziani,+ e Israele vide i cadaveri degli egiziani sulla riva del mare. 31 E Israele vide l’enorme potenza* che Geova aveva dimostrato contro gli egiziani; e il popolo ebbe timore di Geova, e ripose fede in Geova e nel suo servitore Mosè.+
+    <br>
+    te, arginando i flutti;
+
+le acque impetuose si sono rapprese nel cuore del mare.
+
+ 9 Il nemico aveva detto: ‘Li inseguirò! Li raggiungerò!
+
+Spartirò il bottino fino a esserne sazio!
+
+Sfodererò la spada! La mia mano li sottometterà!’+
+
+10 Hai soffiato con il tuo alito, e il mare li ha sommersi;+
+
+sono affondati come piombo nelle possenti acque.
+
+11 Chi fra gli dèi è come te, o Geova?+
+
+Chi è come te, che ti dimostri eccelso in santità,+
+
+che sei da riverire con canti di lode, che fai meraviglie?+
+
+12 Hai steso la tua destra, e la terra li ha inghiottiti.+
+
+13 Nel tuo amore leale hai guidato il popolo che hai riscattato;+
+
+nella tua forza li condurrai alla tua santa dimora.
+
+14 I popoli devono udire,+ e tremeranno;
+
+gli abitanti della Filistèa saranno in preda all’angoscia.*
+
+15 Allora i capi* di Èdom saranno sgomenti,
+
+e tremore prenderà i potenti* di Mòab.+
+
+Tutti gli abitanti di Cànaan si perderanno d’animo.+
+
+16 Paura e terrore si abbatteranno su di loro.+
+
+Davanti alla potenza del tuo braccio saranno immobili come pietre,
+
+finché non sarà passato il tuo popolo, o Geova,
+
+finché non sarà passato il popolo+ che hai generato.+
+
+17 Lo condurrai e lo pianterai sul monte della tua eredità,+
+
+il luogo che hai preparato per dimorarvi tu stesso, o Geova,
+
+un santuario, o Geova, che le tue mani hanno fondato.
+
+18 Geova regnerà per sempre, per l’eternità.+
+
+19 Quando i cavalli del faraone con i carri da guerra e i cavalieri entrarono nel mare,+
+
+Geova fece richiudere le acque su di loro,+
+
+ma il popolo d’Israele camminò sull’asciutto nel mezzo del mare”.+
+
+20 Allora la profetessa Miriam, sorella di Aronne, prese in mano un tamburello, e tutte le donne la seguirono suonando i tamburelli e danzando. 21 E Miriam cantò in risposta agli uomini:
+
+“Cantate a Geova, perché grande è divenuta la sua gloria.+
+
+Ha gettato in mare cavallo e cavaliere”.+
+
+22 In seguito Mosè fece partire Israele dal Mar Rosso; si diressero verso il deserto di Sur e camminarono per tre giorni nel deserto, ma non trovarono acqua. 23 Arrivati a Mara,*+ non poterono berne l’acqua perché era amara. Per questo chiamarono quel luogo Mara. 24 Quindi il popolo cominciò a mormorare contro Mosè,+ dicendo: “Che cosa berremo?” 25 Lui implorò Geova,+ e Geova lo diresse verso un arbusto. Quando Mosè lo gettò nell’acqua, l’acqua divenne dolce.
+
+Là Dio stabilì per loro una norma e un precedente legale, e là li mise alla prova.+ 26 Disse: “Se ascolterai scrupolosamente la voce di Geova tuo Dio, se farai ciò che è giusto ai suoi occhi, se presterai attenzione ai suoi comandamenti e osserverai tutte le sue norme,+ non ti colpirò con nessuna delle malattie con cui ho colpito gli egiziani,+ perché io, Geova, ti guarisco”.+
+
+27 Dopo ciò raggiunsero Elìm, dove c’erano 12 sorgenti d’acqua e 70 palme. Così si accamparono là, presso l’acqua.
         `,
   },
   {
     dia: "23",
     relato: "Esodo 16-18",
     biblia: `
+    16 L’intera assemblea degli israeliti partì da Elìm e, il 15o giorno del 2o mese da che aveva lasciato il paese d’Egitto, arrivò nel deserto di Sin,+ che è fra Elìm e il Sinai.
 
+    2 Nel deserto l’intera assemblea degli israeliti cominciò a mormorare contro Mosè e Aronne.+ 3 Gli israeliti dicevano loro: “Fossimo morti per mano di Geova nel paese d’Egitto, quando stavamo seduti accanto alle pentole di carne+ e mangiavamo pane a sazietà! Voi invece ci avete portato in questo deserto per far morire di fame tutta questa congregazione”.+
+    
+    4 Allora Geova disse a Mosè: “Ecco, vi farò piovere pane dal cielo,+ e ciascuno dovrà uscire a raccoglierne la quantità necessaria giorno per giorno;+ così metterò il popolo alla prova per vedere se cammina nella mia legge o no.+ 5 Ma il sesto giorno,+ quando prepareranno ciò che avranno raccolto, dovrà essere il doppio di quanto raccolgono gli altri giorni”.+
+    
+    6 Mosè e Aronne dissero dunque a tutti gli israeliti: “Questa sera* certamente saprete che è stato Geova a farvi uscire dal paese d’Egitto.+ 7 Domani mattina* vedrete la gloria di Geova, perché Geova ha udito i vostri mormorii contro di lui. Ma noi chi siamo perché mormoriate contro di noi?” 8 Mosè continuò: “Quando Geova vi darà carne da mangiare la sera e pane a sazietà la mattina, vedrete che Geova ha udito i vostri mormorii contro di lui. Ma noi chi siamo? I vostri mormorii non sono contro di noi, sono contro Geova”.+
+    
+    9 Poi Mosè disse ad Aronne: “Di’ all’intera assemblea degli israeliti: ‘Presentatevi davanti a Geova, perché egli ha udito i vostri mormorii’”.+ 10 Appena Aronne ebbe parlato all’intera assemblea degli israeliti, questi si voltarono verso il deserto, ed ecco che la gloria di Geova apparve nella nuvola.+
+    
+    11 E Geova disse a Mosè: 12 “Ho udito i mormorii degli israeliti.+ Di’ loro: ‘Al crepuscolo* mangerete carne e la mattina vi sazierete di pane,+ e certamente saprete che io sono Geova vostro Dio’”.+
+    
+    13 Pertanto quella sera arrivarono le quaglie e coprirono l’accampamento,+ e la mattina c’era uno strato di rugiada tutt’intorno all’accampamento. 14 Quando lo strato di rugiada evaporò, sulla superficie del deserto c’era qualcosa di fine e friabile,+ fine come la brina sul terreno. 15 Vedendolo e non sapendo cosa fosse, gli israeliti cominciarono a chiedersi l’un l’altro: “Che cos’è?” Mosè disse loro: “È il pane che Geova vi ha dato come cibo.+ 16 Questo è ciò che Geova ha comandato: ‘Ciascuno ne raccolga in proporzione a quanto ne mangia. Dovete prenderne un òmer*+ a testa, secondo il numero di persone* che ognuno di voi ha nella sua tenda’”. 17 Gli israeliti cominciarono a fare così e lo raccolsero, alcuni molto e altri poco. 18 Quando lo misuravano con l’òmer, a chi ne aveva raccolto molto non ne avanzava e a chi ne aveva raccolto poco non ne mancava.+ Ciascuno ne raccolse in proporzione a quanto ne mangiava.
+    
+    19 Quindi Mosè disse loro: “Nessuno ne conservi fino al mattino”.+ 20 Ma non ascoltarono Mosè. Quando alcuni ne conservarono fino al mattino, fece i vermi e cominciò a puzzare, e Mosè si adirò contro di loro. 21 Lo raccoglievano di mattina in mattina, ciascuno in proporzione a quanto ne mangiava. Quando il sole si faceva caldo, si scioglieva.
+    
+    22 Il sesto giorno raccolsero il doppio del pane,+ 2 òmer a persona. Tutti i capi dell’assemblea andarono dunque a riferirlo a Mosè. 23 Lui disse loro: “È quello che ha detto Geova. Domani ci sarà un completo riposo,* un santo Sabato in onore di Geova.+ Cuocete ciò che dovete cuocere e bollite ciò che dovete bollire;+ poi conservate tutto quello che avanza e tenetelo fino al mattino”. 24 Così lo conservarono fino al mattino, proprio come Mosè aveva comandato, e non puzzò né fece i vermi. 25 Quindi Mosè disse: “Mangiatelo oggi, perché oggi è un Sabato in onore di Geova. Oggi non lo troverete sul terreno. 26 Lo raccoglierete per sei giorni, ma il settimo giorno, il Sabato,+ non ce ne sarà”. 27 Ciò nonostante, il settimo giorno alcuni tra il popolo andarono a raccoglierlo, ma non ne trovarono.
+    
+    28 Perciò Geova disse a Mosè: “Per quanto tempo ancora rifiuterete di osservare i miei comandamenti e le mie leggi?+ 29 Non dimenticate che Geova vi ha dato il Sabato.+ Per questo il sesto giorno vi dà il pane per due giorni. Ognuno deve rimanere dov’è; il settimo giorno nessuno deve lasciare il luogo in cui si trova”. 30 Così il settimo giorno il popolo osservò il Sabato.*+
+    
+    31 La casa d’Israele chiamò il pane “manna”.* Era come il seme di coriandolo, bianco, e aveva il sapore delle focacce al miele.+ 32 Quindi Mosè disse: “Questo è ciò che Geova ha comandato: ‘Raccoglietene un òmer da conservare di generazione in generazione,+ in modo che vedano il pane che vi ho dato da mangiare nel deserto quando vi ho fatto uscire dal paese d’Egitto’”. 33 Mosè disse dunque ad Aronne: “Prendi una giara, riempila con un òmer di manna e ponila davanti a Geova perché sia conservata di generazione in generazione”.+ 34 Proprio come Geova aveva comandato a Mosè, Aronne la pose davanti alla Testimonianza+ perché fosse conservata. 35 E gli israeliti mangiarono la manna per 40 anni,+ finché giunsero in una regione abitata.+ Mangiarono la manna finché giunsero alla frontiera del paese di Cànaan.+ 36 Per inciso, un òmer è un decimo di efa.*
+    <br>
+    17 L’intera assemblea degli israeliti lasciò il deserto di Sin+ viaggiando a tappe secondo l’ordine di Geova,+ e si accampò a Refidìm.+ Ma per il popolo non c’era acqua da bere.
+
+2 Così il popolo attaccò lite con Mosè+ e disse: “Dacci acqua da bere”. Ma Mosè rispose loro: “Perché attaccate lite con me? Perché continuate a mettere Geova alla prova?”+ 3 Ma in quel luogo il popolo aveva molta sete e continuava a mormorare contro Mosè,+ dicendo: “Perché ci hai portato fuori dall’Egitto? Per far morire di sete noi, i nostri figli e il nostro bestiame?” 4 Alla fine Mosè, implorando Geova, disse: “Che cosa devo fare con questo popolo? Ancora un po’ e mi lapiderà!”
+
+5 Allora Geova disse a Mosè: “Mettiti alla testa del popolo, prendendo con te alcuni anziani d’Israele e il bastone con cui colpisti il Nilo.+ Prendilo in mano e incamminati. 6 Ecco, io starò davanti a te, là sulla roccia in Hòreb. Colpirai la roccia e ne uscirà acqua, e il popolo la berrà”.+ Mosè fece così davanti agli occhi degli anziani d’Israele. 7 Pertanto chiamò quel luogo Massa*+ e Merìba*+ perché gli israeliti avevano attaccato lite e avevano messo Geova alla prova+ dicendo: “Geova è in mezzo a noi o no?”
+
+8 In seguito gli amalechiti+ vennero a Refidìm a far guerra a Israele.+ 9 A ciò Mosè disse a Giosuè:+ “Scegli per noi degli uomini e va’ a combattere contro gli amalechiti. Domani io starò in cima al colle, con il bastone del vero Dio in mano”. 10 Quindi Giosuè fece proprio come Mosè gli aveva detto+ e combatté contro gli amalechiti, mentre Mosè, Aronne e Hur+ salirono in cima al colle.
+
+11 Finché Mosè teneva in alto le mani, gli israeliti avevano la meglio; ma appena le abbassava, avevano la meglio gli amalechiti. 12 Quando le mani di Mosè si fecero pesanti, presero una pietra e lo fecero sedere su di essa. Poi Aronne e Hur gli sostennero le mani, uno da una parte e uno dall’altra; così le sue mani rimasero ferme fino al tramonto del sole. 13 In tal modo Giosuè sconfisse Àmalec e il suo popolo con la spada.+
+
+14 Geova disse quindi a Mosè: “Scrivi queste parole nel libro perché siano ricordate* e ripetile a Giosuè: ‘Cancellerò completamente il ricordo di Àmalec sotto il cielo’”.+ 15 Poi Mosè eresse un altare e lo chiamò Geova-Nissi,* 16 dicendo: “Dato che la mano di Àmalec è contro il trono di Iah,+ Geova sarà in guerra con lui di generazione in generazione”.+
+<br>
+18 Ietro, sacerdote di Màdian e suocero di Mosè,+ venne a sapere tutto ciò che Dio aveva fatto per Mosè e per il suo popolo Israele, e come Geova aveva fatto uscire Israele dall’Egitto.+ 2 Ietro, suocero di Mosè, aveva ripreso con sé Zìppora, moglie di Mosè, quando era stata rimandata da lui, 3 insieme ai due figli di lei.+ Uno si chiamava Ghèrsom,*+ perché Mosè aveva detto: “Sono diventato un forestiero che risiede in un paese straniero”. 4 L’altro si chiamava Elièzer,* perché Mosè aveva detto: “L’Iddio di mio padre è il mio aiuto, colui che mi ha liberato dalla spada del faraone”.+
+
+5 Così Ietro, suocero di Mosè, andò da Mosè insieme ai figli e alla moglie di lui nel deserto dove era accampato, presso il monte del vero Dio.+ 6 Quindi mandò a dire a Mosè: “Io, tuo suocero Ietro,+ sto venendo da te insieme a tua moglie e ai suoi due figli”. 7 Immediatamente Mosè andò incontro al suocero, si inchinò e lo baciò. Ciascuno chiese all’altro come stava, dopodiché entrarono nella tenda.
+
+8 Mosè raccontò al suocero di tutto ciò che Geova aveva fatto al faraone e all’Egitto per Israele,+ di tutte le difficoltà che avevano incontrato lungo il cammino+ e di come Geova li aveva liberati. 9 Ietro si rallegrò per tutto il bene che Geova aveva fatto a Israele liberandolo dall’Egitto.* 10 Poi disse: “Sia lodato Geova, che vi ha liberato dall’Egitto e dal faraone e che ha liberato il popolo dal dominio egiziano! 11 Ora so che Geova è più grande di tutti gli altri dèi,+ visto ciò che ha fatto a coloro che hanno agito con arroganza contro il suo popolo”. 12 Quindi Ietro, suocero di Mosè, portò un olocausto e sacrifici da offrire a Dio; e Aronne e tutti gli anziani d’Israele vennero a consumare un pasto con il suocero di Mosè alla presenza del vero Dio.
+
+13 Il giorno dopo, come di consueto, Mosè si sedette per fare da giudice per il popolo, e il popolo stava davanti a lui dalla mattina alla sera. 14 Quando il suocero vide tutto ciò che Mosè faceva per il popolo, disse: “Che cos’è questo che fai per il popolo? Perché siedi qui da solo, con tutto il popolo che sta davanti a te dalla mattina alla sera?” 15 Mosè rispose al suocero: “Perché il popolo continua a venire da me per consultare Dio. 16 Quando sorge una questione, viene presentata a me; io giudico fra una persona e l’altra, e rendo note le decisioni del vero Dio e le sue leggi”.+
+
+17 Il suocero gli disse: “Quello che fai non va bene. 18 Sicuramente ti esaurirai, tu e questo popolo con te, perché questo è un carico troppo pesante per te e non puoi portarlo da solo. 19 Ora ascoltami: ti do un consiglio, e Dio sarà con te.+ Tu rappresenta il popolo davanti al vero Dio+ e sottoponi le questioni al vero Dio.+ 20 Comunicherai loro le decisioni e le leggi,+ e indicherai loro la via nella quale devono camminare e ciò che devono fare. 21 Devi però scegliere tra il popolo uomini capaci+ che temono Dio, uomini fidati che odiano il guadagno disonesto;+ costituiscili su di loro come capi di migliaia, capi di centinaia, capi di cinquantine e capi di decine.+ 22 Giudicheranno il popolo quando sorgono questioni;* ogni caso difficile lo sottoporranno a te,+ mentre i casi di minore entità li giudicheranno loro stessi. Semplificati le cose facendoti aiutare da loro a portare il carico.+ 23 Se fai così e Dio te lo comanda, riuscirai a sopportare la fatica, e ognuno tornerà alla propria dimora soddisfatto”.
+
+24 Mosè ascoltò subito il suocero e fece tutto ciò che gli aveva detto. 25 Scelse fra tutto Israele uomini capaci e li costituì come capi sul popolo: capi di migliaia, capi di centinaia, capi di cinquantine e capi di decine. 26 Così questi giudicavano il popolo quando sorgevano questioni. I casi difficili li sottoponevano a Mosè,+ mentre quelli di minore entità li giudicavano loro stessi. 27 Dopo ciò Mosè salutò il suocero,+ e questi tornò nel suo paese.
         `,
   },
   {
     dia: "24",
     relato: "Esodo 19-21",
     biblia: `
+    19 Il terzo mese da che erano usciti dal paese d’Egitto, nello stesso giorno, gli israeliti giunsero nel deserto del Sinai. 2 Partiti da Refidìm,+ arrivarono nel deserto del Sinai e si accamparono nel deserto. Israele si accampò davanti al monte.+
+
+    3 Poi Mosè salì dal vero Dio. Geova lo chiamò dal monte+ e disse: “Questo è ciò che dirai alla casa di Giacobbe, agli israeliti: 4 ‘Voi stessi avete visto quello che ho fatto agli egiziani+ per portarvi su ali d’aquila e condurvi da me.+ 5 Ora, se ubbidirete scrupolosamente alla mia voce e rispetterete il mio patto, diventerete fra tutti i popoli la mia speciale* proprietà;+ l’intera terra infatti appartiene a me.+ 6 Voi diventerete per me un regno di sacerdoti e una nazione santa’.+ Queste sono le parole che devi dire agli israeliti”.
+    
+    7 Così Mosè andò e convocò gli anziani del popolo, e riferì loro tutte le parole che Geova gli aveva comandato di dire.+ 8 Allora tutto il popolo rispose unanime: “Siamo pronti a fare tutto quello che Geova ha detto”.+ E Mosè riportò immediatamente a Geova la risposta del popolo. 9 E Geova disse a Mosè: “Ecco, verrò da te in una densa nuvola, così che il popolo oda quando ti parlerò e presti sempre fede anche a te”. Quindi Mosè riferì a Geova le parole del popolo.
+    
+    10 Poi Geova disse a Mosè: “Va’ dal popolo e santificalo oggi e domani, e devono lavarsi gli indumenti. 11 Devono tenersi pronti per il terzo giorno, perché il terzo giorno Geova scenderà sul monte Sinai davanti agli occhi di tutto il popolo. 12 Devi fissare un limite per il popolo tutt’intorno al monte e dire: ‘Guardatevi dal salire sul monte o dal toccarne le pendici. Chiunque toccherà il monte sarà sicuramente messo a morte. 13 Nessuna mano dovrà toccare il trasgressore; questi sarà lapidato o trafitto.* Che sia un animale o un uomo, non vivrà’.+ Al suono del corno di montone+ essi potranno avvicinarsi al monte”.
+    
+    14 Quindi Mosè scese dal monte e iniziò a santificare il popolo, ed essi lavarono i loro indumenti.+ 15 Lui disse al popolo: “Preparatevi per il terzo giorno. Astenetevi dai rapporti sessuali”.*
+    
+    16 La mattina del terzo giorno ci furono tuoni e lampi, e una densa nuvola+ sul monte e un fortissimo suono di corno; e tutto il popolo nell’accampamento cominciò a tremare.+ 17 Allora Mosè fece uscire il popolo dall’accampamento per condurlo incontro al vero Dio, e si fermarono ai piedi del monte. 18 Il monte Sinai fumava tutto, perché Geova era sceso su di esso nel fuoco;+ e il fumo saliva come il fumo di una fornace, e l’intero monte tremava violentemente.+ 19 Mentre il suono del corno si faceva sempre più forte, Mosè parlava e la voce del vero Dio gli rispondeva.
+    
+    20 Geova scese dunque sul monte Sinai, sulla cima del monte. Quindi Geova chiamò Mosè in cima al monte, e Mosè salì.+ 21 Geova disse a Mosè: “Scendi ad avvertire il popolo di non cercare di farsi strada a forza per vedere Geova, altrimenti molti di loro moriranno. 22 E i sacerdoti che si accostano regolarmente a Geova si santifichino, perché Geova non li colpisca”.+ 23 Mosè rispose a Geova: “Il popolo non può salire sul monte Sinai, perché tu stesso ci hai già avvertito quando hai detto: ‘Fissa un limite intorno al monte e rendilo sacro’”.+ 24 Tuttavia Geova gli disse: “Va’, scendi, poi risali insieme ad Aronne; ma i sacerdoti e il popolo non si facciano strada a forza per salire da Geova, affinché egli non li colpisca”.+ 25 Pertanto Mosè scese dal popolo e glielo disse.
+    <br>
+    20 Allora Dio pronunciò tutte queste parole:+
+
+2 “Io sono Geova tuo Dio, colui che ti ha fatto uscire dal paese d’Egitto, dalla casa di schiavitù.+ 3 Non devi avere altri dèi all’infuori di me.*+
+
+4 “Non devi farti immagine scolpita né rappresentazione di nessuna cosa che è nei cieli di sopra o sulla terra di sotto o nelle acque sotto la terra.+ 5 Non devi inchinarti davanti a esse né lasciarti indurre a servirle,+ perché io, Geova tuo Dio, sono un Dio che richiede devozione esclusiva+ e che infligge la punizione per l’errore dei padri ai figli, ai nipoti e ai pronipoti* di quelli che mi odiano, 6 ma che mostra amore leale fino alla millesima generazione di quelli che mi amano e osservano i miei comandamenti.+
+
+7 “Non devi usare il nome di Geova tuo Dio in modo indegno,+ perché Geova non lascerà impunito chi usa il suo nome in modo indegno.+
+
+8 “Ricorda il giorno del Sabato considerandolo sacro.+ 9 Per sei giorni lavorerai e svolgerai tutte le tue attività,+ 10 ma il settimo giorno è un Sabato in onore di Geova tuo Dio. Non devi fare nessun lavoro, né tu né tuo figlio né tua figlia né il tuo schiavo né la tua schiava né il tuo animale domestico né lo straniero che risiede nelle tue città.*+ 11 Infatti in sei giorni Geova fece i cieli e la terra, il mare e tutto ciò che è in essi, e il settimo giorno iniziò a riposarsi.+ Per questo Geova benedisse il giorno del Sabato e lo santificò.
+
+12 “Onora tuo padre e tua madre,+ così da vivere a lungo nel paese che Geova tuo Dio sta per darti.+
+
+13 “Non devi assassinare.+
+
+14 “Non devi commettere adulterio.+
+
+15 “Non devi rubare.+
+
+16 “Non devi attestare il falso nel testimoniare contro il tuo prossimo.+
+
+17 “Non devi desiderare la casa del tuo prossimo. Non devi desiderare la moglie del tuo prossimo+ né il suo schiavo né la sua schiava né il suo toro né il suo asino né alcuna cosa che appartiene al tuo prossimo”.+
+
+18 Ora tutto il popolo vide e sentì i tuoni, lo sfolgorio dei lampi, il suono del corno e il monte fumante. E a quella vista tremavano e se ne stavano a distanza.+ 19 Quindi dissero a Mosè: “Parla tu con noi, e noi ascolteremo; ma non sia Dio a parlare con noi, altrimenti moriremo”.+ 20 Mosè disse dunque al popolo: “Non abbiate paura, perché il vero Dio è venuto per mettervi alla prova,+ affinché continuiate ad aver timore di lui e non pecchiate”.+ 21 Così il popolo si tenne a distanza, mentre Mosè si accostò alla nuvola scura dov’era il vero Dio.+
+
+22 Allora Geova disse a Mosè: “Questo è ciò che dirai agli israeliti: ‘Voi stessi avete visto che vi ho parlato dai cieli.+ 23 Non dovete farvi divinità d’argento per adorarle come adorate me, e non dovete farvi divinità d’oro.+ 24 Mi erigerai un altare di terra e vi sacrificherai i tuoi olocausti, i tuoi sacrifici di comunione,* il tuo gregge e la tua mandria. In ogni luogo in cui farò ricordare il mio nome+ verrò da te e ti benedirò. 25 Se mi erigi un altare di pietre non devi usare pietre tagliate,+ perché se adoperi su di esso lo scalpello lo profani. 26 E non devi salire al mio altare mediante gradini, affinché su di esso non si scoprano le tue parti intime’.*
+<br>
+21 “Queste sono le decisioni giudiziarie che devi trasmettere loro:+
+
+2 “Se acquisti uno schiavo ebreo,+ ti servirà come schiavo per sei anni, ma nel settimo anno sarà libero di andarsene senza dover pagare nulla.+ 3 Se è venuto da solo, se ne andrà da solo. Se era sposato, sua moglie andrà con lui. 4 Se il suo padrone gli dà una moglie e lei gli partorisce dei figli o delle figlie, la moglie e i figli avuti da lei diventeranno del padrone, e lui se ne andrà da solo.+ 5 Ma se lo schiavo insiste nel dire: ‘Amo il mio padrone, mia moglie e i miei figli, e non voglio essere liberato’,+ 6 il suo padrone deve portarlo davanti al vero Dio. Quindi lo farà accostare alla porta o allo stipite e gli forerà l’orecchio con un punteruolo, e lui sarà suo schiavo per tutta la vita.
+
+7 “Se un uomo vende sua figlia come schiava, questa non sarà liberata nello stesso modo di uno schiavo maschio. 8 Se il suo padrone decide di non farne più la sua concubina perché non gli piace, ma la fa riscattare da qualcun altro, non avrà il diritto di venderla a stranieri, perché l’ha trattata slealmente. 9 Se la prende per darla a suo figlio, deve garantirle i diritti che spettano a una figlia. 10 Se lui prende per sé un’altra moglie, non dovrà ridurre alla prima cibo, vestiario e ciò che le spetta in ambito coniugale.+ 11 Se non le garantirà queste tre cose, lei diventerà libera senza dover pagare nulla.
+
+12 “Chiunque colpisca mortalmente un uomo dev’essere messo a morte.+ 13 Ma se non lo fa intenzionalmente e il vero Dio lascia che accada, io ti designerò un luogo in cui possa fuggire.+ 14 Se un uomo si infuria contro il suo prossimo e lo uccide intenzionalmente,+ devi metterlo a morte anche se dovesse rifugiarsi vicino al mio altare.+ 15 Chi colpisce il proprio padre o la propria madre dev’essere messo a morte.+
+
+16 “Se qualcuno rapisce un uomo+ e lo vende, o viene trovato mentre lo tiene prigioniero,+ dev’essere messo a morte.+
+
+17 “Chiunque maledica* suo padre o sua madre dev’essere messo a morte.+
+
+18 “Questo è ciò che si dovrà fare se degli uomini si mettono a litigare e uno di loro colpisce il suo prossimo con una pietra o un pugno,* non al punto di ucciderlo ma costringendolo a letto. 19 Se questi sarà in grado di alzarsi e di uscire camminando con l’aiuto di un bastone, allora chi l’ha colpito sarà esente dalla punizione. Dovrà solo dare un risarcimento corrispondente al tempo in cui l’uomo ferito non ha potuto lavorare, finché non è completamente guarito.
+
+20 “Se un uomo colpisce con un bastone il suo schiavo, o la sua schiava, al punto di ucciderlo, lo schiavo dev’essere vendicato;+ 21 ma se sopravvive per uno o due giorni, non dev’essere vendicato, perché è stato comprato con il denaro del suo padrone.
+
+22 “Se lottando tra di loro degli uomini urtano una donna incinta e lei partorisce prematuramente*+ ma non ci sono conseguenze fatali,* il responsabile dovrà pagare i danni secondo quanto gli imporrà il marito della donna; e dovrà pagare tramite i giudici.+ 23 Ma se ci sono conseguenze fatali, allora devi dare vita per vita,*+ 24 occhio per occhio, dente per dente, mano per mano, piede per piede,+ 25 bruciatura per bruciatura, ferita per ferita, colpo per colpo.
+
+26 “Se un uomo colpisce l’occhio del suo schiavo, o della sua schiava, e glielo danneggia irreparabilmente, come risarcimento per l’occhio deve liberarlo.+ 27 E se fa cadere un dente al suo schiavo, o alla sua schiava, come risarcimento per il dente deve liberarlo.
+
+28 “Se un toro incorna mortalmente un uomo o una donna, sarà lapidato+ e non se ne dovrà mangiare la carne, ma il suo proprietario sarà esente dalla punizione. 29 Invece, nel caso di un toro che ha l’abitudine di cozzare e il cui proprietario, pur essendo stato avvisato, non lo tiene sotto custodia, se quel toro uccide un uomo o una donna dev’essere lapidato, e anche il proprietario dev’essere messo a morte. 30 Se a questi viene imposto un riscatto* da pagare, deve dare come prezzo di riscatto per la sua vita* tutto ciò che gli si imponga. 31 Che il toro abbia incornato un figlio o una figlia, al suo proprietario si dovrà applicare questa decisione giudiziaria. 32 Se il toro ha incornato uno schiavo, o una schiava, lui verserà 30 sicli* al padrone dello schiavo, e il toro sarà lapidato.
+
+33 “Se un uomo scoperchia una fossa o la scava lui stesso e non la copre, e un toro o un asino ci cade dentro, 34 il proprietario della fossa deve pagare un risarcimento:+ deve rimborsare il valore dell’animale al suo padrone, e l’animale morto diventerà suo. 35 Se il toro di un uomo incorna il toro di un altro uccidendolo, allora devono vendere il toro vivo e dividerne il ricavato; divideranno anche quello morto. 36 Se però si sapeva che un toro aveva l’abitudine di cozzare ma il suo proprietario non lo teneva sotto custodia, questi deve risarcire toro per toro, e quello morto diventerà suo.
 
         `,
   },
@@ -1245,6 +1478,98 @@ Questi sono i capi delle case paterne dei leviti, secondo le loro famiglie.+
     dia: "25",
     relato: "Esodo 22-25",
     biblia: `
+    22 “Se un uomo ruba un toro, o una pecora, e lo scanna o lo vende, deve dare un risarcimento di cinque tori per il toro, o di quattro pecore per la pecora.+
+
+    2 “(Se un ladro+ viene scoperto mentre cerca di introdursi in una casa e viene colpito a morte, chi lo ha colpito non è colpevole del suo sangue. 3 Se invece il fatto succede quando il sole è già sorto, è colpevole del suo sangue.)
+    
+    “Chi ruba deve dare un risarcimento. Se non possiede nulla, dev’essere venduto per ciò che ha rubato. 4 Se l’animale rubato viene trovato vivo in suo possesso — che si tratti di un toro, di un asino o di una pecora — il ladro deve dare un risarcimento doppio.
+    
+    5 “Se qualcuno fa pascolare i suoi animali in un campo o in una vigna e lascia che vadano nel campo di qualcun altro, deve dare un risarcimento con il meglio del proprio campo o con il meglio della propria vigna.
+    
+    6 “Se viene appiccato un fuoco che si propaga tra i rovi e brucia dei covoni o del grano non mietuto o un campo, chi ha appiccato il fuoco deve dare un risarcimento per ciò che è andato bruciato.
+    
+    7 “Nel caso in cui un uomo dia al suo prossimo del denaro o degli oggetti da custodire ed essi vengano rubati dalla casa di questo, se il ladro viene trovato deve dare un risarcimento doppio.+ 8 Se il ladro non viene trovato, il proprietario della casa dev’essere condotto presso il vero Dio+ perché si stabilisca se ha messo le mani sui beni del suo prossimo. 9 In ogni caso di appropriazione indebita riguardante un toro, un asino, una pecora, un indumento o qualunque cosa perduta di cui uno dica: ‘È mia!’, i due contendenti presenteranno la loro causa davanti al vero Dio.+ Colui che Dio dichiarerà colpevole dovrà dare al suo prossimo un risarcimento doppio.+
+    
+    10 “Se un uomo dà al suo prossimo un asino o un toro o una pecora o un qualsiasi animale domestico da custodire, e questo muore o rimane storpio o viene portato via mentre nessuno guarda, 11 fra i due dev’essere fatto un giuramento davanti a Geova che attesti che l’uomo che aveva l’animale in custodia non ha messo le mani sui beni del suo prossimo; e il proprietario deve accettarlo. L’altro non deve dare alcun risarcimento.+ 12 Ma se l’animale gli è stato rubato,* deve dare un risarcimento al proprietario. 13 Se invece è stato sbranato da un animale selvatico, deve portarlo come prova. Non è tenuto a dare un risarcimento per ciò che è stato sbranato da un animale selvatico.
+    
+    14 “Ma se qualcuno chiede in prestito al suo prossimo un animale e questo rimane storpio o muore mentre il proprietario non è presente, chi lo ha preso in prestito deve dare un risarcimento. 15 Se il proprietario è presente, chi lo ha preso in prestito non deve dare alcun risarcimento. Se lo ha preso a noleggio, il prezzo del noleggio vale da risarcimento.
+    
+    16 “Ora se un uomo seduce una vergine che non è fidanzata e ha rapporti sessuali con lei, deve pagare il prezzo della sposa e prenderla in moglie.+ 17 Se il padre di lei rifiuta categoricamente di dargliela, lui deve comunque versare una somma pari al prezzo della sposa.
+    
+    18 “Non devi lasciare in vita una strega.+
+    
+    19 “Chiunque abbia rapporti sessuali con un animale deve assolutamente essere messo a morte.+
+    
+    20 “Chi offre sacrifici ad altri dèi fuorché a Geova dev’essere destinato alla distruzione.+
+    
+    21 “Non devi maltrattare né opprimere lo straniero residente,+ perché voi stessi avete risieduto da stranieri nel paese d’Egitto.+
+    
+    22 “Non dovete maltrattare nessuna vedova e nessun orfano.*+ 23 Se in qualche modo li maltratti e loro invocano il mio aiuto, di sicuro io udrò il loro grido.+ 24 La mia ira si accenderà e vi ucciderò con la spada, e le vostre mogli resteranno vedove e i vostri figli orfani.
+    
+    25 “Se presti denaro a qualche povero* tra il mio popolo, qualcuno che dimora con te, non devi comportarti come un usuraio nei suoi confronti. Non dovete imporgli interessi.+
+    
+    26 “Se prendi la veste del tuo prossimo a garanzia di un prestito,+ devi restituirgliela prima del tramonto: 27 è l’unica cosa che ha per coprirsi, l’indumento con cui copre il suo corpo.* Con che cosa si riparerà per dormire?+ Io di sicuro udrò quando invocherà il mio aiuto, perché sono compassionevole.+
+    
+    28 “Non devi maledire* Dio,+ né un capo* fra il tuo popolo.+
+    
+    29 “Non devi esitare a offrirmi i prodotti del tuo abbondante raccolto e l’abbondanza dei tuoi torchi.*+ Devi darmi il primogenito dei tuoi figli.+ 30 Ecco cosa devi fare con il tuo toro e con la tua pecora:+ starà sette giorni con sua madre, e l’ottavo giorno lo darai a me.+
+    
+    31 “Dovete dimostrarvi santi davanti a me,+ e non dovete mangiare la carne di nessun animale che è stato ucciso nei campi da un animale selvatico.+ Dovete gettarla ai cani.
+    <br>
+    23 “Non devi diffondere una notizia che non sia vera.+ Non favorire un malvagio testimoniando intenzionalmente il falso.+ 2 Non devi seguire la massa per fare il male, e quando rendi una testimonianza non devi pervertire la giustizia per schierarti con la maggioranza.* 3 Non devi mostrare parzialità in una causa che coinvolge un povero.+
+
+4 “Se ti imbatti nel toro o nell’asino smarrito del tuo nemico, devi riportarglielo.+ 5 Se vedi che l’asino di qualcuno che ti odia è caduto sotto il suo carico, non devi andartene ignorandolo. Devi aiutare il suo padrone a liberarlo.+
+
+6 “Non devi distorcere il giudizio nella causa di chi è povero tra voi.+
+
+7 “Non avere niente a che fare con una falsa accusa,* e non uccidere l’innocente e il giusto, perché io non dichiarerò giusto* il malvagio.+
+
+8 “Non devi accettare regali,* perché il regalo acceca chi vede chiaramente e può distorcere le parole dei giusti.+
+
+9 “Non devi opprimere lo straniero residente. Voi sapete come ci si sente quando si è stranieri,* perché voi stessi avete risieduto da stranieri nel paese d’Egitto.+
+
+10 “Devi seminare la tua terra e raccoglierne i prodotti per sei anni,+ 11 ma il settimo anno la lascerai incolta e la farai stare a riposo; ne mangeranno i poveri del tuo popolo, e ciò che lasceranno sarà mangiato dagli animali selvatici. È questo che farai con la tua vigna e con il tuo oliveto.
+
+12 “Per sei giorni svolgerai il tuo lavoro, ma il settimo giorno ti fermerai, affinché il tuo toro e il tuo asino si riposino, e il figlio della tua schiava e lo straniero residente si ristorino.+
+
+13 “Assicuratevi di fare tutto quello che vi ho detto.+ E non dovete menzionare altri dèi; il loro nome non deve uscire dalla vostra bocca.+
+
+14 “Tre volte l’anno devi celebrarmi una festa.+ 15 Osserverai la Festa dei Pani Azzimi.+ Come ti ho comandato, mangerai pane senza lievito per sette giorni al tempo stabilito nel mese di avìv,*+ perché è in quel mese che sei uscito dall’Egitto. Nessuno potrà presentarsi davanti a me a mani vuote.+ 16 Inoltre osserverai la Festa della Mietitura* dei primi frutti delle tue fatiche, di ciò che hai seminato nei campi,+ e la Festa della Raccolta* alla fine dell’anno, quando avrai raccolto nei campi il frutto delle tue fatiche.+ 17 Tre volte l’anno tutti i tuoi uomini* si presenteranno davanti al vero Signore, Geova.+
+
+18 “Non devi offrire il sangue del mio sacrificio insieme a qualcosa di lievitato. E il grasso dei sacrifici offerti durante le mie feste non deve rimanere fino al mattino successivo.
+
+19 “Devi portare il meglio dei primi frutti maturi della tua terra alla casa di Geova tuo Dio.+
+
+“Non devi cuocere un capretto nel latte di sua madre.+
+
+20 “Mando un angelo davanti a te+ per proteggerti lungo il cammino e per introdurti nel luogo che ho preparato.+ 21 Prestagli attenzione e ubbidisci alla sua voce. Non ribellarti contro di lui, dal momento che non perdonerà le tue trasgressioni,+ perché il mio nome è in lui. 22 Comunque, se ubbidirai scrupolosamente alla sua voce e farai tutto ciò che dirò, io sarò nemico dei tuoi nemici e mi opporrò a quelli che ti si oppongono. 23 Il mio angelo infatti andrà davanti a te e ti condurrà dagli amorrei, dagli ittiti, dai ferezei, dai cananei, dagli ivvei e dai gebusei, e io li annienterò.+ 24 Non devi inchinarti davanti ai loro dèi né lasciarti indurre a servirli, e non devi imitare le loro pratiche.+ Piuttosto, devi abbattere i loro idoli e fare a pezzi le loro colonne sacre.+ 25 Devi servire Geova tuo Dio,+ ed egli benedirà il tuo pane e la tua acqua.+ Eliminerò di mezzo a te la malattia.+ 26 Nel tuo paese non ci saranno donne che abortiscono o che sono sterili,+ e ti darò lunga vita.*
+
+27 “Manderò davanti a te il terrore di me,+ e getterò in confusione ogni popolo in cui ti imbatterai, e farò sì che i tuoi nemici fuggano sconfitti.*+ 28 Manderò lo sconforto* davanti a te,+ ed esso scaccerà davanti a te gli ivvei, i cananei e gli ittiti.+ 29 Non li scaccerò davanti a te in un anno, per evitare che il paese diventi desolato e che gli animali selvatici si moltiplichino a tuo danno.+ 30 Li scaccerò davanti a te poco a poco, finché non diventerai numeroso e non prenderai possesso del paese.+
+
+31 “Fisserò i tuoi confini dal Mar Rosso al mare dei filistei e dal deserto al Fiume,*+ perché ti darò in mano gli abitanti del paese e tu li scaccerai davanti a te.+ 32 Non devi stringere un patto con loro, né con i loro dèi.+ 33 Non devono dimorare nel tuo paese, perché non ti facciano peccare contro di me. Servire i loro dèi sarebbe di certo una trappola per te”.+
+<br>
+24 Poi egli disse a Mosè: “Sali da Geova, tu insieme ad Aronne, a Nàdab e Abìu,+ e a 70 degli anziani d’Israele, e inchinatevi da lontano. 2 Mosè deve avvicinarsi a Geova da solo, mentre gli altri non devono avvicinarsi, e il popolo non deve salire con lui”.+
+
+3 Quindi Mosè andò a riferire al popolo tutte le parole di Geova e tutte le decisioni giudiziarie;+ e tutto il popolo rispose all’unisono: “Siamo pronti a mettere in pratica tutte le parole che Geova ha pronunciato”.+ 4 Mosè mise dunque per iscritto tutte le parole di Geova.+ Poi si alzò la mattina di buon’ora ed eresse ai piedi del monte un altare e 12 colonne corrispondenti alle 12 tribù d’Israele. 5 Dopodiché incaricò dei giovani israeliti di offrire olocausti e immolare tori come sacrifici di comunione+ a Geova. 6 Mosè prese poi metà del sangue e lo mise in catini, e l’altra metà del sangue lo spruzzò sull’altare. 7 Prese allora il libro del patto e lo lesse ad alta voce al popolo.+ E loro dissero: “Siamo pronti a fare tutto quello che Geova ha detto e a ubbidire”.+ 8 Mosè prese dunque il sangue, lo spruzzò sul popolo+ e disse: “Questo è il sangue del patto che Geova ha stipulato con voi in armonia con tutte queste parole”.+
+
+9 Mosè e Aronne, Nàdab e Abìu, e 70 degli anziani d’Israele salirono sul monte 10 e videro l’Iddio d’Israele.+ Sotto i suoi piedi c’era qualcosa che sembrava un pavimento di zaffiro e che per limpidezza somigliava ai cieli stessi.+ 11 Egli non fece del male a quegli uomini preminenti d’Israele,+ e loro ebbero una visione del vero Dio, e mangiarono e bevvero.
+
+12 Geova disse ora a Mosè: “Sali da me sul monte e resta là: ti darò le tavole di pietra con le leggi e i comandamenti che scriverò per istruire il popolo”.+ 13 Allora Mosè si alzò, e con lui il suo aiutante Giosuè;+ e Mosè salì sul monte del vero Dio.+ 14 Agli anziani comunque aveva detto: “Aspettateci qui finché non torniamo.+ Con voi ci sono Aronne e Hur:+ chiunque abbia una questione legale può rivolgersi a loro”.+ 15 Mosè salì dunque sul monte, che era coperto dalla nuvola.+
+
+16 La gloria di Geova+ rimase sul monte Sinai,+ e la nuvola coprì il monte per sei giorni. Il settimo giorno egli chiamò Mosè dal mezzo della nuvola. 17 Agli israeliti che osservavano, la gloria di Geova appariva come un fuoco divoratore in cima al monte. 18 Mosè entrò quindi nella nuvola e salì sul monte.+ E rimase sul monte 40 giorni e 40 notti.+
+<br>
+25 Geova disse poi a Mosè: 2 “Di’ al popolo d’Israele di raccogliermi una contribuzione: raccoglierete la mia contribuzione da tutti coloro che saranno spinti dal cuore a donarla.+ 3 Questo è ciò che accetterete da loro come contribuzione: oro,+ argento,+ rame,+ 4 filo blu, lana color porpora, filo scarlatto, lino fine, pelo di capra, 5 pelli di montone tinte di rosso, pelli di foca, legno di acacia,+ 6 olio per le lampade,+ balsamo per l’olio dell’unzione+ e per l’incenso profumato,+ 7 nonché onice e altre pietre da incastonare nell’efod+ e nel pettorale.+ 8 Devono farmi un santuario e io risiederò in mezzo a loro.+ 9 Questo — il tabernacolo e tutti i suoi arredi — dovrà essere fatto seguendo scrupolosamente il modello* che sto per mostrarti.+
+
+10 “Si dovrà realizzare un’arca* di legno di acacia, lunga 2 cubiti* e mezzo, larga un cubito e mezzo e alta un cubito e mezzo.+ 11 Quindi la rivestirai d’oro puro.+ La rivestirai dentro e fuori, e le farai un bordo* d’oro tutt’intorno.+ 12 Fonderai per essa 4 anelli d’oro e li fisserai al di sopra dei suoi 4 piedi, 2 anelli su un lato e 2 anelli sull’altro. 13 Farai stanghe di legno di acacia e le rivestirai d’oro.+ 14 Infilerai le stanghe negli anelli ai lati dell’Arca, per poterla trasportare con esse. 15 Le stanghe resteranno negli anelli dell’Arca; non dovranno essere tolte.+ 16 Nell’Arca metterai la Testimonianza che io ti darò.+
+
+17 “Farai un coperchio d’oro puro, lungo 2 cubiti e mezzo e largo un cubito e mezzo.+ 18 Devi fare 2 cherubini d’oro. Li farai d’oro battuto alle 2 estremità del coperchio.+ 19 Fa’ i cherubini alle 2 estremità, uno a un’estremità del coperchio e uno all’altra. 20 I cherubini avranno le loro 2 ali spiegate verso l’alto, in modo da coprire con esse il coperchio,+ e saranno uno di fronte all’altro. Le loro facce saranno rivolte verso il coperchio. 21 Metterai il coperchio+ sull’Arca; in essa riporrai la Testimonianza che io ti darò. 22 Lì mi presenterò a te, e ti parlerò da sopra il coperchio.+ Dal mezzo dei 2 cherubini che sono sull’Arca della Testimonianza ti renderò noti tutti i miei comandi per gli israeliti.
+
+23 “Inoltre farai una tavola+ di legno di acacia, lunga 2 cubiti, larga un cubito e alta un cubito e mezzo.+ 24 La rivestirai d’oro puro e le farai un bordo d’oro tutt’intorno. 25 Le farai tutt’intorno una cornice larga un palmo* e farai un bordo d’oro intorno alla cornice. 26 Farai per essa 4 anelli d’oro e li fisserai ai 4 angoli, dove sono attaccate le 4 gambe. 27 Gli anelli dovranno essere vicini alla cornice; vi si infileranno le stanghe per trasportare la tavola. 28 Farai le stanghe di legno di acacia e le rivestirai d’oro; con esse trasporterai la tavola.
+
+29 “Farai inoltre i suoi piatti, le sue coppe, e le brocche e le scodelle da cui si verseranno le libagioni.* Li farai d’oro puro.+ 30 E sulla tavola metterai regolarmente il pane di presentazione davanti a me.+
+
+31 “Farai un candelabro+ d’oro puro. Il candelabro sarà fatto d’oro battuto. Sarà un unico pezzo: la sua base, il suo fusto, i suoi bracci, i suoi calici, i suoi pomi e le sue corolle.+ 32 E dai lati del candelabro si dipartiranno 6 bracci, 3 da un lato e 3 dall’altro. 33 Su ognuno dei 3 bracci che si dipartono da un lato ci saranno 3 calici a forma di fiori di mandorlo, con pomi e corolle che si alternano; e anche su ognuno dei 3 bracci che si dipartono dall’altro lato ci saranno 3 calici a forma di fiori di mandorlo, con pomi e corolle che si alternano: sarà così per i 6 bracci che si dipartono dal fusto del candelabro. 34 Sul fusto del candelabro ci saranno 4 calici a forma di fiori di mandorlo, con pomi e corolle che si alternano. 35 Ci sarà un pomo sotto i primi 2 bracci che si dipartono dal fusto, un pomo sotto gli altri 2 bracci e un altro pomo sotto gli altri 2 bracci ancora: sarà così per i 6 bracci che si dipartono dal fusto. 36 I pomi, i bracci e l’intero candelabro devono essere di un unico pezzo d’oro battuto,+ puro. 37 Farai per esso 7 lampade; e quando saranno accese, le lampade illumineranno l’area di fronte al candelabro.+ 38 I suoi spegnitoi* e le sue palette* devono essere d’oro puro.+ 39 Dev’essere realizzato, insieme a tutti i suoi utensili, con un talento* d’oro puro. 40 Accertati di farli secondo il modello* che ti è stato mostrato sul monte.+
+
 
         `,
   },
@@ -1252,6 +1577,54 @@ Questi sono i capi delle case paterne dei leviti, secondo le loro famiglie.+
     dia: "26",
     relato: "Esodo 26-28",
     biblia: `
+    26 “Farai il tabernacolo+ con 10 teli di lino fine ritorto, filo blu, lana color porpora e filo scarlatto. Li ornerai con cherubini ricamati.+ 2 Ogni telo sarà lungo 28 cubiti* e largo 4. Tutti i teli devono essere della stessa misura.+ 3 Cinque teli saranno uniti tra loro a formare un’unica sezione, e così anche gli altri 5 teli. 4 Farai cappi* di filo blu lungo l’orlo dell’ultimo telo della prima sezione; e farai la stessa cosa lungo l’orlo dell’ultimo telo dell’altra sezione, dove si congiungeranno. 5 Farai 50 cappi su un telo e 50 lungo l’orlo dell’altro telo: si troveranno gli uni di fronte agli altri nel punto di giuntura. 6 Devi fare 50 ganci d’oro e con questi congiungere i teli, e la tenda del tabernacolo diventerà un tutt’uno.+
+
+    7 “Farai inoltre teli di pelo di capra+ per la tenda sopra il tabernacolo. Farai 11 teli.+ 8 Ogni telo sarà lungo 30 cubiti e largo 4. Tutti gli 11 teli devono essere della stessa misura. 9 Unirai tra loro 5 teli da una parte e 6 teli dall’altra; il 6o telo lo ripiegherai sul davanti della tenda. 10 E farai 50 cappi sull’orlo di un telo, il più esterno della sezione, e 50 cappi sull’orlo del telo dell’altra sezione, lì dove si congiungeranno. 11 Farai 50 ganci di rame, li infilerai nei cappi e unirai i teli della tenda, che diventeranno un tutt’uno. 12 La parte dei teli che eccede rimarrà pendente. Metà del telo eccedente ricadrà sul retro del tabernacolo. 13 La parte eccedente dei teli penderà da entrambi i lati del tabernacolo per un cubito, così da coprirlo.
+    
+    14 “Farai inoltre per la tenda una copertura di pelli di montone tinte di rosso, e al di sopra di quella una copertura di pelli di foca.+
+    
+    15 “Farai i telai+ del tabernacolo in legno di acacia; andranno messi in verticale.+ 16 Ogni telaio dev’essere alto 10 cubiti e largo un cubito e mezzo. 17 Ogni telaio ha 2 perni* appaiati. È così che farai tutti i telai del tabernacolo. 18 Devi fare 20 telai per il lato meridionale del tabernacolo, verso sud.
+    
+    19 “Sotto i 20 telai farai 40 basi forate d’argento:+ 2 basi forate sotto un singolo telaio per i suoi 2 perni, e così per ogni telaio.+ 20 Per l’altro lato del tabernacolo, il lato settentrionale, farai 20 telai 21 e le relative 40 basi forate d’argento: 2 basi forate sotto un singolo telaio, e così per ogni telaio. 22 Per il lato posteriore del tabernacolo, che guarda a ovest, farai 6 telai.+ 23 Farai 2 telai come montanti ai 2 angoli posteriori del tabernacolo. 24 Saranno formati da 2 elementi appaiati, dal basso fino in cima, fino al 1o anello. Entrambi devono essere fatti così, e costituiranno i 2 montanti d’angolo. 25 Ci saranno dunque 8 telai con le relative 16 basi forate d’argento: 2 basi forate sotto un singolo telaio, e così per ogni telaio.
+    
+    26 “Farai barre di legno di acacia: 5 per i telai di un lato del tabernacolo,+ 27 5 per i telai dell’altro lato del tabernacolo e 5 per i telai del lato del tabernacolo che guarda a ovest, il lato posteriore. 28 La barra che corre a mezza altezza dei telai deve andare da un capo all’altro.
+    
+    29 “Rivestirai d’oro i telai,+ farai d’oro gli anelli in cui si infileranno le barre e rivestirai d’oro le barre. 30 Devi erigere il tabernacolo secondo il progetto che ti è stato mostrato sul monte.+
+    
+    31 “Farai una cortina*+ di filo blu, lana color porpora, filo scarlatto e lino fine ritorto. Sarà ornata con cherubini ricamati. 32 L’appenderai a 4 colonne di acacia rivestite d’oro. I relativi ganci saranno d’oro. Le colonne poggeranno su 4 basi forate d’argento. 33 Appenderai la cortina ai ganci e porterai l’Arca della Testimonianza+ all’interno, oltre la cortina. La cortina farà da divisorio fra il Santo+ e il Santissimo.+ 34 Sull’Arca della Testimonianza nel Santissimo devi mettere il coperchio.
+    
+    35 “Metterai la tavola fuori dalla cortina, con il candelabro+ di fronte a essa sul lato meridionale del tabernacolo; la tavola la metterai sul lato settentrionale. 36 Per il tabernacolo farai una tenda d’ingresso* di filo blu, lana color porpora, filo scarlatto e lino fine ritorto tessuti insieme.+ 37 Per la tenda d’ingresso* farai 5 colonne di acacia e le rivestirai d’oro. I relativi ganci saranno d’oro. E fonderai per esse 5 basi forate di rame.
+    <br>
+    27 “Farai l’altare in legno di acacia;+ sarà lungo 5 cubiti* e largo 5. L’altare dev’essere quadrato e alto 3 cubiti.+ 2 Farai dei corni+ ai suoi 4 angoli; i corni saranno un tutt’uno con esso. E lo rivestirai di rame.+ 3 Farai recipienti per portare via le sue ceneri,* oltre a pale, scodelle, forchettoni e bracieri;* tutti gli utensili li farai in rame.+ 4 Per l’altare farai una graticola, una rete di rame; ai 4 angoli della rete farai 4 anelli di rame. 5 Inserirai la rete all’interno dell’altare, al di sotto della cornice; dovrà trovarsi a mezza altezza dell’altare. 6 Farai stanghe di legno di acacia per l’altare e le rivestirai di rame. 7 Le stanghe saranno infilate negli anelli in modo che si trovino ai 2 lati dell’altare quando viene trasportato.+ 8 Farai l’altare di assi, vuoto internamente. Dovrà essere fatto come ti è stato mostrato sul monte.+
+
+9 “Farai poi il cortile+ del tabernacolo. Sul lato meridionale, che guarda a sud, il cortile sarà delimitato per una lunghezza di 100 cubiti da teli di lino fine ritorto.+ 10 Avrà 20 colonne con 20 basi forate di rame. I ganci delle colonne e gli elementi di collegamento* saranno d’argento. 11 Anche il lato settentrionale sarà delimitato da teli per la sua lunghezza di 100 cubiti, e avrà 20 colonne con le relative 20 basi forate di rame, nonché ganci ed elementi di collegamento in argento. 12 Il lato occidentale sarà delimitato da teli per i suoi 50 cubiti, l’intera larghezza del cortile, e avrà 10 colonne e 10 basi forate. 13 La larghezza del cortile dal lato orientale, verso est, sarà di 50 cubiti. 14 Da una parte ci sarà una serie di teli lunga 15 cubiti, con 3 colonne e 3 basi forate;+ 15 e dall’altra parte, un’altra serie di teli di 15 cubiti, con 3 colonne e 3 basi forate.
+
+16 “All’entrata del cortile ci sarà una tenda d’ingresso* lunga 20 cubiti, realizzata con filo blu, lana color porpora, filo scarlatto e lino fine ritorto tessuti insieme,+ con 4 colonne e le relative 4 basi forate.+ 17 Gli elementi di fissaggio e i ganci di tutte le colonne che circondano il cortile saranno d’argento, mentre le loro basi forate saranno di rame.+ 18 Il cortile sarà lungo 100 cubiti+ e largo 50; la sua recinzione sarà alta 5 cubiti, sarà di lino fine ritorto e avrà basi forate di rame. 19 Tutti gli utensili e gli oggetti destinati al servizio del tabernacolo, come pure i suoi pioli e tutti i pioli della recinzione del cortile, devono essere di rame.+
+
+20 “Comanderai agli israeliti di portarti per l’illuminazione olio puro di olive schiacciate, per tenere le lampade regolarmente accese.+ 21 Aronne e i suoi figli si assicureranno che nella tenda dell’incontro,* all’esterno della cortina che è accanto alla Testimonianza,+ le lampade restino accese davanti a Geova dalla sera alla mattina.+ È un decreto permanente che dev’essere osservato dagli israeliti di generazione in generazione.+
+<br>
+28 “Fra gli israeliti convoca tuo fratello Aronne, insieme ai suoi figli, perché mi serva in qualità di sacerdote:+ Aronne,+ e con lui i suoi figli+ Nàdab e Abìu,+ Eleàzaro e Itamàr.+ 2 Farai vesti sante per tuo fratello Aronne, per conferirgli gloria e splendore.+ 3 Parlerai a tutti quelli che sono dotati di abilità,* coloro che ho riempito di sapienza,+ ed essi faranno le vesti di Aronne per la sua consacrazione, perché mi serva in qualità di sacerdote.
+
+4 “Queste sono le vesti che faranno: un pettorale,+ un efod,+ un manto senza maniche,+ una tunica a quadri, un turbante+ e una fascia;+ faranno queste vesti sante per tuo fratello Aronne e i suoi figli, perché lui mi serva in qualità di sacerdote. 5 Gli artigiani useranno l’oro, il filo blu, la lana color porpora, il filo scarlatto e il lino fine.
+
+6 “L’efod sarà fatto con oro, filo blu, lana color porpora, filo scarlatto e lino fine ritorto, e sarà ricamato.+ 7 Avrà 2 spalline unite alle 2 estremità superiori. 8 La cintura,*+ che andrà legata sull’efod per tenerlo fermo, dovrà essere fatta con gli stessi materiali: oro, filo blu, lana color porpora, filo scarlatto e lino fine ritorto.
+
+9 “Prenderai 2 pietre di onice+ e vi inciderai i nomi dei figli di Israele,+ 10 6 nomi su una pietra e gli altri 6 sull’altra pietra, in ordine di nascita. 11 Un incisore inciderà i nomi dei figli di Israele sulle 2 pietre come si inciderebbe un sigillo.+ Le farai poi montare in castoni d’oro. 12 Metterai le 2 pietre sulle spalline dell’efod in memoria,* per i figli di Israele,+ e Aronne dovrà portare i loro nomi sulle sue 2 spalline in memoria* davanti a Geova. 13 Farai dei castoni d’oro 14 e 2 catenelle d’oro puro attorcigliate come corde;+ e dovrai attaccare le catenelle attorcigliate ai castoni.+
+
+15 “Farai realizzare il pettorale del giudizio+ da un ricamatore. Dovrà essere come l’efod: in oro, filo blu, lana color porpora, filo scarlatto e lino fine ritorto.+ 16 Dovrà essere quadrato quando lo si piega in due: lungo una spanna* e largo una spanna. 17 Dovrai fissarvi delle pietre incastonate, 4 file di pietre: nella 1a fila rubino, topazio e smeraldo; 18 nella 2a fila turchese, zaffiro e diaspro; 19 nella 3a fila lèshem,* agata e ametista; 20 nella 4a fila crisolito, onice e giada. Devono essere montate in castoni d’oro. 21 Le pietre corrisponderanno ai nomi dei 12 figli di Israele. Su ognuna dovrà essere inciso, come su un sigillo, il nome di una delle 12 tribù.
+
+22 “Farai sul pettorale catenelle d’oro puro intrecciate come corde.+ 23 Per il pettorale farai 2 anelli d’oro, e li fisserai ai suoi 2 angoli.* 24 Infilerai le 2 corde d’oro nei 2 anelli agli angoli del pettorale. 25 Infilerai i 2 capi delle 2 corde nei 2 castoni e li fisserai alle spalline dell’efod, sul davanti. 26 Farai 2 anelli d’oro e li fisserai ai 2 angoli* del pettorale, sull’orlo interno, verso l’efod.+ 27 Farai altri 2 anelli d’oro sul davanti dell’efod, sotto le 2 spalline e sopra il punto in cui la cintura terrà fermo l’efod.+ 28 Il pettorale sarà tenuto al suo posto da un cordoncino blu che collegherà i suoi anelli agli anelli dell’efod. Questo permetterà al pettorale di rimanere al suo posto sull’efod, sopra la cintura.
+
+29 “Quando entra nel Santo, Aronne deve portare i nomi dei figli di Israele sul pettorale del giudizio, sul suo cuore, a perenne memoria* davanti a Geova. 30 Metterai nel pettorale del giudizio gli Urìm e i Tummìm:*+ dovranno stare sul cuore di Aronne quando entra davanti a Geova, e Aronne deve sempre portare sul suo cuore davanti a Geova gli strumenti per giudicare gli israeliti.
+
+31 “Farai il manto senza maniche dell’efod interamente di filo blu.+ 32 Avrà un’apertura in alto,* nel mezzo. L’apertura dovrà avere un bordo tutt’intorno realizzato da un tessitore. Dovrà essere come l’apertura di una corazza,* in modo che non si strappi. 33 Sull’intera lunghezza dell’orlo farai melagrane di filo blu, lana color porpora e filo scarlatto, alternate a campanelli d’oro. 34 Alternerai un campanello d’oro e una melagrana, un campanello d’oro e una melagrana, tutt’intorno all’orlo del manto senza maniche. 35 Aronne dovrà indossarlo per poter prestare servizio; quando entrerà nel santuario alla presenza di Geova e quando ne uscirà se ne dovrà sentire il suono, affinché non muoia.+
+
+36 “Farai una lucente lamina d’oro puro e, come si inciderebbe un sigillo, inciderai su di essa: ‘La santità appartiene a Geova’.+ 37 Dovrai fissarla al turbante+ con un cordoncino blu; starà sulla parte anteriore del turbante. 38 Starà sulla fronte di Aronne, e quando qualcuno commetterà un peccato contro le cose sante,+ che gli israeliti consacreranno offrendole come doni santi, Aronne ne porterà la colpa. Dovrà rimanere sempre sulla sua fronte, perché loro possano essere approvati davanti a Geova.
+
+39 “Tesserai la tunica a quadri di lino fine, e farai un turbante di lino fine e una fascia tessuta.+
+
+40 “Farai inoltre tuniche, fasce e copricapi per i figli di Aronne,+ per conferire loro gloria e splendore.+ 41 Vestirai tuo fratello Aronne e i suoi figli con lui, e li ungerai+ e li insedierai*+ e li consacrerai, e loro serviranno come miei sacerdoti. 42 Fa’ inoltre calzoni* di lino perché si coprano le nudità;+ andranno dai fianchi alle cosce. 43 Aronne e i suoi figli dovranno averli indosso quando entreranno nella tenda dell’incontro o quando si avvicineranno all’altare per servire nel luogo santo, così da non incorrere nella colpa e morire. È un decreto permanente per lui e per i suoi discendenti* dopo di lui.
+
 
         `,
   },
@@ -1259,6 +1632,46 @@ Questi sono i capi delle case paterne dei leviti, secondo le loro famiglie.+
     dia: "27",
     relato: "Esodo 29-30",
     biblia: `
+    29 “Questo è ciò che devi fare per consacrarli al mio servizio come sacerdoti. Prenderai un giovane toro e due montoni sani.+ 2 Prenderai poi pane senza lievito, pani a ciambella senza lievito impastati con olio e schiacciate senza lievito condite con olio;+ li farai di fior di farina di frumento, 3 li metterai in un cesto e in esso li presenterai,+ insieme al toro e ai due montoni.
+
+    4 “Farai avvicinare Aronne e i suoi figli all’ingresso della tenda dell’incontro+ e li laverai con acqua.+ 5 Poi prenderai le vesti+ e farai indossare ad Aronne la tunica, il manto senza maniche dell’efod, l’efod e il pettorale, e gli legherai bene in vita la cintura* dell’efod.+ 6 Gli porrai sulla testa il turbante, e sul turbante metterai il santo segno di dedicazione;*+ 7 prenderai l’olio dell’unzione,+ glielo verserai sulla testa e lo ungerai.+
+    
+    8 “Quindi farai venire avanti i suoi figli, farai indossare loro le tuniche,+ 9 li cingerai con le fasce, sia Aronne che i suoi figli, e metterai loro i copricapi; e il sacerdozio apparterrà loro per decreto permanente.+ È così che devi insediare Aronne e i suoi figli come sacerdoti.*+
+    
+    10 “Dopodiché presenterai il toro davanti alla tenda dell’incontro, e Aronne e i suoi figli porranno le mani sulla testa del toro.+ 11 Scannerai il toro davanti a Geova, all’ingresso della tenda dell’incontro.+ 12 Prenderai con il dito un po’ del sangue del toro e lo metterai sui corni dell’altare;+ tutto il resto del sangue lo verserai alla base dell’altare.+ 13 Poi prenderai tutto il grasso+ che ricopre gli intestini, la membrana grassa del fegato e i due reni con il grasso su di essi, e li brucerai sull’altare in modo da farli fumare.+ 14 Ma la carne del toro, la sua pelle e il suo sterco li brucerai nel fuoco fuori dall’accampamento. È un’offerta per il peccato.
+    
+    15 “Quindi prenderai uno dei montoni, e Aronne e i suoi figli porranno le mani sulla testa del montone.+ 16 Scannerai il montone, ne prenderai il sangue e lo spruzzerai su tutti i lati dell’altare.+ 17 Taglierai il montone a pezzi, ne laverai gli intestini+ e le zampe, e disporrai i pezzi insieme alla testa. 18 Devi bruciare l’intero montone, facendolo fumare sull’altare. È un olocausto per Geova, odore gradito.*+ È un’offerta fatta a Geova mediante il fuoco.
+    
+    19 “Prenderai poi l’altro montone, e Aronne e i suoi figli porranno le mani sulla testa del montone.+ 20 Scannerai il montone, prenderai un po’ del suo sangue e lo metterai sul lobo dell’orecchio destro di Aronne e sul lobo dell’orecchio destro dei suoi figli, sul pollice della loro mano destra e sull’alluce del loro piede destro, dopodiché spruzzerai il sangue su tutti i lati dell’altare. 21 Quindi prenderai un po’ del sangue che è sull’altare e un po’ di olio dell’unzione+ e li spruzzerai su Aronne e sulle sue vesti e sui suoi figli e sulle loro vesti, affinché lui e le sue vesti e i suoi figli e le loro vesti possano essere santi.+
+    
+    22 “Poi prenderai dal montone il grasso, la grassa coda, il grasso che ricopre gli intestini, la membrana grassa del fegato, i due reni con il grasso su di essi+ e la coscia destra, perché è il montone dell’insediamento.+ 23 Inoltre dal cesto dei pani senza lievito che è davanti a Geova prenderai un pane rotondo, un pane a ciambella con olio e una schiacciata. 24 Metterai il tutto sul palmo delle mani di Aronne e dei suoi figli, e lo agiterai avanti e indietro come offerta agitata davanti a Geova. 25 Poi lo prenderai dalle loro mani e lo brucerai sopra l’altare, sull’olocausto, come odore gradito* davanti a Geova. È un’offerta fatta a Geova mediante il fuoco.
+    
+    26 “Prenderai allora il petto del montone dell’insediamento,+ offerto in favore di Aronne, e lo agiterai avanti e indietro come offerta agitata davanti a Geova; sarà la tua porzione. 27 Consacrerai il petto dell’offerta agitata e la coscia della porzione sacra che è stata agitata e che è stata presa come contribuzione dal montone dell’insediamento,+ offerto in favore di Aronne e dei suoi figli. 28 Spetteranno ad Aronne e ai suoi figli sulla base di una norma permanente che dovrà essere osservata dagli israeliti, perché è una porzione sacra; sarà una porzione sacra che dovrà essere data dagli israeliti.+ Dei loro sacrifici di comunione è la porzione sacra per Geova.+
+    
+    29 “Le vesti sante+ che appartengono ad Aronne saranno usate dai suoi figli+ dopo di lui quando verranno unti e insediati quali sacerdoti. 30 Il sacerdote che tra i suoi figli gli succederà ed entrerà nella tenda dell’incontro per prestare servizio nel luogo santo le indosserà per sette giorni.+
+    
+    31 “Quindi prenderai il montone dell’insediamento e ne farai bollire la carne in un luogo santo.+ 32 All’ingresso della tenda dell’incontro Aronne e i suoi figli mangeranno+ la carne del montone e il pane che è nel cesto. 33 Devono mangiare le cose con le quali è stata fatta espiazione per insediarli come sacerdoti* e consacrarli. Ma nessuna persona non autorizzata* può mangiarle, perché sono qualcosa di santo.+ 34 Se qualcosa della carne del sacrificio d’insediamento o del pane rimane fino al mattino, devi bruciarlo nel fuoco.+ Non lo si deve mangiare, perché è qualcosa di santo.
+    
+    35 “Questo è quanto farai riguardo ad Aronne e ai suoi figli, secondo tutto ciò che io ti ho comandato. Impiegherai sette giorni per insediarli quali sacerdoti.*+ 36 Offrirai ogni giorno il toro dell’offerta per il peccato per fare espiazione e purificherai l’altare dal peccato facendo espiazione per esso, e dovrai ungerlo per consacrarlo.+ 37 Impiegherai sette giorni per fare espiazione per l’altare, e dovrai consacrarlo ed esso diventerà un altare santissimo.+ Chiunque tocchi l’altare dev’essere santo.
+    
+    38 “Questo è ciò che offrirai sull’altare: ogni giorno due agnelli di un anno, di continuo.+ 39 Offrirai un agnello la mattina e l’altro al crepuscolo.*+ 40 Con il primo agnello saranno offerti un decimo di efa* di fior di farina impastata con un quarto di hin* d’olio di olive schiacciate e una libagione* di un quarto di hin di vino. 41 Offrirai il secondo agnello al crepuscolo,* insieme alla stessa offerta di cereali e alla stessa libagione della mattina. Lo offrirai come odore gradito,* un’offerta fatta a Geova mediante il fuoco. 42 Sarà un olocausto offerto regolarmente di generazione in generazione all’ingresso della tenda dell’incontro, davanti a Geova, dove io mi presenterò al popolo per parlare con te.+
+    
+    43 “Mi presenterò là agli israeliti, e quel luogo sarà santificato dalla mia gloria.+ 44 Consacrerò la tenda dell’incontro e l’altare, e consacrerò Aronne e i suoi figli+ perché mi servano in qualità di sacerdoti. 45 Risiederò in mezzo al popolo d’Israele e sarò il loro Dio.+ 46 E certamente sapranno che io sono Geova loro Dio, colui che li ha fatti uscire dal paese d’Egitto per risiedere in mezzo a loro.+ Io sono Geova loro Dio.
+    30 “Farai un altare sul quale bruciare incenso;+ lo farai di legno di acacia.+ 2 Dev’essere quadrato, lungo un cubito,* largo un cubito e alto 2 cubiti. I suoi corni saranno un tutt’uno con esso.+ 3 Lo rivestirai d’oro puro — la parte superiore, i lati tutt’intorno e i corni — e gli farai intorno un bordo* d’oro. 4 Gli farai inoltre 2 anelli d’oro su un lato e 2 sul lato opposto, sotto il bordo; questi sosterranno le stanghe usate per trasportarlo. 5 Farai le stanghe in legno di acacia e le rivestirai d’oro. 6 Metterai l’altare davanti alla cortina che è accanto all’Arca della Testimonianza,+ davanti al coperchio che è sulla Testimonianza, dove mi presenterò a te.+
+
+7 “Aronne+ farà fumare su di esso incenso profumato+ ogni mattina quando sistemerà le lampade.+ 8 Brucerà l’incenso anche al crepuscolo,* quando accenderà le lampade. È un’offerta d’incenso fatta regolarmente davanti a Geova, di generazione in generazione. 9 Non dovete offrire su di esso incenso non autorizzato+ né olocausti né offerte di cereali; e non dovete versarvi libagioni.* 10 Una volta l’anno Aronne deve fare espiazione sui corni dell’altare.+ Con parte del sangue dell’offerta per l’espiazione del peccato,+ farà espiazione per esso una volta l’anno, di generazione in generazione. È qualcosa di santissimo per Geova”.
+
+11 Geova disse poi a Mosè: 12 “Ogni volta che farai un censimento per contare i figli d’Israele,+ al momento del censimento ciascuno dovrà dare a Geova un riscatto per la propria vita,* affinché non si abbatta su di loro nessuna piaga quando verranno registrati. 13 Questo è ciò che daranno tutti coloro che saranno registrati: mezzo siclo* in base al siclo ufficiale del luogo santo.*+ (Un siclo corrisponde a 20 ghera.*) Mezzo siclo è la contribuzione da dare a Geova.+ 14 Ogni registrato, dai 20 anni in su, darà la contribuzione che spetta a Geova.+ 15 Quando offrite a Geova la contribuzione per l’espiazione per le vostre vite,* il ricco non deve dare più di mezzo siclo e il povero non deve dare di meno. 16 Devi prendere dagli israeliti il denaro d’argento dell’espiazione e darlo per il servizio della tenda dell’incontro, affinché serva da ricordo* davanti a Geova per gli israeliti, per fare espiazione per le vostre vite”.
+
+17 Geova disse ancora a Mosè: 18 “Dovrai fare un bacino di rame, con la sua base, in cui lavarsi;+ lo collocherai fra la tenda dell’incontro e l’altare, e vi metterai dentro dell’acqua.+ 19 Aronne e i suoi figli vi si laveranno le mani e i piedi.+ 20 Quando entreranno nella tenda dell’incontro o si accosteranno all’altare per fare a Geova offerte mediante il fuoco, si laveranno con acqua per non morire. 21 Dovranno lavarsi le mani e i piedi per non morire; dovrà essere per loro una norma permanente, per lui e i suoi discendenti, di generazione in generazione”.+
+
+22 Geova continuò a parlare a Mosè, dicendo: 23 “Prenderai poi gli aromi più pregiati: 500 sicli di mirra resinosa, metà di tale quantità, ovvero 250 sicli, di cinnamomo aromatico, 250 sicli di canna aromatica, 24 500 sicli di cassia, in base al siclo ufficiale del luogo santo,+ e un hin* di olio d’oliva. 25 Quindi ne farai un olio per l’unzione santa; dovrà essere sapientemente miscelato.*+ Dev’essere un olio per l’unzione santa.
+
+26 “Dovrai ungere con esso la tenda dell’incontro+ e l’Arca della Testimonianza, 27 la tavola con tutti i suoi utensili, il candelabro con i suoi utensili, l’altare dell’incenso, 28 l’altare degli olocausti con tutti i suoi utensili e il bacino con la sua base. 29 Dovrai consacrarli, e diventeranno santissimi.+ Chiunque li tocchi dev’essere santo.+ 30 E ungerai Aronne+ e i suoi figli+ e li consacrerai perché mi servano in qualità di sacerdoti.+
+
+31 “Dirai agli israeliti: ‘Questo sarà per me un olio per l’unzione santa per tutte le vostre generazioni.+ 32 Non dev’essere spalmato sul corpo* di un essere umano, e non dovete preparare nulla di simile che abbia la stessa composizione. È qualcosa di santo, e santo rimarrà per voi. 33 Chiunque prepari un unguento simile a esso e lo spalmi su qualcuno non autorizzato* dev’essere stroncato* di mezzo al suo popolo’”.+
+
+34 Geova disse poi a Mosè: “Prendi in quantità uguali queste sostanze aromatiche:+ mirra liquida, conchiglia odorosa, galbano profumato e olibano* puro. 35 Con esse fa’ un incenso profumato,+ un composto sapientemente miscelato,* salato,+ puro e santo. 36 Devi ridurne una parte in polvere minuta e metterla davanti alla Testimonianza nella tenda dell’incontro, dove mi presenterò a te. Dev’essere per voi qualcosa di santissimo. 37 Non dovete preparare per uso personale un incenso che abbia questa composizione.+ Devi considerarlo qualcosa di santo che spetta a Geova. 38 Chiunque ne faccia uno simile per sentirne il profumo dev’essere stroncato* di mezzo al suo popolo”.
 
         `,
   },
@@ -1266,6 +1679,47 @@ Questi sono i capi delle case paterne dei leviti, secondo le loro famiglie.+
     dia: "28",
     relato: "Esodo 31-33",
     biblia: `
+    31 Geova disse ancora a Mosè: 2 “Ecco, ho scelto* Bezalèl,+ figlio di Uri, figlio di Hur, della tribù di Giuda.+ 3 Lo riempirò del mio spirito,* dandogli sapienza e intelligenza* e conoscenza in ogni genere di lavoro, 4 per elaborare progetti artistici, per lavorare l’oro, l’argento e il rame, 5 per intagliare e incastonare pietre,+ e per realizzare qualunque oggetto di legno.+ 6 Inoltre per aiutarlo ho scelto Ooliàb,+ figlio di Aisamàc, della tribù di Dan, e metto sapienza nel cuore di tutti quelli che sono dotati di abilità,* così che possano realizzare tutto quello che ti ho comandato:+ 7 la tenda dell’incontro,+ l’Arca della Testimonianza+ con il coperchio+ su di essa, tutti gli utensili della tenda, 8 la tavola+ con i suoi utensili, il candelabro d’oro puro con tutti i suoi utensili,+ l’altare dell’incenso,+ 9 l’altare degli olocausti+ con tutti i suoi utensili, il bacino con la sua base,+ 10 le vesti tessute finemente, le vesti sante per il sacerdote Aronne, le vesti dei suoi figli per il servizio sacerdotale,+ 11 l’olio dell’unzione e l’incenso profumato per il santuario.+ Realizzeranno tutto quello che ti ho comandato”.
+
+    12 Geova disse poi a Mosè: 13 “Parla agli israeliti e di’ loro: ‘Dovete osservare scrupolosamente i miei Sabati,+ perché sono un segno fra me e voi di generazione in generazione, affinché sappiate che io, Geova, vi santifico. 14 Dovete osservare il Sabato, perché è per voi qualcosa di santo.+ Chi lo profanerà dev’essere messo a morte. Se qualcuno svolge del lavoro quel giorno, tale persona* dev’essere stroncata* di mezzo al suo popolo.+ 15 Si può lavorare per sei giorni, ma il settimo giorno è un Sabato di completo riposo.+ È consacrato a Geova. Chiunque svolga del lavoro nel giorno del Sabato dev’essere messo a morte. 16 Gli israeliti devono rispettare il Sabato; devono osservare il Sabato di generazione in generazione. È un patto permanente. 17 È un segno duraturo fra me e il popolo d’Israele,+ perché in sei giorni Geova fece i cieli e la terra, e il settimo giorno si riposò e si ristorò’”.+
+    
+    18 E non appena ebbe finito di parlare con Mosè sul monte Sinai, Dio gli diede le due tavole della Testimonianza,+ tavole di pietra scritte dal dito di Dio.+
+    <br>
+    32 Nel frattempo il popolo, notando che Mosè tardava a scendere dal monte,+ si radunò intorno ad Aronne e gli disse: “Avanti, facci un dio che ci guidi,+ perché non sappiamo cosa sia successo a questo Mosè che ci ha fatto uscire dal paese d’Egitto”. 2 Aronne rispose loro: “Prendete gli orecchini d’oro dalle orecchie+ delle vostre mogli, dei vostri figli e delle vostre figlie e portatemeli”. 3 Così tutto il popolo si tolse gli orecchini d’oro e li portò ad Aronne. 4 Quindi lui prese l’oro dalle loro mani e con uno scalpello gli diede forma, facendone una statua* che raffigurava un vitello.+ E cominciarono a dire: “Questo è il tuo Dio, o Israele, che ti ha fatto uscire dal paese d’Egitto”.+
+
+5 Vedendo ciò, Aronne eresse un altare davanti a esso e annunciò: “Domani ci sarà una festa in onore di Geova”. 6 Il giorno dopo si alzarono presto e si misero a offrire olocausti e a presentare sacrifici di comunione. Poi il popolo si sedette a mangiare e a bere, dopodiché si alzò per far festa.+
+
+7 Allora Geova disse a Mosè: “Va’, scendi, perché il tuo popolo, che hai fatto uscire dal paese d’Egitto, si è sviato.+ 8 Hanno fatto in fretta ad allontanarsi dalla via che ho comandato loro di seguire.+ Si sono fatti una statua* raffigurante un vitello, e continuano a inchinarsi davanti a essa, a farle sacrifici e a dire: ‘Questo è il tuo Dio, o Israele, che ti ha fatto uscire dal paese d’Egitto’”. 9 Geova disse ancora a Mosè: “Ho visto che questo è un popolo ostinato.*+ 10 E adesso lasciami fare, e li sterminerò nella mia ira ardente. Lascia piuttosto che io faccia nascere da te una grande nazione”.+
+
+11 Allora Mosè supplicò* Geova suo Dio+ e gli disse: “O Geova, perché dovresti rivolgere la tua ira contro il tuo popolo dopo averlo fatto uscire dal paese d’Egitto con grande forza e con mano potente?+ 12 Perché mai gli egiziani dovrebbero dire: ‘Aveva cattive intenzioni quando li ha fatti uscire. Voleva ucciderli sui monti e sterminarli dalla faccia della terra’?+ Metti da parte la tua ira ardente, e riconsidera la tua decisione* di far abbattere questa calamità sul tuo popolo. 13 Ricordati dei tuoi servitori Abraamo, Isacco e Israele, ai quali giurasti su te stesso: ‘Moltiplicherò la vostra discendenza* come le stelle del cielo,+ e darò alla vostra discendenza* tutto questo paese che vi ho destinato, affinché ne prenda possesso per sempre’”.+
+
+14 Allora Geova cominciò a riconsiderare la decisione* di far abbattere sul suo popolo la calamità di cui aveva parlato.+
+
+15 Dopodiché Mosè si voltò e scese dal monte con in mano+ le due tavole della Testimonianza,+ tavole scritte su entrambi i lati: erano scritte davanti e dietro. 16 Le tavole erano opera di Dio, e la scrittura che vi era incisa era la scrittura di Dio.+ 17 Nel sentire il clamore del popolo che gridava, Giosuè disse a Mosè: “Nell’accampamento c’è frastuono di battaglia”. 18 Ma Mosè disse:
+
+“Non è il suono del canto che celebra una vittoria,*
+
+e non è il suono del canto che piange una sconfitta:
+
+è il suono di un altro canto quello che sento”.
+
+19 Non appena Mosè si avvicinò all’accampamento e vide il vitello+ e le danze, la sua ira divampò, e lui gettò le tavole e le spezzò ai piedi del monte.+ 20 Afferrò il vitello che avevano fatto, lo bruciò nel fuoco e lo ridusse in polvere;+ dopodiché sparse quella polvere sull’acqua e la fece bere agli israeliti.+ 21 Quindi Mosè chiese ad Aronne: “Cosa ti ha fatto questo popolo per indurti a portare su di esso un peccato così grande?” 22 Aronne rispose: “Mio signore, non infuriarti. Sai bene che il popolo è incline a fare il male.+ 23 Mi hanno detto: ‘Facci un dio che ci guidi, perché non sappiamo cosa sia successo a questo Mosè che ci ha fatto uscire dal paese d’Egitto’.+ 24 E così ho detto loro: ‘Chiunque abbia dell’oro deve toglierselo di dosso e darlo a me’. Poi l’ho gettato nel fuoco ed è venuto fuori questo vitello”.
+
+25 Mosè vide che il popolo era senza freno, perché Aronne l’aveva lasciato sfrenare esponendolo alla vergogna davanti ai loro nemici. 26 A quel punto Mosè si mise all’ingresso dell’accampamento e disse: “Chi è dalla parte di Geova? Venga qui da me!”+ E tutti i leviti si radunarono attorno a lui. 27 Allora disse loro: “Questo è ciò che ha detto Geova, l’Iddio d’Israele: ‘Ciascuno di voi cinga la spada, passi attraverso l’accampamento, da un ingresso all’altro, e uccida il proprio fratello, il proprio vicino e il proprio amico’”.+ 28 I leviti fecero come Mosè aveva detto, e quel giorno furono uccisi circa 3.000 uomini. 29 Mosè disse poi: “Oggi consacratevi* a Geova, dal momento che ciascuno di voi si è schierato contro il proprio figlio e il proprio fratello;+ oggi egli vi concederà una benedizione”.+
+
+30 L’indomani Mosè disse al popolo: “Avete commesso un peccato gravissimo; e ora salirò da Geova per vedere se posso ottenere il perdono per il vostro peccato”.+ 31 Mosè tornò dunque da Geova e disse: “Che grave peccato ha commesso questo popolo! Si sono fatti un dio d’oro!+ 32 Ma se è tua volontà, perdona il loro peccato.+ Altrimenti, ti prego, cancellami dal libro che hai scritto”.+ 33 Geova comunque disse a Mosè: “Cancellerò dal mio libro colui che ha peccato contro di me. 34 Ora va’, guida il popolo verso il luogo di cui ti ho parlato. Ecco, il mio angelo andrà davanti a te+ e, nel giorno in cui chiederò loro conto, li punirò per il loro peccato”. 35 Geova allora castigò gli israeliti per il vitello che Aronne aveva fatto dietro loro richiesta.
+<br>
+33 Geova disse ancora a Mosè: “Lascia questo posto insieme al popolo che hai fatto uscire dal paese d’Egitto. Va’ verso il paese circa il quale giurai ad Abraamo, Isacco e Giacobbe: ‘Lo darò alla tua discendenza’.*+ 2 Manderò un angelo davanti a te+ e scaccerò i cananei, gli amorrei, gli ittiti, i ferezei, gli ivvei e i gebusei.+ 3 Vi dirigerete verso un paese dove scorrono latte e miele.+ Io però non verrò insieme a voi, perché siete un popolo ostinato,*+ e potrei sterminarvi lungo il cammino”.+
+
+4 Udendo queste parole severe, il popolo cominciò a fare cordoglio, e nessuno indossò i propri ornamenti. 5 Geova disse a Mosè: “Di’ agli israeliti: ‘Siete un popolo ostinato.*+ In un attimo potrei passare in mezzo a voi e sterminarvi.+ Ora, perciò, non mettetevi i vostri ornamenti; nel frattempo deciderò cosa fare di voi’”. 6 Così dopo la partenza dal monte Hòreb gli israeliti evitarono di indossare* ornamenti.
+
+7 Ora Mosè tolse la sua tenda e la piantò fuori dall’accampamento, a una certa distanza, e la chiamò tenda dell’incontro. Chi voleva interrogare Geova+ doveva recarsi alla tenda dell’incontro, che era fuori dall’accampamento. 8 Non appena Mosè andava verso la tenda, tutti si alzavano e, stando ognuno all’entrata della propria tenda, restavano a guardarlo finché non entrava nella tenda. 9 E non appena Mosè entrava nella tenda, la colonna di nuvola+ si abbassava e restava all’entrata della tenda mentre Dio parlava con lui.+ 10 Quando vedeva la colonna di nuvola stare all’entrata della tenda, tutto il popolo si alzava e si inchinava, ognuno all’entrata della propria tenda. 11 Geova parlava a tu per tu* con Mosè,+ proprio come un uomo parlerebbe con un altro uomo. Quando Mosè tornava nell’accampamento, Giosuè+ figlio di Nun, suo servitore e aiutante,+ non si allontanava dalla tenda.
+
+12 Ora Mosè disse a Geova: “Ecco, tu mi dici: ‘Guida questo popolo’. Però non mi hai rivelato chi manderai insieme a me. Hai anche detto: ‘Ti conosco bene,* e hai ottenuto il mio favore’. 13 Ti prego, se davvero ho il tuo favore, fammi conoscere le tue vie,+ in modo che io possa conoscerti e continuare ad avere il tuo favore. Ricorda inoltre che questa nazione è il tuo popolo”.+ 14 Dio* quindi disse: “Io stesso* verrò con te+ e ti darò pace”.+ 15 Allora Mosè rispose: “Se tu* non verrai, non farci partire da qui. 16 Da cosa si capirà che ho ottenuto il tuo favore, io insieme al tuo popolo? Non è proprio dal fatto che tu verrai con noi?+ È così che io e il tuo popolo ci distingueremo da ogni altro popolo sulla faccia della terra”.+
+
+17 E Geova disse a Mosè: “Esaudirò anche questa tua richiesta, perché hai ottenuto il mio favore e ti conosco bene”.* 18 Allora Mosè disse: “Ti prego, mostrami la tua gloria”. 19 Egli rispose: “Farò passare davanti a te tutta la mia bontà, e proclamerò davanti a te il nome di Geova;+ concederò favore a colui al quale vorrò concedere favore, e mostrerò misericordia a colui al quale vorrò mostrare misericordia”.+ 20 E aggiunse: “Ma non puoi vedere la mia faccia, perché nessun uomo può vedermi e vivere”.
+
+21 Geova disse inoltre: “Ecco un posto vicino a me. Mettiti su quella roccia. 22 Quando passerà la mia gloria ti farò stare in una fenditura della roccia, e ti proteggerò con la mia mano finché non sarò passato. 23 Allora toglierò la mano, e mi vedrai da dietro; ma la mia faccia non si può vedere”.+
 
         `,
   },
@@ -1273,6 +1727,51 @@ Questi sono i capi delle case paterne dei leviti, secondo le loro famiglie.+
     dia: "29",
     relato: "Esodo 34-35",
     biblia: `
+    34 Geova disse poi a Mosè: “Tagliati due tavole di pietra come le prime,+ e io vi scriverò le parole che erano sulle prime tavole,+ quelle che hai spezzato.+ 2 Preparati per domani mattina, perché domani mattina salirai sul monte Sinai e starai davanti a me, in cima al monte.+ 3 Ma con te non potrà salire nessuno, e su tutto il monte non si dovrà vedere nessun altro. Neppure greggi o mandrie potranno pascolare davanti a questo monte”.+
+
+    4 Così Mosè tagliò due tavole di pietra come le prime; la mattina si alzò di buon’ora e salì sul monte Sinai, proprio come Geova gli aveva comandato, portando con sé le due tavole di pietra. 5 Allora Geova scese+ nella nuvola e stette là con lui, e dichiarò il nome di Geova.+ 6 E Geova passò davanti a lui e dichiarò: “Geova, Geova, Dio misericordioso+ e compassionevole,+ che è paziente*+ e abbonda in amore leale*+ e verità,*+ 7 che mostra amore leale a migliaia di generazioni,+ che perdona l’errore, la trasgressione e il peccato,+ ma non lascerà affatto impuniti i colpevoli,+ infliggendo la punizione per l’errore dei padri ai figli e ai nipoti, alla terza e alla quarta generazione”.+
+    
+    8 Mosè si affrettò a inginocchiarsi con il viso a terra. 9 Quindi disse: “O Geova, se ho ottenuto il tuo favore, allora ti prego, Geova, vieni con noi, in mezzo a noi,+ anche se siamo un popolo ostinato,*+ e perdona il nostro errore e il nostro peccato,+ e prendici come tua proprietà”. 10 Dio rispose: “Ecco, faccio un patto: davanti a tutto il tuo popolo farò cose meravigliose che non sono mai state fatte* in tutta la terra, fra tutte le nazioni;+ e tutto il popolo in mezzo a cui vivi vedrà l’opera di Geova, perché è straordinario quello che sto per fare con voi.+
+    
+    11 “Prestate attenzione a ciò che oggi vi comando.+ Ecco, scaccio davanti a voi gli amorrei, i cananei, gli ittiti, i ferezei, gli ivvei e i gebusei.+ 12 Badate di non stringere alleanze con gli abitanti del paese in cui state andando,+ perché questo si rivelerebbe una trappola per voi.+ 13 Dovrete anzi demolire i loro altari, spezzare le loro colonne sacre e abbattere i loro pali sacri.*+ 14 Non devi inchinarti davanti a un altro dio,+ perché Geova, com’è noto, richiede devozione esclusiva;* è senz’altro un Dio che richiede devozione esclusiva.+ 15 Bada di non stringere alleanze con gli abitanti del paese perché, quando si prostituiranno ai loro dèi e offriranno loro sacrifici,+ qualcuno ti inviterà e tu mangerai del suo sacrificio.+ 16 A quel punto sicuramente prenderai tra loro delle figlie per i tuoi figli,+ e le loro figlie si prostituiranno ai loro dèi e spingeranno anche i tuoi figli a prostituirsi ai loro dèi.+
+    
+    17 “Non devi farti dèi di metallo fuso.+
+    
+    18 “Osserverai la Festa dei Pani Azzimi.+ Come ti ho comandato, mangerai pane senza lievito per sette giorni al tempo stabilito nel mese di avìv,*+ perché è nel mese di avìv che sei uscito dall’Egitto.
+    
+    19 “Ogni primogenito maschio* è mio,+ anche di tutto il tuo bestiame, che sia il primo maschio del toro o della pecora.+ 20 Dovrai riscattare con una pecora il primogenito dell’asino, e se non lo riscatterai dovrai rompergli il collo. Dovrai riscattare ogni primogenito dei tuoi figli.+ Nessuno potrà presentarsi davanti a me a mani vuote.
+    
+    21 “Per sei giorni lavorerai, ma il settimo giorno riposerai.*+ Anche nel periodo dell’aratura e della mietitura riposerai.
+    
+    22 “Celebrerai inoltre la tua Festa delle Settimane con i primi frutti della mietitura del frumento, e la Festa della Raccolta* alla fine dell’anno.+
+    
+    23 “Tre volte l’anno tutti i tuoi uomini* si presenteranno davanti al vero Signore, Geova, l’Iddio d’Israele.+ 24 Scaccerò le nazioni davanti a te+ ed espanderò il tuo territorio, e nessuno cercherà di impadronirsi della tua terra quando salirai per comparire davanti a Geova tuo Dio tre volte l’anno.
+    
+    25 “Non devi offrire il sangue del mio sacrificio insieme a qualcosa di lievitato.+ Il sacrificio della Festa della Pasqua non deve rimanere fino al mattino successivo.+
+    
+    26 “Devi portare il meglio dei primi frutti maturi della tua terra alla casa di Geova tuo Dio.+
+    
+    “Non devi cuocere un capretto nel latte di sua madre”.+
+    
+    27 Geova disse ancora a Mosè: “Scrivi queste parole,+ perché sulla base di queste parole concludo un patto con te e con Israele”.+ 28 E Mosè rimase là con Geova 40 giorni e 40 notti. Non mangiò pane e non bevve acqua.+ Ed Egli* scrisse sulle tavole le parole del patto, i Dieci Comandamenti.*+
+    
+    29 Poi Mosè scese dal monte Sinai, e aveva in mano le due tavole della Testimonianza.+ Mentre scendeva dal monte non sapeva che la pelle del suo volto sfolgorava per il fatto che aveva parlato con Dio. 30 Quando lo videro, Aronne e tutti gli israeliti si accorsero che la pelle del suo volto sfolgorava ed ebbero paura di avvicinarsi.+
+    
+    31 Ma Mosè li chiamò; così Aronne e tutti i capi dell’assemblea andarono da lui, e Mosè parlò loro. 32 Allora si avvicinarono tutti gli israeliti, e lui trasmise loro tutti i comandi che Geova gli aveva dato sul monte Sinai.+ 33 Quando finiva di parlare con loro, Mosè si metteva un velo sul volto.+ 34 Ma quando entrava alla presenza di Geova per parlare con lui, si toglieva il velo fino a che non usciva.+ Poi, una volta uscito, rivelava agli israeliti i comandi che aveva ricevuto.+ 35 E gli israeliti vedevano che la pelle del suo volto sfolgorava; Mosè si rimetteva poi il velo sul volto finché non entrava a parlare con Dio.*+
+    <br>
+    35 Mosè radunò quindi l’intera assemblea degli israeliti e disse loro: “Queste sono le cose che Geova ha comandato di fare.+ 2 Si può lavorare per sei giorni, ma il settimo giorno diventerà per voi qualcosa di santo, un Sabato di completo riposo in onore di Geova.+ Se in quel giorno qualcuno dovesse lavorare sarà messo a morte.+ 3 Non dovete accendere un fuoco in nessuna delle vostre dimore nel giorno del Sabato”.
+
+4 Mosè disse poi all’intera assemblea degli israeliti: “Questo è ciò che Geova ha comandato: 5 ‘Raccogliete tra voi una contribuzione per Geova.+ Chiunque abbia un cuore generoso+ porti una contribuzione per Geova: oro, argento, rame, 6 filo blu, lana color porpora, filo scarlatto, lino fine, pelo di capra,+ 7 pelli di montone tinte di rosso, pelli di foca, legno di acacia, 8 olio per le lampade, balsamo per l’olio dell’unzione e per l’incenso profumato,+ 9 nonché onice e altre pietre da incastonare nell’efod+ e nel pettorale.+
+
+10 “‘Tutti quelli dotati di abilità*+ fra voi vengano e facciano tutto ciò che Geova ha comandato, 11 cioè il tabernacolo con la sua tenda e la sua copertura, i suoi ganci e i suoi telai, le sue barre, le sue colonne e le sue basi forate; 12 l’Arca+ con le sue stanghe,+ il coperchio+ e la cortina;+ 13 la tavola+ con le sue stanghe, tutti i suoi utensili e il pane di presentazione;+ 14 il candelabro+ con i suoi utensili, le sue lampade e l’olio per l’illuminazione;+ 15 l’altare dell’incenso+ e le sue stanghe; l’olio dell’unzione e l’incenso profumato;+ la tenda d’ingresso* del tabernacolo; 16 l’altare degli olocausti+ con la sua graticola di rame, le sue stanghe e tutti i suoi utensili; il bacino e la sua base;+ 17 la recinzione di teli del cortile,+ le sue colonne e le sue basi forate; la tenda d’ingresso* del cortile; 18 i pioli del tabernacolo, i pioli del cortile e il loro cordame;+ 19 le vesti tessute finemente+ per il servizio nel santuario, le vesti sante per il sacerdote Aronne+ e le vesti dei suoi figli per il servizio sacerdotale’”.
+
+20 A quel punto tutta l’assemblea degli israeliti si congedò da Mosè. 21 Quindi tutti quelli che furono spinti dal proprio cuore+ e incitati dal proprio spirito vennero a portare la contribuzione per Geova, affinché fosse usata per la tenda dell’incontro, per tutto il suo servizio e per le vesti sante. 22 Continuarono a venire, uomini e donne, tutti quelli che avevano un cuore generoso, portando fermagli, orecchini, anelli e altri gioielli, oltre a ogni genere di oggetti d’oro. Tutti presentarono le loro offerte* d’oro a Geova.+ 23 E tutti quelli che avevano filo blu, lana color porpora, filo scarlatto, lino fine, pelo di capra, pelli di montone tinte di rosso e pelli di foca li portarono. 24 Tutti quelli che volevano offrire argento e rame li portarono come contribuzione per Geova, e tutti quelli che avevano legno di acacia adatto a qualche parte del lavoro lo portarono.
+
+25 Tutte le donne esperte+ filarono con le loro mani e portarono ciò che avevano filato: filo blu, lana color porpora, filo scarlatto e lino fine. 26 E tutte le donne esperte che furono spinte dal proprio cuore filarono il pelo di capra.
+
+27 E i capi portarono onice e altre pietre da incastonare nell’efod e nel pettorale,+ 28 il balsamo nonché l’olio per l’illuminazione, per l’olio dell’unzione+ e per l’incenso profumato.+ 29 Tutti gli uomini e le donne che furono spinti dal proprio cuore portarono qualcosa per l’opera che Geova, tramite Mosè, aveva comandato di fare; gli israeliti lo portarono a Geova come offerta volontaria.+
+
+30 Quindi Mosè disse agli israeliti: “Ecco, Geova ha scelto Bezalèl, figlio di Uri, figlio di Hur, della tribù di Giuda.+ 31 Lo ha riempito del suo spirito,* dandogli sapienza e intelligenza e conoscenza in ogni genere di lavoro, 32 per elaborare progetti artistici, per lavorare l’oro, l’argento e il rame, 33 per intagliare e incastonare pietre, e per realizzare qualunque oggetto artistico in legno. 34 E gli ha dato la capacità di insegnare, a lui nonché a Ooliàb,+ figlio di Aisamàc, della tribù di Dan. 35 Li ha colmati di abilità*+ per fare ogni tipo di lavoro di artigiano, di ricamatore, di tessitore di filo blu, lana color porpora, filo scarlatto e lino fine, e di lavoratore al telaio. Questi uomini faranno ogni genere di lavoro ed elaboreranno ogni tipo di progetto.
 
         `,
   },
@@ -1280,6 +1779,45 @@ Questi sono i capi delle case paterne dei leviti, secondo le loro famiglie.+
     dia: "30",
     relato: "Esodo 36-38",
     biblia: `
+    36 “Bezalèl lavorerà insieme a Ooliàb e a tutti gli uomini dotati di abilità* a cui Geova ha dato sapienza e intelligenza affinché siano in grado di fare tutto il lavoro relativo al servizio santo proprio come Geova ha comandato”.+
+
+    2 Poi Mosè chiamò Bezalèl, Ooliàb e tutti gli uomini dotati di abilità nel cui cuore Geova aveva messo sapienza,+ tutti quelli il cui cuore li spingeva a offrirsi di fare il lavoro.+ 3 Quindi presero da Mosè l’intera contribuzione+ che gli israeliti avevano portato per il lavoro relativo al servizio santo. Tuttavia questi ultimi continuarono a portargli offerte volontarie, mattina dopo mattina.
+    
+    4 Una volta iniziato il lavoro santo, tutti gli abili artigiani vennero, uno dopo l’altro, 5 e dissero a Mosè: “Il popolo sta portando molto più di quanto sia necessario per eseguire il lavoro che Geova ha comandato di fare”. 6 Allora Mosè ordinò che in tutto l’accampamento si diffondesse questo annuncio: “Uomini e donne, non portate più nulla per la contribuzione santa”. Così si dovette impedire al popolo di portare altro. 7 I materiali risultarono sufficienti per tutto il lavoro, anzi più che sufficienti.
+    
+    8 Quindi tutti gli abili artigiani+ realizzarono il tabernacolo+ con 10 teli di lino fine ritorto, filo blu, lana color porpora e filo scarlatto; lui* li fece con cherubini ricamati sopra.+ 9 Ogni telo era lungo 28 cubiti* e largo 4. Tutti i teli erano della stessa misura. 10 Unì 5 teli tra loro, e gli altri 5 teli tra loro. 11 Dopodiché fece cappi* di filo blu lungo l’orlo di un telo, dove doveva congiungersi. Fece la stessa cosa lungo l’orlo dell’ultimo telo nel corrispondente punto di giuntura. 12 Fece 50 cappi su un telo e 50 lungo l’orlo dell’altro telo in modo che si trovassero gli uni di fronte agli altri nel punto di giuntura. 13 Infine fece 50 ganci d’oro e con questi congiunse i teli, così che la tenda del tabernacolo diventò un tutt’uno.
+    
+    14 Poi fece teli di pelo di capra per la tenda sopra il tabernacolo. Ne fece 11.+ 15 Ogni telo era lungo 30 cubiti e largo 4. Gli 11 teli erano tutti della stessa misura. 16 Quindi unì tra loro 5 teli da una parte e 6 teli dall’altra. 17 Fece poi 50 cappi sull’orlo dell’ultimo telo, nel punto di giuntura, e 50 cappi sull’orlo dell’altro telo che si congiungeva a esso. 18 Fece inoltre 50 ganci di rame per unire insieme la tenda, perché diventasse un tutt’uno.
+    
+    19 Fece per la tenda una copertura di pelli di montone tinte di rosso, e al di sopra di quella una copertura di pelli di foca.+
+    
+    20 Quindi fece i telai del tabernacolo in legno di acacia;+ andavano messi in verticale.+ 21 Ogni telaio era alto 10 cubiti e largo un cubito e mezzo. 22 Ognuno aveva 2 perni* appaiati. È così che fece tutti i telai del tabernacolo. 23 Fece dunque i telai per il lato meridionale del tabernacolo, verso sud, 20 telai. 24 Poi sotto i 20 telai fece 40 basi forate d’argento: 2 basi forate sotto un singolo telaio per i suoi 2 perni, e così per ogni telaio.+ 25 Per l’altro lato del tabernacolo, il lato settentrionale, fece 20 telai 26 e le relative 40 basi forate d’argento: 2 basi forate sotto un singolo telaio, e così per ogni telaio.
+    
+    27 Per il lato posteriore del tabernacolo, che guarda a ovest, fece 6 telai.+ 28 Fece 2 telai come montanti ai 2 angoli posteriori del tabernacolo. 29 Erano formati da 2 elementi appaiati, dal basso fino in cima, fino al 1o anello. È così che fece i 2 montanti d’angolo. 30 In totale dunque c’erano 8 telai con le relative 16 basi forate d’argento: 2 basi forate sotto ogni telaio.
+    
+    31 Fece poi barre di legno di acacia: 5 per i telai di un lato del tabernacolo,+ 32 5 per i telai dell’altro lato del tabernacolo e 5 per i telai del lato posteriore del tabernacolo che guarda a ovest. 33 Fece la barra che corre a mezza altezza dei telai da un capo all’altro. 34 Rivestì d’oro i telai, fece d’oro gli anelli in cui si infilavano le barre e rivestì d’oro le barre.+
+    
+    35 Dopodiché fece una cortina+ di filo blu, lana color porpora, filo scarlatto e lino fine ritorto. La ornò con cherubini+ ricamati.+ 36 Quindi fece per essa 4 colonne di acacia rivestite d’oro con i relativi ganci, anch’essi d’oro; e per le colonne fuse 4 basi forate d’argento. 37 Poi fece per il tabernacolo una tenda d’ingresso* di filo blu, lana color porpora, filo scarlatto e lino fine ritorto tessuti insieme,+ 38 nonché le sue 5 colonne con i relativi ganci. Rivestì d’oro la sommità delle colonne e i loro elementi di collegamento,* mentre le loro 5 basi forate erano di rame.
+    <br>
+    rolle formavano un unico pezzo.+ 18 E dal fusto del candelabro si dipartivano 6 bracci: 3 da un lato e 3 dall’altro. 19 Su ognuno dei 3 bracci che si dipartivano da un lato c’erano 3 calici a forma di fiori di mandorlo, con pomi e corolle che si alternavano; e anche su ognuno dei 3 bracci che si dipartivano dall’altro lato c’erano 3 calici a forma di fiori di mandorlo, con pomi e corolle che si alternavano: era così per i 6 bracci che si dipartivano dal fusto del candelabro. 20 Sul fusto del candelabro c’erano 4 calici a forma di fiori di mandorlo, con pomi e corolle che si alternavano. 21 C’era un pomo sotto i primi 2 bracci che si dipartivano dal fusto, un pomo sotto gli altri 2 bracci e un altro pomo sotto gli altri 2 bracci ancora: era così per i 6 bracci che si dipartivano dal fusto del candelabro. 22 I pomi, i bracci e l’intero candelabro erano di un unico pezzo d’oro battuto, puro. 23 Quindi fece le sue 7 lampade,+ i suoi spegnitoi* e le sue palette* d’oro puro. 24 Realizzò il candelabro e tutti i suoi utensili con un talento* d’oro puro.
+
+25 Fece poi l’altare dell’incenso+ in legno di acacia. Era quadrato, lungo un cubito, largo un cubito e alto 2. I suoi corni erano un tutt’uno con esso.+ 26 Lo rivestì d’oro puro — la parte superiore, i lati tutt’intorno e i corni — e gli fece intorno un bordo d’oro. 27 E fece 2 anelli d’oro su un lato e 2 sul lato opposto, sotto il bordo, con cui sostenere le stanghe usate per trasportarlo. 28 Dopo fece le stanghe di legno di acacia e le rivestì d’oro. 29 Preparò inoltre l’olio per l’unzione santa+ e il puro incenso profumato,+ entrambi sapientemente miscelati.*
+<br>
+38 Fece l’altare degli olocausti in legno di acacia. Era quadrato, lungo 5 cubiti,* largo 5 e alto 3.+ 2 Quindi fece i suoi corni ai suoi 4 angoli. I corni erano un tutt’uno con esso. Lo rivestì poi di rame.+ 3 Dopodiché fece tutti gli utensili dell’altare: i recipienti per le ceneri, le pale, le scodelle, i forchettoni e i bracieri.* Fece tutti i suoi utensili in rame. 4 Per l’altare fece anche una graticola: una rete di rame posizionata al di sotto della cornice, a mezza altezza. 5 Fuse 4 anelli da fissare ai 4 angoli vicino alla graticola di rame, per infilarvi le stanghe. 6 Poi fece le stanghe di legno di acacia e le rivestì di rame. 7 Infilò le stanghe negli anelli ai lati dell’altare perché lo si potesse trasportare. Fece l’altare di assi, vuoto internamente.
+
+8 Quindi fece il bacino di rame+ con la sua base di rame; utilizzò a tale scopo gli specchi* delle donne che prestavano servizio in modo organizzato all’ingresso della tenda dell’incontro.
+
+9 Poi fece il cortile.+ Per il lato meridionale del cortile, che guarda a sud, fece teli di lino fine ritorto per una lunghezza di 100 cubiti.+ 10 C’erano 20 colonne e 20 basi forate di rame. I ganci delle colonne e gli elementi di collegamento* erano d’argento. 11 Anche sul lato settentrionale c’erano teli per una lunghezza di 100 cubiti. Le loro 20 colonne e le loro 20 basi forate erano di rame. I ganci delle colonne e gli elementi di collegamento erano d’argento. 12 Sul lato occidentale, invece, la recinzione di teli era lunga 50 cubiti. C’erano 10 colonne e 10 basi forate. I ganci delle colonne e gli elementi di collegamento erano d’argento. 13 La larghezza del cortile dal lato orientale, verso est, era di 50 cubiti. 14 Da una parte c’era una serie di teli lunga 15 cubiti, con 3 colonne e 3 basi forate; 15 e dall’altra parte dell’ingresso del cortile c’era un’altra serie di teli di 15 cubiti, con 3 colonne e 3 basi forate. 16 Tutti i teli che recingevano il cortile erano di lino fine ritorto. 17 Le basi forate per le colonne erano di rame, mentre i ganci delle colonne e gli elementi di collegamento erano d’argento; la sommità delle colonne era rivestita d’argento e tutte le colonne del cortile avevano elementi di fissaggio in argento.+
+
+18 La tenda d’ingresso* del cortile era tessuta con filo blu, lana color porpora, filo scarlatto e lino fine ritorto. Era lunga 20 cubiti e alta 5, la stessa altezza dei teli del cortile.+ 19 Le sue 4 colonne e le relative 4 basi forate erano di rame. I loro ganci e gli elementi di collegamento erano d’argento, e le loro sommità erano rivestite d’argento. 20 Tutti i pioli del tabernacolo e della recinzione del cortile erano di rame.+
+
+21 Quella che segue è la lista dei materiali impiegati nella realizzazione del tabernacolo, il tabernacolo della Testimonianza,+ compilata per comando di Mosè a opera dei leviti+ sotto la guida di Itamàr,+ figlio del sacerdote Aronne. 22 Bezalèl,+ figlio di Uri, figlio di Hur, della tribù di Giuda, fece tutto ciò che Geova aveva comandato a Mosè. 23 Con lui c’era Ooliàb,+ figlio di Aisamàc, della tribù di Dan, artigiano, ricamatore e tessitore di filo blu, lana color porpora, filo scarlatto e lino fine.
+
+24 Tutto l’oro usato nell’intera realizzazione del luogo santo corrispose all’ammontare dell’oro dell’offerta agitata:+ 29 talenti* e 730 sicli* in base al siclo ufficiale del luogo santo.* 25 E l’argento contribuito dagli uomini dell’assemblea che erano stati registrati ammontò a 100 talenti e 1.775 sicli in base al siclo ufficiale del luogo santo. 26 Il mezzo siclo* a persona era la metà di un siclo in base al siclo ufficiale del luogo santo per ogni uomo tra quelli registrati, dai 20 anni in su,+ i quali furono in totale 603.550.+
+
+27 Per fondere le basi forate del luogo santo e le basi forate della cortina furono impiegati 100 talenti d’argento: 100 basi forate richiesero 100 talenti, un talento per ogni base forata.+ 28 Con i 1.775 sicli fece i ganci per le colonne, rivestì la sommità di queste e le collegò le une alle altre.
+
+29 Il rame offerto* ammontò a 70 talenti e 2.400 sicli. 30 Con questo fece le basi forate dell’ingresso della tenda dell’incontro, l’altare di rame con la sua graticola di rame, tutti gli utensili dell’altare, 31 le basi forate del cortile, le basi forate dell’ingresso del cortile, tutti i pioli del tabernacolo e tutti i pioli+ della recinzione del cortile.
 
         `,
   },
@@ -1287,142 +1825,748 @@ Questi sono i capi delle case paterne dei leviti, secondo le loro famiglie.+
     dia: "31",
     relato: "Esodo 39-40",
     biblia: `
+    39 Con il filo blu, la lana color porpora e il filo scarlatto+ fecero vesti tessute finemente per il servizio nel luogo santo. Fecero le vesti sante destinate ad Aronne,+ proprio come Geova aveva comandato a Mosè.
+
+    2 Lui* fece l’efod+ con oro, filo blu, lana color porpora, filo scarlatto e lino fine ritorto. 3 Batterono lastre d’oro riducendole in lamine sottili, e da queste lui tagliò fili da intrecciare al filo blu, alla lana color porpora, al filo scarlatto e al lino fine per ricamare l’efod. 4 Fecero spalline per l’efod, unite alle sue 2 estremità superiori. 5 E la cintura,* che andava legata su di esso per tenerlo fermo,+ fu fatta con gli stessi materiali, proprio come Geova aveva comandato a Mosè: oro, filo blu, lana color porpora, filo scarlatto e lino fine ritorto.
+    
+    6 Quindi montarono le pietre di onice in castoni d’oro e vi incisero i nomi dei figli di Israele, come si inciderebbe un sigillo.+ 7 Lui le mise sulle spalline dell’efod in memoria,* per i figli di Israele,+ proprio come Geova aveva comandato a Mosè. 8 Dopodiché fece il pettorale,+ lavoro di ricamatore, come aveva fatto l’efod: in oro, filo blu, lana color porpora, filo scarlatto e lino fine ritorto.+ 9 Piegato in due, il pettorale era quadrato. Lo fecero in modo che, quando lo si piegava in due, fosse una spanna* in lunghezza e una spanna in larghezza. 10 Vi fissarono 4 file di pietre: nella 1a fila rubino, topazio e smeraldo; 11 nella 2a fila turchese, zaffiro e diaspro; 12 nella 3a fila lèshem,* agata e ametista; 13 nella 4a fila crisolito, onice e giada. Furono montate in castoni d’oro. 14 Le pietre corrispondevano ai nomi dei 12 figli di Israele, e i nomi erano incisi come su un sigillo, un nome per ognuna delle 12 tribù.
+    
+    15 Quindi fecero sul pettorale catenelle d’oro puro intrecciate come corde.+ 16 Fecero poi 2 castoni d’oro e 2 anelli d’oro, e fissarono i 2 anelli ai 2 angoli* del pettorale. 17 Infilarono le 2 corde d’oro nei 2 anelli agli angoli del pettorale. 18 Infilarono i 2 capi delle 2 corde nei 2 castoni e li fissarono alle spalline dell’efod, sul davanti. 19 Dopodiché fecero 2 anelli d’oro e li fissarono ai 2 angoli* del pettorale, sull’orlo interno, verso l’efod.+ 20 Fecero quindi altri 2 anelli d’oro e li misero sul davanti dell’efod, sotto le 2 spalline e sopra il punto in cui la cintura teneva fermo l’efod. 21 Infine legarono il pettorale con un cordoncino blu che collegava i suoi anelli agli anelli dell’efod, in modo che il pettorale rimanesse al suo posto sull’efod, sopra la cintura, proprio come Geova aveva comandato a Mosè.
+    
+    22 Poi fece il manto senza maniche dell’efod, lavoro di tessitore, interamente di filo blu.+ 23 Il manto senza maniche aveva l’apertura nel mezzo, come l’apertura di una corazza.* L’apertura aveva un bordo tutt’intorno perché non si strappasse. 24 Sull’orlo del manto senza maniche fecero melagrane di filo blu, lana color porpora e filo scarlatto ritorti insieme. 25 Fecero poi campanelli d’oro puro e li misero tra una melagrana e l’altra sull’intera lunghezza dell’orlo del manto senza maniche; 26 alternarono un campanello e una melagrana, un campanello e una melagrana, tutt’intorno all’orlo del manto senza maniche che veniva indossato per prestare servizio, proprio come Geova aveva comandato a Mosè.
+    
+    27 Fecero poi per Aronne e i suoi figli le tuniche di lino fine,+ lavoro di tessitore, 28 il turbante+ di lino fine, i copricapi ornamentali+ di lino fine, i calzoni*+ di lino fine ritorto 29 e la fascia di lino fine ritorto, filo blu, lana color porpora e filo scarlatto tessuti insieme, proprio come Geova aveva comandato a Mosè.
+    
+    30 Infine fecero la lucente lamina, il santo segno di dedicazione,* in oro puro; su di essa incisero, come si inciderebbe un sigillo, un’iscrizione: “La santità appartiene a Geova”.+ 31 Quindi vi attaccarono un cordoncino di filo blu per fissarla al turbante, proprio come Geova aveva comandato a Mosè.
+    
+    32 Tutto il lavoro del tabernacolo, cioè la tenda dell’incontro, fu dunque portato a termine, e gli israeliti fecero tutto ciò che Geova aveva comandato a Mosè.+ Fecero proprio così.
+    
+    33 Allora portarono a Mosè il tabernacolo,+ la tenda+ con tutti i suoi elementi: i ganci,+ i telai,+ le barre,+ le colonne e le basi forate;+ 34 la copertura di pelli di montone tinte di rosso,+ la copertura di pelli di foca e la cortina;+ 35 l’Arca della Testimonianza con le stanghe+ e il coperchio;+ 36 la tavola, tutti i suoi utensili+ e il pane di presentazione; 37 il candelabro d’oro puro, le lampade+ da allineare sopra di esso, tutti i suoi utensili+ e l’olio per l’illuminazione;+ 38 l’altare+ d’oro, l’olio dell’unzione,+ l’incenso profumato+ e la tenda+ d’ingresso;* 39 l’altare di rame+ con la sua graticola di rame, le sue stanghe,+ tutti i suoi utensili+ e il bacino con la sua base;+ 40 la recinzione di teli del cortile, le sue colonne e le sue basi forate,+ la tenda+ d’ingresso* del cortile, il suo cordame, i suoi pioli+ e tutti gli utensili per il servizio del tabernacolo, cioè la tenda dell’incontro; 41 le vesti tessute finemente per il servizio nel santuario, le vesti sante per il sacerdote Aronne+ e le vesti dei suoi figli per il servizio sacerdotale.
+    
+    42 Fu in questo modo che gli israeliti fecero tutto il lavoro: secondo tutto ciò che Geova aveva comandato a Mosè.+ 43 Quando esaminò tutto il loro lavoro, Mosè vide che l’avevano fatto proprio come Geova aveva comandato; allora Mosè li benedisse.
+    <br>
+    40 Quindi Geova disse a Mosè: 2 “Il primo giorno del primo mese erigerai il tabernacolo, la tenda dell’incontro.+ 3 Vi collocherai l’Arca della Testimonianza+ e la nasconderai alla vista con la cortina.+ 4 Porterai dentro la tavola,+ disponendo su di essa tutto ciò che vi deve andare, dopodiché porterai dentro il candelabro+ e ne accenderai le lampade.+ 5 Poi sistemerai l’altare d’oro per l’incenso+ davanti all’Arca della Testimonianza e monterai la tenda d’ingresso* del tabernacolo.+
+
+6 “Metterai l’altare degli olocausti+ davanti all’ingresso del tabernacolo, la tenda dell’incontro; 7 quindi collocherai il bacino fra la tenda dell’incontro e l’altare e vi metterai dentro dell’acqua.+ 8 Recinterai il cortile+ e monterai la tenda+ d’ingresso* del cortile. 9 A quel punto prenderai l’olio dell’unzione+ e ungerai il tabernacolo e tutto ciò che è al suo interno;+ lo consacrerai insieme a tutti i suoi utensili, così che diventi qualcosa di santo. 10 Ungerai l’altare degli olocausti insieme a tutti i suoi utensili e lo consacrerai, così che diventi un altare santissimo.+ 11 E ungerai il bacino con la sua base e lo santificherai.
+
+12 “Quindi farai avvicinare Aronne e i suoi figli all’ingresso della tenda dell’incontro e li laverai con acqua.+ 13 E devi vestire Aronne con le vesti sante+ e ungerlo+ e consacrarlo, e lui mi servirà in qualità di sacerdote. 14 Dopodiché farai avvicinare i suoi figli e li vestirai con le tuniche.+ 15 Devi ungerli come hai unto il loro padre+ in modo che mi servano in qualità di sacerdoti, e la loro unzione garantirà loro un sacerdozio duraturo, di generazione in generazione”.+
+
+16 Mosè fece tutto ciò che Geova gli aveva comandato.+ Fece proprio così.
+
+17 Pertanto nel primo mese del secondo anno, il primo giorno del mese, fu eretto il tabernacolo.+ 18 Quando si mise a costruire il tabernacolo, Mosè posizionò le basi forate,+ inserì i telai,+ collocò le barre+ ed eresse le colonne. 19 Stese la tenda+ sul tabernacolo e vi mise al di sopra la copertura+ della tenda, proprio come Geova gli aveva comandato.
+
+20 Poi prese la Testimonianza+ e la ripose dentro l’Arca;+ mise le stanghe+ all’Arca e vi pose sopra+ il coperchio.+ 21 Portò l’Arca dentro il tabernacolo, montò la cortina+ e nascose l’Arca della Testimonianza+ alla vista, proprio come Geova gli aveva comandato.
+
+22 Dopo mise la tavola+ nella tenda dell’incontro, sul lato settentrionale del tabernacolo, fuori dalla cortina, 23 e impilò su di essa i pani+ davanti a Geova, proprio come Geova gli aveva comandato.
+
+24 Mise il candelabro+ nella tenda dell’incontro di fronte alla tavola, sul lato meridionale del tabernacolo. 25 Accese quindi le lampade+ davanti a Geova, proprio come Geova gli aveva comandato.
+
+26 Mise poi l’altare d’oro+ nella tenda dell’incontro davanti alla cortina, 27 per far fumare su di esso+ l’incenso profumato,+ proprio come Geova gli aveva comandato.
+
+28 Infine montò la tenda+ d’ingresso* del tabernacolo.
+
+29 E posizionò l’altare degli olocausti+ all’ingresso del tabernacolo, cioè la tenda dell’incontro, per poter offrire su di esso l’olocausto+ e l’offerta di cereali, proprio come Geova gli aveva comandato.
+
+30 Quindi collocò il bacino fra la tenda dell’incontro e l’altare, e vi mise l’acqua con cui i sacerdoti dovevano lavarsi.+ 31 Mosè e Aronne e i suoi figli vi si lavarono le mani e i piedi. 32 Ogni volta che entravano* nella tenda dell’incontro o si avvicinavano all’altare si lavavano,+ proprio come Geova aveva comandato a Mosè.
+
+33 Infine eresse il cortile+ intorno al tabernacolo e all’altare e montò la tenda d’ingresso* del cortile.+
+
+Mosè completò dunque il lavoro. 34 E la nuvola coprì la tenda dell’incontro, e la gloria di Geova riempì il tabernacolo.+ 35 Mosè non poté entrare nella tenda dell’incontro, perché sopra di essa c’era la nuvola, e la gloria di Geova aveva riempito il tabernacolo.+
+
+36 E, in tutte le tappe del loro viaggio, quando la nuvola si alzava dal tabernacolo gli israeliti levavano l’accampamento.+ 37 Se invece la nuvola non si alzava, non levavano l’accampamento fino al giorno in cui si alzava.+ 38 Infatti, in tutte le tappe del loro viaggio, sul tabernacolo c’era di giorno la nuvola di Geova, e di notte un fuoco, alla vista di tutta la casa d’Israele.+
 
         `,
   },
   {
     dia: "32",
-    relato: "Levítico 1-4",
-    video: `https://download-a.akamaihd.net/files/media_publication/03/nwtsv_S_030_r360P.mp4`,
+    relato: "Levitico 1-4",
+    video: `https://d34ji3l0qn3w2t.cloudfront.net/f16484a5-5fbb-4f05-a10c-febb402069c8/2/nwtsv_I_030_r240P.mp4`,
     biblia: ` 
+    1 E Geova chiamò Mosè, e dalla tenda dell’incontro*+ gli disse: 2 “Parla agli israeliti* e di’ loro: ‘Se uno di voi desidera offrire a Geova un animale domestico, la sua offerta dev’essere presa dalla mandria o dal gregge.+
+
+3 “‘Se la sua offerta è un olocausto* preso dalla mandria, deve presentare un maschio sano.+ Deve presentarlo di sua spontanea volontà+ davanti a Geova all’ingresso della tenda dell’incontro. 4 Deve porre la mano sulla testa dell’olocausto, ed esso sarà accettato in suo favore per fare espiazione per lui.
+
+5 “‘Quindi il giovane toro dev’essere scannato davanti a Geova, e i figli di Aronne, i sacerdoti,+ presenteranno il sangue e lo spruzzeranno su tutti i lati dell’altare+ che è all’ingresso della tenda dell’incontro. 6 L’olocausto dev’essere scuoiato e tagliato a pezzi.+ 7 I figli di Aronne, i sacerdoti, metteranno del fuoco sull’altare+ e sistemeranno della legna sul fuoco. 8 I figli di Aronne, i sacerdoti, disporranno i pezzi dell’offerta,+ con la testa e il grasso,* sopra la legna messa sul fuoco che è sull’altare. 9 Gli intestini e le zampe saranno lavati con acqua. Poi il sacerdote farà fumare il tutto sull’altare come olocausto, un’offerta fatta mediante il fuoco, odore gradito* a Geova.+
+
+10 “‘Se la sua offerta come olocausto è presa dal gregge,+ che siano agnelli o capre, deve presentare un maschio sano.+ 11 L’animale dev’essere scannato sul lato nord dell’altare davanti a Geova, e i figli di Aronne, i sacerdoti, ne spruzzeranno il sangue su tutti i lati dell’altare.+ 12 Sarà tagliato a pezzi, e questi, insieme alla testa e al grasso,* saranno disposti dal sacerdote sopra la legna messa sul fuoco che è sull’altare. 13 Gli intestini e le zampe saranno lavati con acqua. Poi il sacerdote presenterà il tutto e lo farà fumare sull’altare. È un olocausto, un’offerta fatta mediante il fuoco, odore gradito* a Geova.
+
+14 “‘Se invece come olocausto offre a Geova degli uccelli, presenterà delle tortore o dei piccoli di piccione.+ 15 Il sacerdote presenterà l’animale all’altare, gli strapperà la testa* e lo farà fumare sull’altare, mentre il sangue dev’essere fatto scolare sul fianco dell’altare. 16 Gli deve togliere il gozzo e le piume, e deve gettarli a lato dell’altare, a est, nel luogo delle ceneri.*+ 17 Lo aprirà a metà all’altezza delle ali, ma senza staccare le due parti. Poi lo farà fumare sull’altare, sopra la legna messa sul fuoco. È un olocausto, un’offerta fatta mediante il fuoco, odore gradito* a Geova.
+<br>
+2 “‘Ora se qualcuno* presenta a Geova un’offerta di cereali,+ questa dev’essere di fior di farina;+ sopra deve versarvi olio e mettervi incenso.*+ 2 La porterà poi ai figli di Aronne, i sacerdoti, e il sacerdote prenderà una manciata del fior di farina con l’olio e tutto l’incenso,* e la farà fumare sull’altare in simbolo dell’intera offerta,*+ un’offerta fatta mediante il fuoco, odore gradito* a Geova. 3 Ciò che resta dell’offerta di cereali spetta ad Aronne e ai suoi figli+ come qualcosa di santissimo+ che proviene dalle offerte fatte a Geova mediante il fuoco.
+
+4 “‘Se presenti un’offerta di cereali che è stata cotta al forno, dev’essere di fior di farina: pani a ciambella senza lievito impastati con olio, o schiacciate senza lievito condite con olio.+
+
+5 “‘Se la tua è un’offerta di cereali cotta sulla piastra,+ dev’essere di fior di farina impastata con olio, senza lievito. 6 Dev’essere divisa in pezzi, e devi versarvi sopra dell’olio.+ È un’offerta di cereali.
+
+7 “‘Se la tua è un’offerta di cereali cotta nella padella, dev’essere di fior di farina con olio. 8 Devi portare a Geova l’offerta di cereali fatta di queste cose, e dev’essere presentata al sacerdote, che la porterà all’altare. 9 E il sacerdote prenderà parte dell’offerta di cereali in simbolo dell’intera offerta*+ e la farà fumare sull’altare come offerta fatta mediante il fuoco, odore gradito* a Geova.+ 10 Ciò che resta dell’offerta di cereali spetta ad Aronne e ai suoi figli come qualcosa di santissimo che proviene dalle offerte fatte a Geova mediante il fuoco.+
+
+11 “‘Nessuna offerta di cereali che presentate a Geova dev’essere lievitata,+ perché non dovete far fumare né lievito madre* né miele* come offerta fatta a Geova mediante il fuoco.
+
+12 “‘Potete presentarli a Geova come offerta di primizie,+ ma non devono essere portati all’altare come odore gradito.*
+
+13 “‘Ogni offerta di cereali che fai dev’essere condita con il sale; non devi far mancare sulla tua offerta di cereali il sale del patto del tuo Dio. Insieme a ogni tua offerta presenterai del sale.+
+
+14 “‘Se presenti a Geova l’offerta delle primizie dei cereali,* devi presentare grano nuovo* arrostito sul fuoco, chicchi teneri triturati grossolanamente, come offerta delle primizie dei tuoi cereali.+ 15 Devi mettervi sopra olio e incenso.* È un’offerta di cereali. 16 In simbolo dell’intera offerta,*+ il sacerdote farà fumare una parte dei chicchi triturati e dell’olio con tutto l’incenso,* come offerta fatta a Geova mediante il fuoco.
+<br>
+3 “‘Se la sua offerta è un sacrificio di comunione*+ e la prende dalla mandria, dovrà presentare davanti a Geova un animale sano, maschio o femmina. 2 Deve porre la mano sulla testa della sua offerta, ed essa sarà scannata all’ingresso della tenda dell’incontro; e i figli di Aronne, i sacerdoti, spruzzeranno il sangue su tutti i lati dell’altare. 3 Presenterà una parte del sacrificio di comunione come offerta fatta a Geova mediante il fuoco:+ il grasso+ che ricopre gli intestini, tutto il grasso che vi aderisce 4 e i due reni con il grasso su di essi, vicino ai lombi. Insieme ai reni toglierà anche la membrana grassa del fegato.+ 5 I figli di Aronne faranno fumare queste cose sull’altare, sull’olocausto che è sopra la legna messa sul fuoco;+ è un’offerta fatta mediante il fuoco, odore gradito* a Geova.+
+
+6 “‘Se la sua offerta come sacrificio di comunione a Geova è presa dal gregge, presenterà un animale sano, maschio o femmina.+ 7 Se presenta un agnello come sua offerta, lo presenterà davanti a Geova. 8 Porrà la mano sulla testa della sua offerta, ed essa sarà scannata davanti alla tenda dell’incontro. I figli di Aronne ne spruzzeranno il sangue su tutti i lati dell’altare. 9 Presenterà il grasso del sacrificio di comunione come offerta fatta a Geova mediante il fuoco.+ Toglierà tutta la grassa coda attaccata alla spina dorsale, il grasso che ricopre gli intestini, tutto il grasso che vi aderisce 10 e i due reni con il grasso su di essi, vicino ai lombi. Insieme ai reni toglierà anche la membrana grassa del fegato.+ 11 E il sacerdote farà fumare queste cose sull’altare come cibo,* un’offerta fatta a Geova mediante il fuoco.+
+
+12 “‘Se la sua offerta è una capra, la presenterà davanti a Geova. 13 Porrà la mano sulla sua testa, ed essa sarà scannata davanti alla tenda dell’incontro, e i figli di Aronne ne spruzzeranno il sangue su tutti i lati dell’altare. 14 La parte che presenterà come offerta fatta a Geova mediante il fuoco è il grasso che ricopre gli intestini, tutto il grasso che vi aderisce+ 15 e i due reni con il grasso su di essi, vicino ai lombi. Insieme ai reni toglierà anche la membrana grassa del fegato. 16 Il sacerdote farà fumare queste cose sull’altare come cibo,* un’offerta fatta mediante il fuoco, odore gradito.* Tutto il grasso spetta a Geova.+
+
+17 “‘È un decreto permanente per le vostre generazioni, in tutti i luoghi in cui dimorerete: non dovete assolutamente mangiare né grasso né sangue’”.+
+<br>
+4 Geova continuò a parlare a Mosè, dicendo: 2 “Di’ agli israeliti: ‘Nel caso in cui qualcuno* pecchi senza volerlo+ facendo una delle cose che Geova vieta di fare:
+
+3 “‘Se l’unto sacerdote+ pecca+ e reca così la colpa sul popolo, deve presentare a Geova, per il peccato che ha commesso, un giovane toro sano come offerta per il peccato.+ 4 Porterà il toro davanti a Geova all’ingresso della tenda dell’incontro,+ gli porrà la mano sulla testa e lo scannerà davanti a Geova.+ 5 Quindi l’unto sacerdote+ prenderà parte del sangue del toro e lo porterà dentro la tenda dell’incontro; 6 e il sacerdote intingerà il dito nel sangue+ e spruzzerà un po’ di sangue sette volte+ davanti a Geova, di fronte alla cortina* del luogo santo. 7 Il sacerdote, inoltre, metterà un po’ di sangue sui corni dell’altare dell’incenso profumato,+ che è davanti a Geova nella tenda dell’incontro; e verserà il resto del sangue del toro alla base dell’altare degli olocausti,+ che è all’ingresso della tenda dell’incontro.
+
+8 “‘Quindi toglierà tutto il grasso del toro dell’offerta per il peccato, compreso il grasso che ricopre gli intestini, tutto il grasso che vi aderisce 9 e i due reni con il grasso su di essi, vicino ai lombi. E insieme ai reni toglierà la membrana grassa del fegato.+ 10 Sono le stesse parti che vengono tolte al toro del sacrificio di comunione.+ Il sacerdote le farà fumare sull’altare degli olocausti.
+
+11 “‘Quanto alla pelle del toro, invece, e a tutta la sua carne, alla testa, alle zampe, agli intestini e allo sterco+ 12 (tutto quello che resta del toro), li farà portare fuori dall’accampamento, in un luogo puro dove si gettano le ceneri,* e li brucerà in un fuoco di legna.+ Devono essere bruciati dove si gettano le ceneri.
+
+13 “‘Se l’intera assemblea d’Israele si rende colpevole di un peccato involontario+ e la congregazione non sa che è stato fatto qualcosa che Geova ha vietato di fare+ 14 ma poi il peccato viene alla luce, la congregazione deve presentare un giovane toro come offerta per il peccato e deve portarlo davanti alla tenda dell’incontro. 15 Gli anziani dell’assemblea porranno le mani sulla testa del toro davanti a Geova, e il toro sarà scannato davanti a Geova.
+
+16 “‘Quindi l’unto sacerdote porterà parte del sangue del toro dentro la tenda dell’incontro. 17 Il sacerdote intingerà il dito nel sangue e ne spruzzerà un po’ per sette volte davanti a Geova, di fronte alla cortina.+ 18 Poi metterà un po’ di sangue sui corni dell’altare+ che è davanti a Geova, nella tenda dell’incontro; e verserà il resto del sangue alla base dell’altare degli olocausti, che è all’ingresso della tenda dell’incontro.+ 19 Toglierà tutto il grasso e lo farà fumare sull’altare.+ 20 Farà con questo toro proprio come ha fatto con l’altro toro dell’offerta per il peccato. È così che farà. E il sacerdote farà espiazione per loro,+ e saranno perdonati. 21 Farà portare il toro fuori dall’accampamento e lo brucerà, proprio come ha bruciato il primo toro.+ È un’offerta per il peccato della congregazione.+
+
+22 “‘Quando uno dei capi+ pecca senza volerlo facendo una delle cose che Geova suo Dio vieta di fare e si rende colpevole, 23 o si rende conto di aver commesso un peccato violando un comandamento, deve portare come sua offerta un capretto sano, un maschio. 24 Porrà la mano sulla testa del capretto e lo scannerà nel luogo in cui gli olocausti vengono scannati davanti a Geova.+ È un’offerta per il peccato. 25 Il sacerdote prenderà con il dito un po’ del sangue dell’offerta per il peccato e lo metterà sui corni+ dell’altare degli olocausti, e verserà il resto del sangue alla base dell’altare degli olocausti.+ 26 Quindi il sacerdote farà fumare tutto il grasso sull’altare, come il grasso del sacrificio di comunione;+ e farà espiazione per l’uomo, per il peccato che ha commesso, e questi sarà perdonato.
+
+27 “‘Se qualcuno* del popolo pecca senza volerlo e si rende colpevole facendo una delle cose che Geova vieta di fare,+ 28 o si rende conto di aver commesso un peccato, deve portare come sua offerta un capretto sano, una femmina, per il peccato che ha commesso. 29 Porrà la mano sulla testa dell’offerta per il peccato e scannerà l’offerta per il peccato nello stesso luogo degli olocausti.+ 30 Il sacerdote prenderà con il dito un po’ di sangue e lo metterà sui corni dell’altare degli olocausti, e verserà il resto del sangue alla base dell’altare.+ 31 Il sacerdote toglierà tutto il grasso,+ proprio come viene tolto il grasso dal sacrificio di comunione,+ e lo farà fumare sull’altare come odore gradito* a Geova; e il sacerdote farà espiazione per lui, e lui sarà perdonato.
+
+32 “‘Se invece come offerta per il peccato offre un agnello, deve portare una femmina, sana. 33 Porrà la mano sulla testa dell’offerta per il peccato e la scannerà come offerta per il peccato nel luogo in cui vengono scannati gli olocausti.+ 34 Il sacerdote prenderà con il dito un po’ del sangue dell’offerta per il peccato e lo metterà sui corni dell’altare degli olocausti,+ e verserà il resto del sangue alla base dell’altare. 35 Il sacerdote toglierà tutto il grasso proprio come viene tolto il grasso dall’agnello del sacrificio di comunione, e lo farà fumare sull’altare, sopra le offerte fatte a Geova mediante il fuoco;+ e il sacerdote farà espiazione per l’offerente, per il peccato che ha commesso, e questi sarà perdonato.+
+
      `,
   },
   {
     dia: "33",
-    relato: "Levítico 5-7",
+    relato: "Levitico 5-7",
     biblia: `
+    5 “‘Se qualcuno* pecca in quanto ha udito un appello pubblico a testimoniare*+ ma non riferisce quello di cui è stato testimone o che ha visto o che è venuto a sapere, allora risponderà del suo errore.
+
+2 “‘O se qualcuno,* anche senza accorgersene, tocca qualcosa di impuro — che sia il corpo morto di un animale selvatico impuro, di un animale domestico impuro o di una creatura brulicante impura+ — è impuro e si rende colpevole. 3 O nel caso in cui qualcuno tocchi inconsapevolmente un’impurità umana+ — ovvero qualsiasi cosa impura che possa rendere una persona impura — e se ne accorga soltanto dopo, si rende colpevole.
+
+4 “‘O se qualcuno* giura impulsivamente di fare qualcosa — di qualunque cosa si tratti, buona o cattiva — senza rendersi conto di essere stato impulsivo e lo capisce soltanto dopo, si rende colpevole.*+
+
+5 “‘Se si rende colpevole rispetto a una di queste cose, deve confessare+ in che modo ha peccato. 6 Inoltre porterà a Geova la sua offerta per la colpa per il peccato commesso,+ cioè una femmina del gregge — agnello o capretto — come offerta per il peccato. E il sacerdote farà espiazione per lui, per il peccato che ha commesso.
+
+7 “‘Se però non può permettersi un animale del gregge, deve portare a Geova come sua offerta per la colpa per il peccato commesso due tortore o due piccoli di piccione,+ uno dei due come offerta per il peccato e l’altro come olocausto.+ 8 Li porterà al sacerdote, il quale presenterà per primo quello dell’offerta per il peccato, strappandogli la testa in corrispondenza della parte anteriore del collo ma senza staccarla. 9 Il sacerdote spruzzerà un po’ di sangue dell’offerta per il peccato sul fianco dell’altare, mentre il resto del sangue sarà fatto scolare alla base dell’altare.+ È un’offerta per il peccato. 10 Il sacerdote offrirà l’altro uccello come olocausto secondo la procedura stabilita;+ e farà espiazione per la persona, per il peccato che ha commesso, e questa sarà perdonata.+
+
+11 “‘Se non può permettersi due tortore o due piccoli di piccione, deve portare come offerta per il proprio peccato un decimo di efa*+ di fior di farina come offerta per il peccato. Non deve aggiungervi olio né mettervi sopra incenso,* perché è un’offerta per il peccato. 12 La porterà al sacerdote, il quale ne prenderà una manciata in simbolo dell’intera offerta* e la farà fumare sull’altare, sopra le offerte fatte a Geova mediante il fuoco. È un’offerta per il peccato. 13 Il sacerdote farà espiazione per la persona, per il peccato che ha commesso, uno qualsiasi di questi peccati, e la persona sarà perdonata.+ Il resto dell’offerta andrà al sacerdote,+ proprio come nel caso dell’offerta di cereali’”.+
+
+14 Geova disse ancora a Mosè: 15 “Se qualcuno* agisce infedelmente peccando senza volerlo contro le cose sante di Geova,+ porterà a Geova come offerta per la colpa un montone sano del gregge;+ il suo valore in sicli* d’argento è stabilito in base al siclo ufficiale del luogo santo.*+ 16 E darà un risarcimento per il peccato che ha commesso contro il luogo santo, aggiungendovi un quinto del valore.+ Lo darà al sacerdote perché faccia espiazione+ per lui con il montone dell’offerta per la colpa, e sarà perdonato.+
+
+17 “Se qualcuno* pecca facendo una delle cose che Geova vieta di fare, anche se lo fa senza accorgersene, è comunque colpevole e risponderà del suo errore.+ 18 Come offerta per la colpa, deve portare al sacerdote un montone sano del gregge secondo il valore stimato.+ Quindi il sacerdote farà espiazione per la persona, per l’errore involontario che ha commesso senza rendersene conto, e questa sarà perdonata. 19 È un’offerta per la colpa. Tale persona si è senza dubbio resa colpevole di un peccato contro Geova”.
+<br>
+6 Geova continuò a parlare a Mosè, dicendo: 2 “Se qualcuno* pecca e agisce infedelmente verso Geova+ ingannando il prossimo riguardo a qualcosa che gli è stato affidato+ o che è stato depositato presso di lui, o se deruba o froda il prossimo, 3 o se trova qualcosa che era stato smarrito e mente al riguardo, e se giura il falso in relazione a qualsiasi peccato del genere che possa aver commesso,+ questo è ciò che deve fare: 4 se ha peccato ed è colpevole, deve restituire ciò che ha rubato, che ha estorto, che ha preso con la frode, che gli era stato affidato o che ha trovato, 5 o tutto ciò riguardo al quale abbia giurato il falso; deve restituirlo per intero+ e aggiungervi un quinto del suo valore. Lo darà al proprietario il giorno in cui sarà provata la sua colpevolezza. 6 E dal gregge porterà al sacerdote come offerta a Geova per la colpa un montone sano secondo il valore stimato, come offerta per la colpa.+ 7 Il sacerdote farà espiazione per lui davanti a Geova, e lui sarà perdonato per qualsiasi cosa di cui si sia reso colpevole”.+
+
+8 Geova disse ancora a Mosè: 9 “Da’ comando ad Aronne e ai suoi figli, e di’ loro: ‘Questa è la legge dell’olocausto.+ L’olocausto rimarrà sul fuoco sopra l’altare tutta la notte fino al mattino, e il fuoco sopra l’altare sarà tenuto acceso. 10 Il sacerdote indosserà la sua veste ufficiale di lino,+ e sulla carne indosserà i calzoni* di lino.+ Quindi toglierà le ceneri*+ dell’olocausto che il fuoco ha consumato sull’altare e le metterà a lato dell’altare. 11 Poi si toglierà le vesti+ e ne indosserà altre, e porterà le ceneri in un luogo puro fuori dall’accampamento.+ 12 Il fuoco sull’altare sarà tenuto acceso. Non deve spegnersi. Il sacerdote deve bruciarvi della legna+ ogni mattina e disporvi l’olocausto, e farà fumare su di esso il grasso dei sacrifici di comunione.+ 13 Sull’altare sarà tenuto acceso del fuoco di continuo. Non deve spegnersi.
+
+14 “‘Questa è la legge dell’offerta di cereali.+ I figli di Aronne la presenteranno davanti a Geova di fronte all’altare. 15 Uno di loro prenderà una manciata del fior di farina dell’offerta di cereali, con parte del suo olio e tutto l’incenso* che è su di essa, e la farà fumare sull’altare come odore gradito* in simbolo dell’intera offerta a Geova.*+ 16 Ciò che resta lo mangeranno Aronne e i suoi figli.+ Sarà mangiato come pane senza lievito in un luogo santo. Lo mangeranno nel cortile della tenda dell’incontro.+ 17 Non dev’essere preparato con il lievito.+ È la porzione che ho dato loro delle offerte fatte a me mediante il fuoco.+ È qualcosa di santissimo,+ come l’offerta per il peccato e l’offerta per la colpa. 18 Lo mangerà ogni maschio tra i figli di Aronne.+ È la parte che spetta loro su base permanente, di generazione in generazione, delle offerte fatte a Geova mediante il fuoco.+ Qualsiasi cosa venga a contatto con esse diventerà santa’”.
+
+19 Geova disse ancora a Mosè: 20 “Questa è l’offerta che Aronne e i suoi figli presenteranno a Geova il giorno in cui lui sarà unto:+ un decimo di efa*+ di fior di farina come regolare offerta di cereali,+ metà la mattina e metà la sera. 21 Sarà preparata con olio, su una piastra;+ la porterai intrisa d’olio. Presenterai l’offerta di cereali cotta e divisa in pezzi come odore gradito* a Geova. 22 La farà il sacerdote che sarà unto come successore di Aronne tra i suoi figli.+ È una norma permanente: l’offerta sarà fatta fumare per intero in onore di Geova. 23 Ogni offerta di cereali fatta da un sacerdote dev’essere un’offerta intera. Non dev’essere mangiata”.
+
+24 Geova parlò ancora a Mosè, e disse: 25 “Di’ ad Aronne e ai suoi figli: ‘Questa è la legge dell’offerta per il peccato.+ Nel luogo in cui vengono scannati gli olocausti+ sarà scannata davanti a Geova anche l’offerta per il peccato. È qualcosa di santissimo. 26 La mangerà il sacerdote che la offre per il peccato.+ Dovrà essere mangiata in un luogo santo, nel cortile della tenda dell’incontro.+
+
+27 “‘Qualsiasi cosa venga a contatto con la carne dell’offerta diventerà santa e, quando una veste viene spruzzata con il suo sangue, ciò che è stato spruzzato con il sangue devi lavarlo in un luogo santo. 28 Il recipiente di terracotta in cui è stata bollita dev’essere distrutto. Ma se è stata bollita in un recipiente di rame, questo dev’essere strofinato e lavato con acqua.
+
+29 “‘La mangerà ogni maschio fra i sacerdoti.+ È qualcosa di santissimo.+ 30 Tuttavia, non si mangerà nessuna offerta per il peccato il cui sangue venga portato nella tenda dell’incontro per fare espiazione nel luogo santo.+ Sarà bruciata nel fuoco.
+<br>
+7 “‘Questa è la legge dell’offerta per la colpa.+ È qualcosa di santissimo. 2 L’offerta per la colpa verrà scannata nel luogo in cui vengono scannati gli olocausti, e se ne deve spruzzare il sangue su tutti i lati dell’altare.+ 3 Il sacerdote* ne presenterà tutto il grasso,+ inclusi la grassa coda, il grasso che ricopre gli intestini 4 e i due reni con il loro grasso vicino ai lombi. Insieme ai reni toglierà anche la membrana grassa del fegato.+ 5 Il sacerdote li farà fumare sull’altare come offerta fatta a Geova mediante il fuoco.+ È un’offerta per la colpa. 6 La mangerà ogni maschio fra i sacerdoti,+ e dev’essere mangiata in un luogo santo. È qualcosa di santissimo.+ 7 All’offerta per la colpa si applica la legge riguardante l’offerta per il peccato: l’offerta spetta al sacerdote che fa espiazione con essa.+
+
+8 “‘Quando il sacerdote presenta un olocausto per qualcuno, la pelle+ dell’olocausto che gli è stato portato diventerà sua.
+
+9 “‘Ogni offerta di cereali cotta al forno, nella padella o sulla piastra+ spetta al sacerdote che la presenta. Diventerà sua.+ 10 Ogni altra offerta di cereali, mista a olio+ o asciutta,+ andrà a tutti i figli di Aronne; ognuno ne avrà una porzione uguale.
+
+11 “‘Questa è la legge del sacrificio di comunione+ che qualcuno può presentare a Geova. 12 Se lo presenta in segno di ringraziamento,+ presenterà insieme al sacrificio di ringraziamento pani a ciambella senza lievito impastati con olio, schiacciate senza lievito condite con olio e pani a ciambella di fior di farina ben impastata e mescolata con olio. 13 Presenterà tale offerta insieme a pani a ciambella lievitati, in aggiunta al suo sacrificio di comunione offerto in segno di ringraziamento. 14 Presenterà un pane di ogni tipo* come porzione sacra a Geova; questa spetterà al sacerdote che spruzza il sangue dei sacrifici di comunione.+ 15 La carne dei sacrifici di comunione offerti in segno di ringraziamento dovrà essere mangiata il giorno in cui la offre. Non se ne conserverà per il mattino seguente.+
+
+16 “‘Se il sacrificio che offre è un voto+ o un’offerta volontaria,+ verrà mangiato il giorno in cui lo presenta, e ciò che ne rimane potrà essere mangiato anche il giorno dopo. 17 Ma ciò che rimane della carne del sacrificio fino al terzo giorno sarà bruciato nel fuoco.+ 18 Se invece la carne del sacrificio di comunione viene mangiata il terzo giorno, chi lo ha presentato non sarà approvato. Non gli farà ottenere alcun favore; è qualcosa di offensivo, e chi* ne mangia risponderà del suo errore.+ 19 La carne che viene a contatto con qualsiasi cosa impura non dev’essere mangiata. Dev’essere bruciata nel fuoco. Chiunque sia puro può mangiare la carne pura.
+
+20 “‘Chiunque* sia impuro e mangi la carne del sacrificio di comunione offerto a Geova dev’essere stroncato* di mezzo al suo popolo.+ 21 Se qualcuno* tocca qualcosa di impuro, che sia l’impurità di un essere umano,+ un animale impuro+ o qualsiasi cosa disgustosa e impura,+ e mangia della carne del sacrificio di comunione offerto a Geova, tale persona* dev’essere stroncata* di mezzo al suo popolo’”.
+
+22 Geova disse ancora a Mosè: 23 “Di’ agli israeliti: ‘Non dovete mangiare grasso+ di toro né di pecora né di capra. 24 Il grasso di un animale trovato morto o di un animale ucciso da un altro animale può essere usato per qualsiasi altro scopo, ma non lo dovete assolutamente mangiare.+ 25 Chiunque mangi il grasso di un animale che presenta come offerta fatta a Geova mediante il fuoco dev’essere stroncato* di mezzo al suo popolo.
+
+26 “‘Non dovete mangiare sangue+ in nessuno dei luoghi in cui dimorate, né di uccelli né di altri animali. 27 Chiunque* mangi sangue di qualsiasi sorta dev’essere stroncato* di mezzo al suo popolo’”.+
+
+28 Geova disse ancora a Mosè: 29 “Di’ agli israeliti: ‘Chi presenta il suo sacrificio di comunione a Geova porterà una parte del suo sacrificio come offerta a Geova.+ 30 Porterà nelle sue mani il grasso+ insieme al petto come offerta fatta a Geova mediante il fuoco, e agiterà il petto avanti e indietro come offerta agitata+ davanti a Geova. 31 Il sacerdote farà fumare il grasso sull’altare,+ mentre il petto andrà ad Aronne e ai suoi figli.+
+
+32 “‘Dei vostri sacrifici di comunione darete al sacerdote la coscia destra come porzione sacra.+ 33 Il figlio di Aronne che presenta il sangue dei sacrifici di comunione e il grasso avrà come porzione la coscia destra.+ 34 Io prendo infatti dai sacrifici di comunione degli israeliti il petto dell’offerta agitata e la coscia della porzione sacra e li do al sacerdote Aronne e ai suoi figli, come norma permanente per gli israeliti.+
+
+35 “‘Questa è la porzione delle offerte fatte a Geova mediante il fuoco riservata ai sacerdoti, ad Aronne e ai suoi figli, dal giorno in cui furono presentati perché servissero come sacerdoti di Geova.+ 36 Geova comandò che questa porzione fosse data loro dagli israeliti dal giorno della loro unzione.+ È un decreto permanente per le loro generazioni’”.
+
+37 Questa è la legge inerente all’olocausto,+ all’offerta di cereali,+ all’offerta per il peccato,+ all’offerta per la colpa,+ al sacrificio d’insediamento+ e al sacrificio di comunione,+ 38 così come Geova la diede a Mosè sul monte Sinai+ il giorno in cui comandò agli israeliti di presentare le loro offerte a Geova nel deserto del Sinai.+
+
     `,
   },
   {
     dia: "34",
-    relato: "Levítico 8-10",
+    relato: "Levitico 8-10",
     biblia: `
+    8 Geova disse ancora a Mosè: 2 “Prendi Aronne e i suoi figli,+ le vesti,+ l’olio dell’unzione,+ il toro dell’offerta per il peccato, i due montoni e il cesto del pane senza lievito,+ 3 e riunisci tutta l’assemblea all’ingresso della tenda dell’incontro”.
+
+4 Quindi Mosè fece proprio come Geova gli aveva comandato, e l’assemblea si riunì all’ingresso della tenda dell’incontro. 5 Mosè disse all’assemblea: “Questo è ciò che Geova ci ha comandato di fare”. 6 Fece dunque avvicinare Aronne e i suoi figli e li lavò con acqua.+ 7 Poi fece indossare ad Aronne la tunica,+ lo cinse con la fascia,+ gli fece indossare il manto senza maniche+ e gli mise l’efod,+ fissandolo con la cintura.*+ 8 Sopra gli fece indossare il pettorale+ e mise nel pettorale gli Urìm e i Tummìm.*+ 9 Quindi gli pose sulla testa il turbante+ e sulla parte anteriore del turbante mise la lucente lamina d’oro, il santo segno di dedicazione,*+ proprio come Geova gli aveva comandato.
+
+10 Mosè prese poi l’olio dell’unzione e unse il tabernacolo e tutto ciò che conteneva+ e li consacrò. 11 Ne spruzzò un po’ sull’altare per sette volte e unse l’altare, tutti i suoi utensili e il bacino insieme alla sua base per consacrarli. 12 Infine versò un po’ di olio dell’unzione sulla testa di Aronne e lo unse per consacrarlo.+
+
+13 Mosè fece ora avvicinare i figli di Aronne; fece indossare loro le tuniche, li cinse con le fasce e mise loro* i copricapi,+ proprio come Geova gli aveva comandato.
+
+14 Quindi portò il toro dell’offerta per il peccato, e Aronne e i suoi figli posero le mani sulla testa del toro.+ 15 Mosè lo scannò, prese il sangue+ con il dito, lo mise sui corni dell’altare da ogni lato e purificò l’altare dal peccato, mentre il resto del sangue lo versò alla base dell’altare. In questo modo lo consacrò perché si potesse fare espiazione su di esso. 16 Poi prese tutto il grasso che era sugli intestini, la membrana grassa del fegato e i due reni con il loro grasso e li fece fumare sull’altare.+ 17 Dopodiché fece bruciare nel fuoco fuori dall’accampamento il resto del toro, la pelle, la carne e lo sterco,+ proprio come Geova gli aveva comandato.
+
+18 Mosè fece allora avvicinare il montone dell’olocausto, e Aronne e i suoi figli posero le mani sulla testa del montone.+ 19 Poi Mosè lo scannò e spruzzò il sangue su tutti i lati dell’altare. 20 Tagliò il montone a pezzi e ne fece fumare la testa, i pezzi e il grasso.* 21 Lavò gli intestini e le zampe con acqua e fece fumare l’intero montone sull’altare. Fu un olocausto come odore gradito.* Fu un’offerta fatta a Geova mediante il fuoco, proprio come Geova aveva comandato a Mosè.
+
+22 Dopo ciò fece avvicinare il secondo montone, il montone dell’insediamento,+ e Aronne e i suoi figli gli posero le mani sulla testa.+ 23 Mosè lo scannò, prese un po’ di sangue e lo mise sul lobo dell’orecchio destro di Aronne, sul pollice della sua mano destra e sull’alluce del suo piede destro. 24 Poi fece venire avanti i figli di Aronne e mise un po’ di sangue sul lobo del loro orecchio destro, sul pollice della loro mano destra e sull’alluce del loro piede destro; il resto del sangue lo spruzzò su tutti i lati dell’altare.+
+
+25 Prese quindi il grasso, la grassa coda, tutto il grasso che era sugli intestini, la membrana grassa del fegato, i due reni con il loro grasso e la coscia destra.+ 26 Dal cesto del pane senza lievito che era davanti a Geova prese un pane a ciambella senza lievito,+ un pane a ciambella con olio+ e una schiacciata, e li pose sopra i pezzi di grasso e la coscia destra. 27 Dopo ciò mise il tutto sul palmo delle mani di Aronne e dei suoi figli e lo agitò avanti e indietro come offerta agitata davanti a Geova. 28 Poi lo prese dalle loro mani e lo fece fumare sopra l’altare, sull’olocausto. Fu un sacrificio d’insediamento come odore gradito.* Fu un’offerta fatta a Geova mediante il fuoco.
+
+29 Mosè prese dunque il petto e lo agitò avanti e indietro come offerta agitata davanti a Geova.+ Quella fu la porzione del montone dell’insediamento che spettò a Mosè, proprio come Geova gli aveva comandato.+
+
+30 E Mosè prese un po’ di olio dell’unzione+ e un po’ del sangue che era sull’altare e li spruzzò su Aronne e sulle sue vesti e sui suoi figli e sulle loro vesti. Così consacrò Aronne e le sue vesti e i suoi figli+ e le loro vesti.+
+
+31 Dopodiché Mosè disse ad Aronne e ai suoi figli: “Fate bollire+ la carne all’ingresso della tenda dell’incontro; la mangerete lì con il pane che è nel cesto dell’insediamento, proprio come mi è stato comandato: ‘Aronne e i suoi figli la mangeranno’.+ 32 Ciò che rimane della carne e del pane lo brucerete nel fuoco.+ 33 Non dovrete allontanarvi dall’ingresso della tenda dell’incontro per sette giorni, finché non siano trascorsi i giorni necessari per completare il vostro insediamento, perché ci vorranno sette giorni per insediarvi come sacerdoti.*+ 34 Geova ha comandato di fare ciò che abbiamo fatto oggi perché si facesse espiazione per voi.+ 35 Starete all’ingresso della tenda dell’incontro giorno e notte per sette giorni+ e adempirete il vostro obbligo verso Geova,+ affinché non moriate; così infatti mi è stato comandato”.
+
+36 E Aronne e i suoi figli fecero tutto ciò che Geova aveva comandato per mezzo di Mosè.
+<br>
+9 L’ottavo giorno+ Mosè chiamò Aronne e i suoi figli e gli anziani d’Israele. 2 Disse ad Aronne: “Prenditi un vitello come offerta per il peccato+ e un montone come olocausto, sani, e presentali davanti a Geova. 3 E agli israeliti dirai: ‘Prendete un capro come offerta per il peccato, un vitello e un agnello come olocausto, entrambi di un anno e sani, 4 e un toro e un montone come sacrifici di comunione,+ per sacrificarli davanti a Geova, e un’offerta di cereali+ impastata con olio; oggi infatti Geova vi apparirà’”.+
+
+5 Portarono dunque davanti alla tenda dell’incontro quello che Mosè aveva comandato di portare. Dopodiché l’intera assemblea si avvicinò e rimase in piedi davanti a Geova. 6 E Mosè disse: “Questo è ciò che Geova vi ha comandato di fare, così che vi appaia la gloria di Geova”.+ 7 Mosè disse quindi ad Aronne: “Avvicinati all’altare e presenta la tua offerta per il peccato+ e il tuo olocausto, e fa’ espiazione per te+ e per la tua casa; poi presenta l’offerta del popolo+ e fa’ espiazione per loro,+ proprio come Geova ha comandato”.
+
+8 Aronne si avvicinò immediatamente all’altare e scannò il vitello della sua offerta per il peccato.+ 9 Quindi i suoi figli gli porsero il sangue;+ lui intinse il dito nel sangue e lo mise sui corni dell’altare, e il resto del sangue lo versò alla base dell’altare.+ 10 Fece fumare sull’altare il grasso, i reni e la membrana grassa del fegato dell’offerta per il peccato, proprio come Geova aveva comandato a Mosè.+ 11 E bruciò la carne e la pelle nel fuoco fuori dall’accampamento.+
+
+12 Quindi Aronne scannò l’olocausto; i suoi figli gli porsero il sangue e lui lo spruzzò su tutti i lati dell’altare.+ 13 Gli porsero i pezzi e la testa dell’olocausto, e lui li fece fumare sull’altare. 14 Inoltre lavò gli intestini e le zampe e li fece fumare sull’olocausto sopra l’altare.
+
+15 Poi presentò l’offerta del popolo; prese il capro dell’offerta per il peccato del popolo, lo scannò e con esso fece un’offerta per il peccato come la precedente. 16 Quindi presentò l’olocausto e lo offrì secondo la procedura stabilita.+
+
+17 Presentò poi l’offerta di cereali,+ prendendone una manciata e facendola fumare sull’altare, in aggiunta all’olocausto del mattino.+
+
+18 Dopodiché Aronne scannò il toro e il montone del sacrificio di comunione per il popolo. I suoi figli gli porsero il sangue e lui lo spruzzò su tutti i lati dell’altare.+ 19 Quanto ai pezzi di grasso del toro,+ alla grassa coda del montone, al grasso che copriva gli organi interni, ai reni e alla membrana grassa del fegato,+ 20 posero tutti quei pezzi di grasso sui petti, al che Aronne fece fumare i pezzi di grasso sull’altare.+ 21 I petti e la coscia destra, invece, li agitò avanti e indietro come offerta agitata davanti a Geova, proprio come Mosè aveva comandato.+
+
+22 A quel punto Aronne alzò le mani verso il popolo, lo benedisse+ e scese dopo aver presentato l’offerta per il peccato, l’olocausto e i sacrifici di comunione. 23 Infine Mosè e Aronne entrarono nella tenda dell’incontro; poi uscirono e benedissero il popolo.+
+
+Allora la gloria di Geova apparve a tutto il popolo,+ 24 e dalla presenza di Geova si sprigionò del fuoco+ che cominciò a consumare l’olocausto e i pezzi di grasso sull’altare. Vedendo ciò, proruppero tutti in grida di gioia e si inginocchiarono con il viso a terra.+
+<br>
+10 Ora Nàdab e Abìu,+ figli di Aronne, presero ciascuno il suo incensiere,* vi misero del fuoco e sopra dell’incenso.+ Dopodiché cominciarono a offrire davanti a Geova fuoco non autorizzato,+ cosa che egli non aveva comandato loro di fare. 2 Allora dalla presenza di Geova si sprigionò un fuoco che li divorò,+ e così morirono davanti a Geova.+ 3 E Mosè disse ad Aronne: “Questo è ciò che Geova ha dichiarato: ‘Sarò santificato fra quelli a me vicini,+ e sarò glorificato davanti a tutto il popolo’”. E Aronne taceva.
+
+4 Mosè chiamò dunque Misaèl ed Elzafàn, i figli di Uzzièl,+ zio di Aronne, e disse loro: “Venite, prendete i vostri fratelli davanti al luogo santo e portateli fuori dall’accampamento”. 5 Pertanto essi si avvicinarono e portarono i corpi, ancora nelle loro tuniche, fuori dall’accampamento, proprio come Mosè aveva detto.
+
+6 Mosè disse quindi ad Aronne e agli altri suoi figli, Eleàzaro e Itamàr: “Non lasciatevi i capelli in disordine e non strappatevi le vesti,+ affinché non moriate e Dio non si adiri contro tutta l’assemblea. Saranno i vostri fratelli dell’intera casa d’Israele a piangere quelli che Geova ha ucciso con il fuoco. 7 Voi non dovete allontanarvi dall’ingresso della tenda dell’incontro, altrimenti morirete, perché l’olio dell’unzione di Geova è su di voi”.+ Fecero dunque come Mosè aveva detto.
+
+8 Geova disse poi ad Aronne: 9 “Non bevete vino o altre bevande alcoliche, né tu né i tuoi figli con te, quando entrate nella tenda dell’incontro,+ affinché non moriate. È un decreto permanente per le vostre generazioni. 10 Questo servirà a fare una distinzione fra la cosa santa e quella profana e fra la cosa impura e quella pura,+ 11 e a insegnare agli israeliti tutte le norme che Geova ha dato loro tramite Mosè”.+
+
+12 Quindi Mosè parlò ad Aronne e ai figli che gli restavano, Eleàzaro e Itamàr: “Prendete dalle offerte fatte a Geova mediante il fuoco quello che è rimasto dell’offerta di cereali e mangiatelo come pane senza lievito vicino all’altare,+ perché è qualcosa di santissimo.+ 13 Lo dovete mangiare in un luogo santo+ perché, delle offerte fatte a Geova mediante il fuoco, quella è la parte che spetta a te e ai tuoi figli; così infatti mi è stato comandato. 14 Inoltre mangerete il petto dell’offerta agitata e la coscia della porzione sacra+ in un luogo puro, tu e i tuoi figli e le tue figlie con te,+ perché sono le parti dei sacrifici di comunione degli israeliti che spettano a te e ai tuoi figli. 15 Porteranno la coscia della porzione sacra e il petto dell’offerta agitata insieme alle offerte di grasso fatte mediante il fuoco, per agitare l’offerta agitata avanti e indietro davanti a Geova; e queste cose diventeranno la parte che spetta a te e ai tuoi figli su base permanente,+ proprio come Geova ha comandato”.
+
+16 E Mosè cercò scrupolosamente il capro dell’offerta per il peccato.+ Quando apprese che era stato bruciato, si adirò con Eleàzaro e Itamàr, i figli che restavano ad Aronne, e disse: 17 “Perché non avete mangiato l’offerta per il peccato nel luogo santo?+ È qualcosa di santissimo, e Geova ve l’ha data perché portiate la colpa dell’assemblea e facciate espiazione per essa davanti a lui. 18 Ecco, il sangue dell’offerta non è stato portato dentro il luogo santo.+ Avreste assolutamente dovuto mangiarla nel luogo santo, proprio come mi era stato comandato”. 19 Aronne rispose a Mosè: “Ascolta, nel giorno stesso in cui hanno presentato la loro offerta per il peccato e il loro olocausto davanti a Geova+ mi sono successe queste cose. Se oggi avessi mangiato l’offerta per il peccato, Geova ne sarebbe stato contento?” 20 Per Mosè quella risposta fu soddisfacente.
+
      `,
   },
   {
     dia: "35",
-    relato: "Levítico 11-13",
+    relato: "Levitico 11-13",
     biblia: `
+    11 Geova disse ora a Mosè e ad Aronne: 2 “Dite agli israeliti: ‘Questi sono gli animali terrestri* che potete mangiare:+ 3 ogni animale che ha l’unghia* divisa e ha una fessura nell’unghia e rumina può essere mangiato.
+
+4 “‘Ma non dovete mangiare questi animali che ruminano o hanno l’unghia divisa: il cammello, dato che rumina ma non ha l’unghia divisa, è impuro per voi;+ 5 la procavia,+ dato che rumina ma non ha l’unghia divisa, è impura per voi; 6 la lepre, dato che rumina ma non ha l’unghia divisa, è impura per voi; 7 il maiale,+ dato che ha l’unghia divisa e ha una fessura nell’unghia ma non rumina, è impuro per voi. 8 Non dovete mangiare la loro carne né toccare il loro corpo morto. Sono impuri per voi.+
+
+9 “‘Questo è ciò che potete mangiare di tutto quello che è nelle acque: tutto quello che nelle acque, sia mari che fiumi, ha pinne e scaglie lo potete mangiare.+ 10 Ma tutto quello che nelle acque, sia mari che fiumi, non ha pinne e scaglie, fra tutte le creature che brulicano nelle acque e ogni altra creatura* che vive in esse, è per voi qualcosa di ripugnante. 11 Devono ripugnarvi; non dovete mangiare la loro carne,+ e il loro corpo morto deve ripugnarvi. 12 Tutto quello che nelle acque non ha pinne e scaglie è per voi qualcosa di ripugnante.
+
+13 “‘Questi sono i volatili che devono ripugnarvi; non si devono mangiare, perché sono ripugnanti: l’aquila,+ il falco pescatore, l’avvoltoio monaco,+ 14 il nibbio reale e ogni specie* di nibbio bruno, 15 ogni specie di corvo, 16 lo struzzo, l’assiolo, il gabbiano, ogni specie di falco, 17 la civetta, il cormorano, il gufo comune, 18 il cigno, il pellicano, l’avvoltoio, 19 la cicogna, ogni specie di airone, l’upupa e il pipistrello. 20 Ogni insetto alato che cammina su quattro zampe è per voi qualcosa di ripugnante.
+
+21 “‘Degli insetti alati che camminano su quattro zampe potete mangiare solo quelli che hanno zampe articolate adatte per saltare sul terreno. 22 Potete mangiare questi: ogni specie di locusta migratoria e di altre locuste commestibili,+ di grilli e di cavallette. 23 Tutti gli altri insetti alati con quattro zampe sono per voi qualcosa di ripugnante. 24 Con questi vi rendereste impuri. Chiunque tocchi il loro corpo morto sarà impuro fino alla sera.+ 25 Chiunque ne porti su di sé il corpo morto deve lavarsi gli indumenti,+ e sarà impuro fino alla sera.
+
+26 “‘Qualsiasi animale che abbia l’unghia divisa ma non abbia una fessura nell’unghia e non rumini è impuro per voi. Chiunque lo tocchi sarà impuro.+ 27 Qualsiasi animale che cammini sulla pianta del piede,* fra tutte le creature che camminano su quattro zampe, è impuro per voi. Chiunque ne tocchi il corpo morto sarà impuro fino alla sera. 28 Chi ne porta il corpo morto deve lavarsi gli indumenti+ e sarà impuro fino alla sera.+ Sono impuri per voi.
+
+29 “‘Questi sono gli animali brulicanti sulla terra che sono impuri per voi: la talpa, il topo,+ ogni specie di lucertola, 30 il geco, il varano, la salamandra, lo scinco e il camaleonte. 31 Questi sono gli animali brulicanti che sono impuri per voi.+ Chiunque ne tocchi il corpo morto sarà impuro fino alla sera.+
+
+32 “‘Qualunque cosa — recipiente di legno o indumento o pelle o sacco — sulla quale essi cadano quando muoiono sarà impura. Qualsiasi utensile, a prescindere dal suo uso, dev’essere immerso nell’acqua e rimarrà impuro fino alla sera; poi sarà puro. 33 Se cadono in un recipiente di terracotta, lo romperete, e ogni cosa contenuta in esso sarà impura.+ 34 Ogni tipo di cibo che venga a contatto con l’acqua di quel recipiente sarà impuro, e ogni bevanda che esso contenga sarà impura. 35 Qualsiasi cosa su cui il loro corpo morto cada sarà impura. Che si tratti di un forno o di un fornello, dev’essere fatto a pezzi. Sono impuri, e rimarranno impuri per voi. 36 Solo una sorgente o una cisterna per la raccolta dell’acqua rimarrà pura, ma chiunque ne tocchi il corpo morto sarà impuro. 37 Se il loro corpo morto cade sul seme di una pianta che dev’essere seminato, quel seme resta puro. 38 Se però sul seme viene versata dell’acqua e una parte del loro corpo morto vi cade sopra, il seme è impuro per voi.
+
+39 “‘Se un animale di quelli che potete mangiare muore, chiunque ne tocchi il corpo morto sarà impuro fino alla sera.+ 40 Chi si ciba del suo corpo morto deve lavarsi gli indumenti, e sarà impuro fino alla sera.+ Chi ne porta via il corpo morto deve lavarsi gli indumenti, e sarà impuro fino alla sera. 41 Ogni animale che brulica sulla terra è qualcosa di ripugnante.+ Non dev’essere mangiato. 42 Non dovete mangiare nessuna creatura che si muova strisciando sul ventre o che cammini su quattro zampe, e nessuno degli animali brulicanti sulla terra che abbiano molti piedi, perché sono qualcosa di ripugnante.+ 43 Non rendetevi* ripugnanti per mezzo di nessun animale brulicante, e non contaminatevi e non diventate impuri per mezzo d’essi.+ 44 Io infatti sono Geova vostro Dio;+ e voi dovete santificarvi e dovete diventare santi,+ perché io sono santo.+ Non dovete dunque rendervi impuri* mediante alcun animale che brulica sulla terra. 45 Io sono Geova, colui che vi ha condotto fuori dal paese d’Egitto per dimostrare di essere il vostro Dio;+ e voi dovete essere santi,+ perché io sono santo.+
+
+46 “‘Questa è la legge riguardo ai quadrupedi, ai volatili e a ogni animale* che si muove nelle acque e riguardo a ogni animale* che brulica sulla terra, 47 per fare una distinzione fra l’impuro e il puro, e fra gli animali che si possono mangiare e quelli che non si possono mangiare’”.+
+<br>
+12 Geova disse ancora a Mosè: 2 “Di’ agli israeliti: ‘Se una donna rimane incinta* e partorisce un maschio sarà impura per sette giorni, come è impura nei giorni in cui ha le mestruazioni.+ 3 L’ottavo giorno al bambino verrà circoncisa la carne del prepuzio.+ 4 Lei continuerà a purificarsi dal sangue per altri 33 giorni. Non deve toccare nessuna cosa santa, e non deve entrare nel luogo santo finché non completi i giorni della sua purificazione.
+
+5 “‘Se dovesse partorire una femmina, sarà impura per 14 giorni, come è impura durante le mestruazioni. Continuerà a purificarsi dal sangue per altri 66 giorni. 6 Quando si compiranno i giorni della sua purificazione per un figlio o una figlia, porterà un agnello nel suo primo anno di vita come olocausto+ e un piccolo di piccione o una tortora come offerta per il peccato all’ingresso della tenda dell’incontro, al sacerdote. 7 Lui li presenterà davanti a Geova e farà espiazione per lei, e lei sarà pura dal suo flusso di sangue. Questa è la legge riguardo alla donna che partorisce un maschio o una femmina. 8 Ma se non può permettersi una pecora, deve prendere due tortore o due piccoli di piccione,+ uno dei due come olocausto e l’altro come offerta per il peccato; il sacerdote farà espiazione per lei, e lei sarà pura’”.
+<br>
+13 Geova disse ancora a Mosè e ad Aronne: 2 “Se a un uomo si forma sulla pelle* un rigonfiamento, una crosta o una macchia che potrebbe rivelarsi lebbra*+ sulla sua pelle, allora dev’essere portato dal sacerdote Aronne o da uno dei suoi figli, i sacerdoti.+ 3 Il sacerdote esaminerà la lesione sulla pelle. Se lì i peli sono diventati bianchi e la lesione appare più profonda della pelle, è lebbra. Il sacerdote la esaminerà e dichiarerà impuro l’uomo. 4 Ma se la macchia sulla pelle è bianca, se non appare più profonda della pelle e se i peli non sono diventati bianchi, allora il sacerdote metterà in quarantena per sette giorni chi ne è affetto.+ 5 Il settimo giorno il sacerdote lo esaminerà e, se pare che la lesione si sia arrestata e non si sia estesa sulla pelle, lo metterà in quarantena per altri sette giorni.
+
+6 “Il settimo giorno il sacerdote lo deve esaminare di nuovo e, se la lesione si è attenuata e non si è estesa sulla pelle, lo dichiarerà puro;+ era solo una crosta. L’uomo si laverà quindi gli indumenti e sarà puro. 7 Ma se risulta chiaramente che, da quando si era presentato davanti al sacerdote per essere dichiarato puro, la crosta* si è estesa sulla pelle, allora si presenterà di nuovo davanti al sacerdote. 8 Il sacerdote esaminerà la crosta e, se si è estesa sulla pelle, lo dichiarerà impuro. È lebbra.+
+
+9 “Se un uomo è colpito dalla lebbra dev’essere portato dal sacerdote, 10 e il sacerdote lo esaminerà.+ Se sulla pelle c’è un rigonfiamento bianco che ha fatto diventare bianchi i peli e in esso c’è la carne viva,+ 11 è lebbra cronica della pelle, e il sacerdote dichiarerà l’uomo impuro. Non serve che lo metta in quarantena,+ perché è impuro. 12 Se la lebbra si manifesta su tutta la pelle e chi ne è affetto è coperto dalla testa ai piedi, dovunque il sacerdote guardi, 13 allora questi, esaminandolo e vedendo che la lebbra ha ricoperto tutta la pelle, lo dichiarerà puro.* La pelle è diventata tutta bianca, e lui è puro. 14 Ma se in essa compare la carne viva, sarà impuro. 15 Se il sacerdote vede la carne viva, lo dichiarerà impuro.+ La carne viva è impura. È lebbra.+ 16 Ma se la carne viva ritorna bianca, allora l’uomo andrà dal sacerdote. 17 Il sacerdote lo esaminerà+ e, se la lesione è diventata bianca, allora lo dichiarerà puro. L’uomo è puro.
+
+18 “Se sulla pelle di qualcuno si forma un foruncolo che poi guarisce, 19 ma al posto del foruncolo appare un rigonfiamento bianco o una macchia bianco-rossastra, l’uomo deve farsi vedere dal sacerdote. 20 Il sacerdote esaminerà la lesione+ e, se questa appare più profonda della pelle e i peli sono diventati bianchi, allora lo dichiarerà impuro. È lebbra che è insorta nel foruncolo. 21 Ma se il sacerdote, esaminandola, vede che non ci sono peli bianchi, che non è più profonda della pelle e che sembra essersi attenuata, lo metterà in quarantena per sette giorni.+ 22 E, se è evidente che si è estesa sulla pelle, il sacerdote lo dichiarerà impuro. È una malattia. 23 Ma se la macchia è rimasta circoscritta e non si è estesa, è solo un’infiammazione del foruncolo; e il sacerdote lo dichiarerà puro.+
+
+24 “O se qualcuno ha un’ustione provocata dal fuoco e la carne viva dell’ustione diventa una macchia bianco-rossastra o bianca, 25 il sacerdote la esaminerà. Se i peli nella macchia sono diventati bianchi ed essa appare più profonda della pelle, è lebbra che si è sviluppata nell’ustione, e il sacerdote deve dichiarare l’uomo impuro. È lebbra. 26 Ma se il sacerdote, esaminando la macchia, vede che non ci sono peli bianchi, che non è più profonda della pelle e che si è attenuata, allora lo metterà in quarantena per sette giorni.+ 27 Il settimo giorno il sacerdote lo esaminerà e, se è evidente che la macchia si è estesa sulla pelle, allora lo dichiarerà impuro. È lebbra. 28 Ma se la macchia è rimasta circoscritta, se non si è estesa sulla pelle e si è attenuata, è solo un gonfiore dovuto all’ustione, e il sacerdote lo dichiarerà puro, perché è un’infiammazione dell’ustione.
+
+29 “Se a un uomo o a una donna compare una lesione sulla testa o sul mento, 30 il sacerdote la esaminerà.+ Se la lesione appare più profonda della pelle e i peli sono gialli e radi, il sacerdote dichiarerà tale persona impura; è una malattia del cuoio capelluto o della barba. È lebbra della testa o del mento. 31 Ma se vede che la lesione non appare più profonda della pelle e che in essa non ci sono peli neri, il sacerdote deve mettere in quarantena per sette giorni chi ne è affetto.+ 32 Il settimo giorno il sacerdote esaminerà la lesione; se questa non si è estesa, se non vi sono comparsi peli gialli e se non appare più profonda della pelle, 33 la persona si deve radere, ma non nella zona della lesione. Il sacerdote metterà poi di nuovo in quarantena per sette giorni chi ne è affetto.
+
+34 “Il settimo giorno il sacerdote esaminerà di nuovo la lesione e, se la lesione del cuoio capelluto o della barba non si è estesa sulla pelle e non appare più profonda della pelle, dovrà quindi dichiarare pura la persona, e questa si laverà gli indumenti e sarà pura. 35 Ma se, dopo che la persona è stata dichiarata pura, la lesione si estende chiaramente sulla pelle, 36 il sacerdote la esaminerà. Se la lesione si è estesa, non occorre che il sacerdote controlli se ci sono peli gialli: la persona è impura. 37 Ma se dall’esame si vede che la lesione non si è estesa e i peli che vi sono cresciuti sono neri, la malattia è guarita. La persona è pura, e il sacerdote la dichiarerà pura.+
+
+38 “Se a un uomo o a una donna compaiono delle macchie sulla pelle* e le macchie sono bianche, 39 il sacerdote le esaminerà.+ Se le macchie sulla pelle sono di un bianco pallido, si tratta di un’eruzione innocua che è comparsa sulla pelle. Quella persona è pura.
+
+40 “Se un uomo perde i capelli e diventa calvo è puro. 41 Se perde i capelli nella zona frontale e lì diventa calvo è puro. 42 Ma se nella parte calva — sulla sommità del capo o nella zona frontale — si forma una piaga bianco-rossastra, è lebbra che insorge sulla sommità del capo o nella zona frontale. 43 Il sacerdote esaminerà l’uomo e, se la piaga nella parte calva — sulla sommità del capo o nella zona frontale — è gonfia e bianco-rossastra ed è simile alla lebbra della pelle, 44 l’uomo è lebbroso. È impuro, e il sacerdote deve dichiararlo impuro a motivo della malattia sulla sua testa. 45 Quanto al lebbroso che ha questa malattia, deve indossare vesti strappate, lasciarsi i capelli in disordine, coprirsi i baffi e gridare: ‘Impuro, impuro!’ 46 Rimarrà impuro per tutto il tempo in cui avrà questa malattia. Essendo impuro, dovrà vivere isolato. Dovrà abitare fuori dall’accampamento.+
+
+47 “Se la lebbra contamina un indumento di lana o di lino, 48 nell’ordito oppure nella trama del lino o della lana, o contamina una pelle o qualunque cosa fatta di pelle, 49 e se la macchia verde-giallastra o rossastra contamina l’indumento, l’ordito, la trama, la pelle o qualsiasi oggetto di pelle, è una contaminazione da lebbra e dev’essere mostrata al sacerdote. 50 Il sacerdote esaminerà la macchia, e deve mettere in quarantena per sette giorni l’oggetto contaminato.+ 51 Se il settimo giorno, esaminando la macchia, vedrà che si è estesa nell’indumento, nell’ordito, nella trama o nella pelle (a prescindere dall’uso che si fa di quella pelle), la macchia è lebbra maligna e l’oggetto è impuro.+ 52 Deve bruciare l’indumento, l’ordito e la trama della lana o del lino, o qualsiasi oggetto di pelle in cui sia comparsa la macchia, perché è lebbra maligna. Si deve bruciare nel fuoco.
+
+53 “Ma se il sacerdote, esaminando la macchia, vede che non si è estesa nell’indumento o nell’ordito o nella trama o in qualsiasi oggetto di pelle, 54 darà ordine che si lavi l’oggetto contaminato e lo metterà in quarantena per altri sette giorni. 55 Dopo che l’oggetto contaminato sarà stato accuratamente lavato, il sacerdote lo esaminerà. Se la macchia non ha cambiato aspetto, pur non essendosi estesa, l’oggetto è impuro. Dev’essere bruciato nel fuoco perché è stato corroso, sul diritto o sul rovescio.
+
+56 “Ma se il sacerdote esamina la macchia e vede che dopo essere stata accuratamente lavata si è attenuata, strapperà dall’indumento, dall’ordito, dalla trama o dalla pelle la parte contaminata. 57 Comunque, se la macchia appare in un’altra parte dell’indumento, nell’ordito o nella trama, o in qualsiasi oggetto di pelle, allora si sta estendendo, e qualunque cosa contaminata dev’essere bruciata nel fuoco.+ 58 Ma se la macchia scompare dall’indumento o dall’ordito o dalla trama o da qualsiasi oggetto di pelle che viene lavato, tale cosa dev’essere lavata una seconda volta e sarà pura.
+
+59 “Questa è la legge relativa alla lebbra in un indumento di lana o di lino, nell’ordito o nella trama, o in qualsiasi oggetto di pelle, perché sia dichiarato puro o impuro”.
+
      `,
   },
   {
     dia: "36",
-    relato: "Levítico 14-15",
+    relato: "Levitico 14-15",
     biblia: `
+    14 Geova disse ancora a Mosè: 2 “Questa sarà la legge relativa al lebbroso nel giorno della sua purificazione, quando verrà portato dal sacerdote.+ 3 Il sacerdote andrà fuori dall’accampamento ed esaminerà il lebbroso. Se questi è guarito dalla lebbra, 4 il sacerdote gli comanderà di portare per la sua purificazione due uccelli puri, vivi, del legno di cedro, del tessuto scarlatto e dell’issopo.+ 5 Il sacerdote comanderà che uno degli uccelli venga sgozzato in un vaso di terracotta contenente acqua corrente.* 6 Poi deve prendere l’uccello vivo insieme al legno di cedro, al tessuto scarlatto e all’issopo, e deve immergerli nel sangue dell’uccello che è stato sgozzato sull’acqua corrente.* 7 Quindi spruzzerà il sangue sette volte su colui che si purifica dalla lebbra e lo dichiarerà puro, e lascerà volare via l’uccello vivo sui campi.+
+
+8 “Colui che si purifica deve lavarsi gli indumenti, radersi tutto il corpo* e lavarsi in acqua, e sarà puro. Dopodiché potrà entrare nell’accampamento, ma resterà fuori dalla sua tenda per sette giorni. 9 Il settimo giorno deve radersi i capelli, la barba e le sopracciglia. Dopo essersi rasato tutti i peli, laverà i propri indumenti e il proprio corpo in acqua, e sarà puro.
+
+10 “L’ottavo giorno prenderà due agnelli sani, un’agnella sana+ nel suo primo anno di vita, tre decimi di efa* di fior di farina impastata con olio come offerta di cereali+ e un log* di olio;+ 11 e il sacerdote che lo dichiarerà puro presenterà l’uomo che si purifica, insieme alle offerte, davanti a Geova all’ingresso della tenda dell’incontro. 12 Il sacerdote prenderà uno dei due agnelli e lo offrirà come offerta per la colpa+ insieme al log di olio e li agiterà avanti e indietro come offerta agitata davanti a Geova.+ 13 Poi scannerà l’agnello nel luogo dove si scannano di solito l’offerta per il peccato e l’olocausto,+ in un luogo santo, perché l’offerta per la colpa, come l’offerta per il peccato, spetta al sacerdote.+ È qualcosa di santissimo.+
+
+14 “Il sacerdote prenderà quindi un po’ del sangue dell’offerta per la colpa e lo metterà sul lobo dell’orecchio destro di colui che si purifica, sul pollice della sua mano destra e sull’alluce del suo piede destro. 15 Il sacerdote prenderà un po’ del log di olio+ e lo verserà nel palmo della propria mano sinistra. 16 Poi intingerà il dito destro nell’olio che ha nel palmo della mano sinistra e con il dito spruzzerà un po’ dell’olio sette volte davanti a Geova. 17 Il sacerdote prenderà un po’ dell’olio rimastogli nel palmo della mano e lo metterà sul lobo dell’orecchio destro di colui che si purifica e sul pollice della sua mano destra e sull’alluce del suo piede destro sopra il sangue dell’offerta per la colpa. 18 Metterà sulla testa di colui che si purifica l’olio che gli è rimasto nel palmo della mano e farà espiazione per lui davanti a Geova.+
+
+19 “Il sacerdote sacrificherà l’offerta per il peccato+ e farà espiazione per colui che si purifica dalla sua impurità, dopodiché scannerà l’olocausto. 20 Il sacerdote offrirà l’olocausto e l’offerta di cereali+ sull’altare, e farà espiazione per lui;+ e lui sarà puro.+
+
+21 “Comunque, se colui che si purifica è povero e non ha mezzi sufficienti, prenderà un agnello come offerta per la colpa, offerta agitata, per fare espiazione per sé stesso, insieme a un decimo di efa* di fior di farina impastata con olio come offerta di cereali, un log di olio 22 e due tortore o due piccoli di piccione, secondo quello che può permettersi. Uno servirà da offerta per il peccato e l’altro da olocausto.+ 23 L’ottavo giorno+ li porterà per la sua purificazione al sacerdote all’ingresso della tenda dell’incontro davanti a Geova.+
+
+24 “Il sacerdote prenderà l’agnello dell’offerta per la colpa+ e il log di olio e li agiterà avanti e indietro come offerta agitata davanti a Geova.+ 25 Scannerà l’agnello dell’offerta per la colpa, prenderà un po’ del sangue dell’offerta per la colpa e lo metterà sul lobo dell’orecchio destro di colui che si purifica, sul pollice della sua mano destra e sull’alluce del suo piede destro.+ 26 Si verserà un po’ dell’olio nel palmo della mano sinistra+ 27 e con il dito destro spruzzerà sette volte davanti a Geova un po’ dell’olio che ha nel palmo della mano sinistra. 28 Metterà un po’ dell’olio che ha nel palmo della mano sul lobo dell’orecchio destro di colui che si purifica, sul pollice della sua mano destra e sull’alluce del suo piede destro, negli stessi punti in cui aveva messo il sangue dell’offerta per la colpa. 29 Metterà poi sulla testa di colui che si purifica l’olio che gli è rimasto nel palmo della mano, per fare espiazione per lui davanti a Geova.
+
+30 “E offrirà una delle tortore o uno dei piccoli di piccione, quello che l’offerente può permettersi+ 31 in base ai suoi mezzi, come offerta per il peccato e l’altro uccello come olocausto+ insieme all’offerta di cereali; e il sacerdote farà espiazione davanti a Geova per colui che si purifica.+
+
+32 “Questa è la legge relativa a chi ha avuto la lebbra ma non ha i mezzi per la propria purificazione”.
+
+33 Geova disse poi a Mosè e ad Aronne: 34 “Quando sarete entrati nel paese di Cànaan,+ che sto per darvi in possesso,+ e nella vostra terra io contaminerò una casa con la lebbra,+ 35 il proprietario della casa dovrà andare dal sacerdote e dirgli: ‘Nella mia casa è comparsa una macchia che sembra lebbra’. 36 Il sacerdote ordinerà che la casa venga sgombrata prima di entrarvi per esaminare la macchia, in modo che non dichiari impuro tutto ciò che è nella casa; dopo ciò entrerà a ispezionare la casa. 37 Esaminerà la macchia e, se i muri della casa sono contaminati e presentano cavità verde-giallastre o rossastre che appaiono più profonde della superficie dei muri, 38 allora il sacerdote uscirà dalla casa e la metterà in quarantena per sette giorni.+
+
+39 “Il settimo giorno il sacerdote tornerà e farà un’ispezione. Se la macchia si è estesa sui muri della casa, 40 darà ordine di rimuovere le pietre contaminate e gettarle in un luogo impuro fuori dalla città. 41 Poi farà raschiare completamente l’interno della casa, e l’intonaco e la malta rimossi dovranno essere gettati in un luogo impuro fuori dalla città. 42 Al posto delle pietre rimosse saranno inserite altre pietre, e il sacerdote farà intonacare la casa con dell’altra malta.
+
+43 “Se, però, la macchia ricompare e si diffonde nella casa dopo che le pietre sono state rimosse e dopo che la casa è stata raschiata e intonacata di nuovo, 44 il sacerdote entrerà e la ispezionerà. Se la macchia si è estesa, è lebbra maligna+ della casa. La casa è impura. 45 Allora farà demolire la casa — le pietre, le parti in legno e tutto l’intonaco e la malta — e farà portare tutto in un luogo impuro fuori dalla città.+ 46 Ma chiunque entri nella casa in uno dei giorni della quarantena+ sarà impuro fino alla sera;+ 47 e chiunque si sdrai nella casa deve lavarsi gli indumenti, e chiunque mangi nella casa deve lavarsi gli indumenti.
+
+48 “Comunque, se il sacerdote viene e vede che la macchia non si è estesa nella casa dopo che è stata intonacata di nuovo, dichiarerà pura la casa, perché non è più contaminata. 49 Per purificare la casa dall’impurità* deve prendere due uccelli, del legno di cedro, del tessuto scarlatto e dell’issopo.+ 50 Deve sgozzare uno degli uccelli in un vaso di terracotta contenente acqua corrente.* 51 Poi prenderà il legno di cedro, l’issopo, il tessuto scarlatto e l’uccello vivo e li immergerà nel sangue dell’uccello che è stato sgozzato e nell’acqua corrente,* e deve spruzzare il sangue verso la casa sette volte.+ 52 E purificherà la casa dall’impurità* con il sangue dell’uccello, l’acqua corrente,* l’uccello vivo, il legno di cedro, l’issopo e il tessuto scarlatto. 53 Lascerà volare via l’uccello vivo fuori dalla città, sui campi, e farà espiazione per la casa, e la casa sarà pura.
+
+54 “Questa è la legge relativa a ogni caso di lebbra, alla malattia del cuoio capelluto o della barba,+ 55 alla lebbra degli indumenti+ o della casa,+ 56 ai rigonfiamenti, alle croste e alle macchie,+ 57 per determinare quando qualcosa è impuro e quando è puro.+ Questa è la legge relativa alla lebbra”.+
+<br>
+15 Geova disse ancora a Mosè e ad Aronne: 2 “Parlate agli israeliti e dite loro: ‘Se un uomo ha una perdita dall’organo genitale,* questa perdita lo rende impuro.+ 3 È impuro a causa della perdita. Che la perdita dai genitali sia in atto o ci sia un’ostruzione, lui è comunque impuro.
+
+4 “‘Ogni letto sul quale si sdrai chi ha una perdita sarà impuro, e qualsiasi cosa su cui si sieda sarà impura. 5 Se qualcuno tocca il suo letto deve lavare i propri indumenti e il proprio corpo in acqua ed essere impuro fino alla sera.+ 6 Chiunque si sieda sopra un oggetto su cui si è seduto chi ha una perdita deve lavare i propri indumenti e il proprio corpo in acqua ed essere impuro fino alla sera. 7 Chiunque tocchi la carne di chi ha una perdita deve lavare i propri indumenti e il proprio corpo in acqua ed essere impuro fino alla sera. 8 Se chi ha una perdita sputa su qualcuno che è puro, questi deve lavare i propri indumenti e il proprio corpo in acqua ed essere impuro fino alla sera. 9 Qualsiasi sella sulla quale sia montato chi ha una perdita sarà impura. 10 Chiunque tocchi qualunque cosa si sia trovata sotto di lui sarà impuro fino alla sera, e chiunque porti tali oggetti laverà i propri indumenti e il proprio corpo in acqua e sarà impuro fino alla sera. 11 Se chi ha una perdita+ tocca qualcuno senza essersi lavato le mani con acqua, questi deve lavare i propri indumenti e il proprio corpo in acqua ed essere impuro fino alla sera. 12 Il recipiente di terracotta toccato da chi ha una perdita dev’essere rotto, e ogni recipiente di legno dev’essere lavato con acqua.+
+
+13 “‘Quando la perdita che lo rendeva impuro sarà cessata, l’uomo conterà sette giorni per la sua purificazione, dopodiché laverà i propri indumenti e il proprio corpo in acqua corrente* e sarà puro.+ 14 L’ottavo giorno deve prendere due tortore o due piccoli di piccione,+ presentarsi davanti a Geova all’ingresso della tenda dell’incontro e darli al sacerdote. 15 E il sacerdote li offrirà, uno dei due come offerta per il peccato e l’altro come olocausto, e farà espiazione per lui davanti a Geova a motivo della sua perdita.
+
+16 “‘Se un uomo ha un’emissione seminale, deve lavarsi completamente in acqua ed essere impuro fino alla sera.+ 17 Deve lavare con acqua qualsiasi indumento e qualsiasi oggetto in pelle su cui sia finito del seme, ed essi saranno impuri fino alla sera.
+
+18 “‘Quando un uomo ha rapporti sessuali con una donna e ha un’emissione seminale, devono entrambi lavarsi in acqua ed essere impuri fino alla sera.+
+
+19 “‘Se una donna ha un flusso di sangue dal proprio corpo, rimarrà nella sua impurità mestruale per sette giorni.+ Chiunque la tocchi sarà impuro fino alla sera.+ 20 Qualsiasi cosa su cui lei si sdrai nella sua impurità mestruale sarà impura, e qualsiasi cosa su cui si sieda sarà impura.+ 21 Chiunque tocchi il suo letto deve lavare i propri indumenti e il proprio corpo in acqua ed essere impuro fino alla sera. 22 Chiunque tocchi qualsiasi oggetto su cui si sia seduta deve lavare i propri indumenti e il proprio corpo in acqua ed essere impuro fino alla sera. 23 Se si è seduta sul letto o su un altro oggetto, chiunque lo tocchi sarà impuro fino alla sera.+ 24 E se un uomo ha rapporti sessuali con lei e viene a contatto con la sua impurità mestruale,+ sarà impuro per sette giorni, e qualsiasi letto su cui si sdrai sarà impuro.
+
+25 “‘Se una donna ha delle perdite di sangue per molti giorni+ quando non è il tempo delle sue mestruazioni+ o se il suo flusso mestruale dura più a lungo del solito, sarà impura per tutti quei giorni, come nei giorni della sua impurità mestruale. 26 Qualsiasi letto su cui si sdrai in quei giorni sarà come il letto su cui si sdraia durante la sua impurità mestruale,+ e qualsiasi oggetto su cui si sieda diventerà impuro, come accade durante la sua impurità mestruale. 27 Chiunque li tocchi sarà impuro, e dovrà lavare i propri indumenti e il proprio corpo in acqua ed essere impuro fino alla sera.+
+
+28 “‘Quando le perdite saranno cessate, la donna conterà sette giorni, dopodiché sarà pura.+ 29 L’ottavo giorno prenderà due tortore o due piccoli di piccione+ e li porterà al sacerdote all’ingresso della tenda dell’incontro.+ 30 Il sacerdote farà dell’uno un’offerta per il peccato e dell’altro un olocausto, e farà espiazione per lei davanti a Geova a motivo delle perdite che la rendevano impura.+
+
+31 “‘Dovete dunque tenere gli israeliti separati dall’impurità, così che non muoiano nella loro impurità per aver contaminato il mio tabernacolo, che è in mezzo a loro.+
+
+32 “‘Questa è la legge riguardo all’uomo che ha una perdita, all’uomo che è impuro a causa di un’emissione seminale,+ 33 alla donna durante la sua impurità mestruale,+ a chiunque, maschio o femmina, abbia perdite dal proprio corpo+ e all’uomo che ha rapporti sessuali con una donna impura’”.
+
      `,
   },
   {
     dia: "37",
-    relato: "Levítico 16-18",
+    relato: "Levitico 16-18",
     biblia: `
+    16 Geova parlò a Mosè dopo la morte dei due figli di Aronne che erano morti per essersi avvicinati a Geova.+ 2 Geova disse a Mosè: “Di’ a tuo fratello Aronne che non può entrare in qualsiasi momento nel luogo santo+ oltre la cortina,+ davanti al coperchio che è sull’Arca; in caso contrario morirà,+ perché la mia presenza sarà manifesta in una nuvola+ sopra il coperchio.+
+
+3 “Questo è ciò che Aronne deve portare quando entra nel luogo santo: un giovane toro come offerta per il peccato+ e un montone come olocausto.+ 4 Deve indossare la santa tunica di lino,+ coprire le sue nudità con i calzoni* di lino,+ cingersi con la fascia di lino+ e avvolgersi il turbante di lino+ sulla testa. Sono vesti sante.+ Si laverà in acqua+ e le indosserà.
+
+5 “Dall’assemblea degli israeliti+ deve prendere due capri* come offerta per il peccato e un montone come olocausto.
+
+6 “Aronne deve poi presentare il toro della sua offerta per il peccato, e farà espiazione per sé+ e per la sua casa.
+
+7 “Quindi prenderà i due capri e li farà stare davanti a Geova all’ingresso della tenda dell’incontro. 8 Getterà le sorti sui due capri, una per Geova e l’altra per Azazèl.* 9 Presenterà poi il capro che è stato designato a sorte+ per Geova e ne farà un’offerta per il peccato. 10 Il capro che è stato designato a sorte per Azazèl, invece, dev’essere portato vivo davanti a Geova, affinché si compia l’espiazione su di esso e lo si mandi via nel deserto per Azazèl.+
+
+11 “Aronne presenterà il toro della sua offerta per il peccato e farà espiazione per sé e per la sua casa, e scannerà il toro della sua offerta per il peccato.+
+
+12 “Prenderà poi l’incensiere*+ pieno di carboni ardenti, tolti dall’altare+ davanti a Geova, e due manciate di fine incenso profumato,+ e li porterà al di là della cortina.+ 13 Metterà l’incenso sul fuoco davanti a Geova,+ e la nuvola dell’incenso avvolgerà il coperchio*+ che sta sopra la Testimonianza,+ affinché lui non muoia.
+
+14 “Prenderà un po’ del sangue del toro+ e lo spruzzerà con il dito di fronte al coperchio sul lato orientale, e ne spruzzerà un po’ con il dito sette volte davanti al coperchio.+
+
+15 “Quindi scannerà il capro dell’offerta per il peccato del popolo,+ ne porterà il sangue al di là della cortina+ e farà con quel sangue+ come ha fatto con il sangue del toro; lo spruzzerà verso il coperchio e davanti al coperchio.
+
+16 “Deve fare espiazione per il luogo santo a motivo degli atti di impurità degli israeliti e a motivo delle loro trasgressioni e dei loro peccati;+ e lo stesso deve fare per la tenda dell’incontro, che è in mezzo a loro, in mezzo ai loro atti di impurità.
+
+17 “Nessun altro uomo deve trovarsi nella tenda dell’incontro da quando lui entra nel luogo santo per fare espiazione fino a quando esce. E lui farà espiazione per sé, per la sua casa+ e per l’intera congregazione d’Israele.+
+
+18 “Dopodiché uscirà dirigendosi verso l’altare,+ che è davanti a Geova; farà espiazione per esso, prenderà un po’ del sangue del toro e un po’ del sangue del capro e li metterà sui corni dell’altare da ogni lato. 19 Inoltre con il dito vi spruzzerà sopra un po’ di sangue sette volte, e lo purificherà dagli atti di impurità degli israeliti e lo santificherà.
+
+20 “Quando avrà finito di fare espiazione+ per il luogo santo, per la tenda dell’incontro e per l’altare,+ Aronne presenterà il capro vivo.+ 21 Porrà entrambe le mani sulla testa del capro vivo; confesserà su di esso tutti gli errori degli israeliti, tutte le loro trasgressioni e tutti i loro peccati; li metterà sulla testa del capro+ e lo manderà via nel deserto per mano di un uomo appositamente incaricato.* 22 Il capro porterà tutti i loro errori+ su di sé in una regione desolata,+ e lui lo manderà via nel deserto.+
+
+23 “Allora Aronne entrerà nella tenda dell’incontro, si toglierà le vesti di lino che aveva indossato quando era entrato nel luogo santo e le deporrà lì. 24 Si laverà* in acqua+ in un luogo santo e indosserà le sue vesti;+ poi uscirà e offrirà il suo olocausto+ e l’olocausto del popolo,+ e farà espiazione per sé e per il popolo.+ 25 Quindi farà fumare sull’altare il grasso dell’offerta per il peccato.
+
+26 “L’uomo che ha mandato via il capro per Azazèl+ deve lavare i propri indumenti e il proprio corpo in acqua, dopodiché potrà rientrare nell’accampamento.
+
+27 “Il toro dell’offerta per il peccato e il capro dell’offerta per il peccato, il cui sangue era stato portato nel luogo santo per fare espiazione, saranno trasportati fuori dall’accampamento; e la pelle, la carne e lo sterco saranno bruciati nel fuoco.+ 28 Colui che li ha bruciati deve lavare i propri indumenti e il proprio corpo in acqua, dopodiché potrà rientrare nell’accampamento.
+
+29 “Sarà per voi un decreto permanente: nel 7o mese, il 10o giorno del mese, dovete affliggervi* e non dovete svolgere nessun lavoro,+ né voi né lo straniero che risiede tra voi. 30 Quel giorno si farà espiazione+ per voi, per dichiararvi puri. Sarete puri da tutti i vostri peccati davanti a Geova.+ 31 Per voi è un Sabato di completo riposo, e dovete affliggervi.+ È un decreto permanente.
+
+32 “Il sacerdote che sarà unto+ e insediato* come sacerdote+ in luogo di suo padre+ farà espiazione e indosserà le vesti di lino,+ le vesti sante.+ 33 Farà espiazione per il sacro santuario,+ per la tenda dell’incontro+ e per l’altare;+ e farà espiazione per i sacerdoti e per tutto il popolo della congregazione.+ 34 Questo sarà per voi un decreto permanente,+ affinché una volta l’anno si faccia espiazione per gli israeliti a motivo di tutti i loro peccati”.+
+
+Pertanto lui fece proprio come Geova aveva comandato a Mosè.
+<br>
+17 Geova disse ancora a Mosè: 2 “Parla ad Aronne, ai suoi figli e a tutti gli israeliti, e di’ loro: ‘Questo è ciò che Geova ha comandato:
+
+3 “‘“Se un uomo della casa d’Israele scanna un toro, una pecora o una capra nell’accampamento o fuori dall’accampamento 4 invece di portarlo all’ingresso della tenda dell’incontro per presentarlo come offerta a Geova davanti al tabernacolo di Geova, tale uomo sarà ritenuto colpevole per il sangue versato. Ha sparso sangue e dev’essere stroncato* di mezzo al suo popolo. 5 La ragione è che i sacrifici che gli israeliti ora sacrificano nei campi devono essere portati a Geova, all’ingresso della tenda dell’incontro, al sacerdote. Devono essere sacrificati come sacrifici di comunione a Geova.+ 6 Il sacerdote spruzzerà il sangue sull’altare di Geova all’ingresso della tenda dell’incontro e farà fumare il grasso come odore gradito* a Geova.+ 7 Pertanto non devono più offrire sacrifici alle divinità simili a capri*+ alle quali si prostituiscono.+ Questo sarà per voi un decreto permanente, di generazione in generazione”’.
+
+8 “Devi dire loro: ‘Se un uomo della casa d’Israele o uno straniero che risiede tra voi offre un olocausto o un sacrificio 9 e non lo porta all’ingresso della tenda dell’incontro per offrirlo a Geova, dev’essere stroncato* di mezzo al suo popolo.+
+
+10 “‘Se un uomo della casa d’Israele o uno straniero che risiede tra voi mangia sangue di qualsiasi sorta,+ di sicuro volgerò la mia faccia contro quella persona* che ha mangiato il sangue, e la stroncherò* di mezzo al suo popolo. 11 Infatti la vita* della carne è nel sangue,+ e io l’ho destinato all’altare+ perché facciate espiazione per voi stessi,* poiché è il sangue che fa espiazione+ mediante la vita* che è in esso. 12 Per questo motivo ho detto agli israeliti: “Nessuno* di voi deve mangiare sangue, e nessuno straniero che risiede tra voi+ deve mangiare sangue”.+
+
+13 “‘Se un israelita o uno straniero che risiede tra voi va a caccia e prende un animale selvatico o un uccello che si può mangiare, ne deve versare il sangue+ e coprirlo di terra. 14 Infatti la vita* di ogni tipo di carne è il suo sangue, perché la vita* è nel sangue. Di conseguenza ho detto agli israeliti: “Non dovete mangiare il sangue di nessun tipo di carne, perché la vita* di ogni tipo di carne è il suo sangue. Chiunque lo mangi sarà stroncato”.*+ 15 Se qualcuno,* israelita o straniero, mangia un animale trovato morto o che sia stato ucciso da un animale selvatico,+ deve lavare i propri indumenti e il proprio corpo in acqua ed essere impuro fino alla sera;+ allora sarà puro. 16 Se non si laverà gli indumenti e il corpo,* dovrà rispondere del suo errore’”.+
+<br>
+18 Geova disse ancora a Mosè: 2 “Parla agli israeliti, e di’ loro: ‘Io sono Geova vostro Dio.+ 3 Voi non dovete comportarvi come si comportano nel paese d’Egitto, dove risiedevate, e non dovete fare quello che fanno nel paese di Cànaan, in cui sto per condurvi.+ E non dovete seguire le loro usanze. 4 Dovete attenervi alle mie decisioni giudiziarie, e dovete fare vostri i miei decreti e seguirli.+ Io sono Geova vostro Dio. 5 Dovete osservare i miei decreti e le mie decisioni giudiziarie; chiunque lo farà vivrà grazie a essi.+ Io sono Geova.
+
+6 “‘Nessuno tra voi deve avvicinarsi ad alcun parente stretto per avere rapporti sessuali.*+ Io sono Geova. 7 Non devi avere rapporti sessuali con tuo padre e non devi avere rapporti sessuali con tua madre. È tua madre, e non devi avere rapporti sessuali con lei.
+
+8 “‘Non devi avere rapporti sessuali con la moglie di tuo padre.+ Questo disonorerebbe* tuo padre.
+
+9 “‘Non devi avere rapporti sessuali con tua sorella, che sia figlia di tuo padre o di tua madre, che sia nata nella stessa casa o fuori.+
+
+10 “‘Non devi avere rapporti sessuali con la figlia di tuo figlio o la figlia di tua figlia, perché questo ti disonorerebbe.*
+
+11 “‘Non devi avere rapporti sessuali con la figlia della moglie di tuo padre, generata da tuo padre, perché è tua sorella.
+
+12 “‘Non devi avere rapporti sessuali con la sorella di tuo padre. È parente consanguinea di tuo padre.+
+
+13 “‘Non devi avere rapporti sessuali con la sorella di tua madre, perché è parente consanguinea di tua madre.
+
+14 “‘Non devi disonorare* il fratello di tuo padre avendo rapporti sessuali con sua moglie. È tua zia.+
+
+15 “‘Non devi avere rapporti sessuali con tua nuora.+ È la moglie di tuo figlio, e non devi avere rapporti sessuali con lei.
+
+16 “‘Non devi avere rapporti sessuali con la moglie di tuo fratello,+ perché questo disonorerebbe* tuo fratello.
+
+17 “‘Non devi avere rapporti sessuali con una donna e con sua figlia.+ Non devi prendere la figlia di suo figlio né la figlia di sua figlia per avere rapporti sessuali con loro. Sono sue parenti strette. È un atto osceno.*
+
+18 “‘Non devi prendere in sposa una sorella di tua moglie e avere rapporti sessuali con lei mentre tua moglie è ancora in vita, per non suscitare rivalità.+
+
+19 “‘Non ti devi avvicinare a una donna durante la sua impurità mestruale per avere rapporti sessuali con lei.+
+
+20 “‘Non devi avere rapporti sessuali con la moglie del tuo prossimo, rendendoti impuro.+
+
+21 “‘Non devi permettere che nessuno della tua progenie sia offerto* a Mòloc.*+ Non devi profanare in questo modo il nome del tuo Dio.+ Io sono Geova.
+
+22 “‘Non devi avere rapporti sessuali con un maschio come li hai con una donna.+ È un atto detestabile.
+
+23 “‘Un uomo non deve avere rapporti sessuali con un animale e così diventare impuro; né una donna deve mettersi davanti a un animale per avere rapporti sessuali con esso.+ È una violazione di ciò che è naturale.
+
+24 “‘Non rendetevi impuri mediante nessuna di queste cose, perché è mediante tutte queste cose che si sono rese impure le nazioni che scaccio davanti a voi.+ 25 Di conseguenza il paese è impuro, e io lo punirò per il suo errore, e il paese vomiterà i suoi abitanti.+ 26 Ma voi dovete osservare i miei decreti e le mie decisioni giudiziarie,+ e non dovete fare nessuna di queste cose detestabili, né voi né lo straniero che risiede tra voi.+ 27 Infatti, tutte queste sono le cose detestabili che hanno compiuto gli uomini che hanno abitato il paese prima di voi,+ e adesso il paese è impuro. 28 Allora, dal momento che non lo avrete contaminato, il paese non dovrà vomitarvi come invece vomiterà le nazioni che ci sono state prima di voi. 29 Se qualcuno fa una qualunque di queste cose detestabili, tutti coloro* che le fanno devono essere stroncati* di mezzo al loro popolo. 30 Dovete osservare i vostri obblighi verso di me non seguendo nessuna delle usanze detestabili che sono state seguite prima di voi,+ così da non rendervi impuri praticandole. Io sono Geova vostro Dio’”.
+
     `,
   },
   {
     dia: "38",
-    relato: "Levítico 19-21",
-    video: `https://download-a.akamaihd.net/files/media_periodical/19/jwbmw_S_201611_02_r360P.mp4`,
+    relato: "Levitico 19-21",
     biblia: `
+    19 Geova disse ancora a Mosè: 2 “Parla all’intera assemblea degli israeliti e di’ loro: ‘Voi dovete essere santi, perché io, Geova vostro Dio, sono santo.+
+
+3 “‘Ciascuno di voi deve rispettare* sua madre e suo padre,+ e dovete osservare i miei Sabati.+ Io sono Geova vostro Dio. 4 Non rivolgetevi a divinità senza valore+ e non fatevi dèi di metallo fuso.+ Io sono Geova vostro Dio.
+
+5 “‘Se offrite un sacrificio di comunione a Geova,+ dovete sacrificarlo in modo tale da essere approvati.+ 6 Dev’essere mangiato tra il giorno stesso del sacrificio e il giorno dopo, ma ciò che rimane fino al terzo giorno dev’essere bruciato nel fuoco.+ 7 Se invece se ne mangia il terzo giorno, è qualcosa di offensivo che non sarà approvato. 8 Colui che lo mangia risponderà del suo errore, perché ha profanato una cosa santa di Geova; tale persona* dev’essere stroncata* di mezzo al suo popolo.
+
+9 “‘Quando mietete la messe della vostra terra, non dovete mietere completamente i margini del vostro campo e non dovete raccogliere ciò che resta da spigolare della vostra messe.+ 10 E nella vostra vigna non dovete cogliere i grappoli rimasti né raccogliere l’uva caduta a terra. Dovete lasciarli per il povero*+ e per lo straniero residente. Io sono Geova vostro Dio.
+
+11 “‘Non dovete rubare,+ non dovete ingannare+ e non dovete agire con falsità gli uni con gli altri. 12 Non dovete giurare il falso usando il mio nome;+ profaneresti il nome del tuo Dio. Io sono Geova. 13 Non devi frodare il tuo prossimo,+ e non devi derubarlo.+ Non devi trattenere fino al mattino seguente il salario dovuto a un lavoratore.+
+
+14 “‘Non devi maledire* il sordo né mettere un ostacolo davanti al cieco,+ e devi aver timore del tuo Dio.+ Io sono Geova.
+
+15 “‘Non dovete essere ingiusti nel giudicare. Non devi fare preferenze* per il povero né riservare un trattamento di favore al ricco.+ Devi giudicare il tuo prossimo con giustizia.
+
+16 “‘Non devi andare in giro a diffondere calunnie fra il tuo popolo.+ Non devi ergerti contro la vita* del tuo prossimo.*+ Io sono Geova.
+
+17 “‘Non devi odiare tuo fratello nel tuo cuore.+ Devi assolutamente rimproverare il tuo prossimo+ per non diventare partecipe del suo peccato.
+
+18 “‘Non devi vendicarti+ né nutrire rancore contro i figli del tuo popolo, e devi amare il tuo prossimo come te stesso.+ Io sono Geova.
+
+19 “‘Dovete osservare i miei decreti. Non devi incrociare due tipi di animali domestici. Non devi seminare nel tuo campo due tipi di seme,+ e non devi indossare indumenti tessuti con due tipi di filo.+
+
+20 “‘Se un uomo ha rapporti sessuali con una donna e lei è una serva destinata in moglie a un altro uomo ma non è stata ancora riscattata né affrancata, dev’essere inflitta una punizione. Tuttavia non devono essere messi a morte, perché lei non era ancora stata liberata. 21 L’uomo deve portare a Geova all’ingresso della tenda dell’incontro la sua offerta per la colpa, un montone come offerta per la colpa.+ 22 E con il montone dell’offerta per la colpa il sacerdote farà espiazione per lui davanti a Geova a motivo del peccato commesso; e l’uomo sarà perdonato per il peccato che ha commesso.
+
+23 “‘Quando entrerete nel paese e pianterete un qualunque albero da frutto, dovrete considerarne i frutti impuri e vietati.* Per tre anni vi sarà vietato.* Non si dovrà mangiare da esso. 24 Il quarto anno tutti i suoi frutti saranno sacri, perché ci si rallegri davanti a Geova.+ 25 Il quinto anno potrete mangiarne i frutti, aggiungendoli al vostro raccolto. Io sono Geova vostro Dio.
+
+26 “‘Non dovete mangiare nulla che contenga sangue.+
+
+“‘Non dovete trarre presagi né praticare la magia.+
+
+27 “‘Non dovete radervi i capelli* ai lati della testa né deturparvi i lati della barba.+
+
+28 “‘Non dovete praticarvi tagli* sul corpo per una persona morta*+ né farvi tatuaggi. Io sono Geova.
+
+29 “‘Non disonorare tua figlia facendone una prostituta,+ affinché il paese non si dia alla prostituzione e non si riempia di depravazione.+
+
+30 “‘Dovete osservare i miei Sabati,+ e dovete avere profondo rispetto* per il mio santuario. Io sono Geova.
+
+31 “‘Non rivolgetevi ai medium+ e non consultate gli indovini,+ perché questo vi renderebbe impuri. Io sono Geova vostro Dio.
+
+32 “‘Davanti ai capelli bianchi ti devi alzare,+ e devi mostrare onore alla persona anziana;+ e devi aver timore del tuo Dio.+ Io sono Geova.
+
+33 “‘Se uno straniero risiede tra voi nel vostro paese, non lo dovete maltrattare.+ 34 Lo straniero che risiede tra voi dev’essere trattato come uno di voi;+ e devi amarlo come te stesso, perché anche voi avete risieduto da stranieri nel paese d’Egitto.+ Io sono Geova vostro Dio.
+
+35 “‘Non dovete essere disonesti* nel misurare lunghezze, pesi o capacità.+ 36 Dovete usare bilance esatte, pesi esatti, una misura per aridi* esatta e una misura per liquidi* esatta.+ Io sono Geova vostro Dio, colui che vi ha fatto uscire dal paese d’Egitto. 37 Dovete dunque osservare tutti i miei decreti e tutte le mie decisioni giudiziarie, e dovete metterli in pratica.+ Io sono Geova’”.
+<br>
+20 Geova disse ancora a Mosè: 2 “Devi dire agli israeliti: ‘Qualunque uomo d’Israele o qualunque straniero residente in Israele che dia qualcuno della sua progenie a Mòloc* deve assolutamente essere messo a morte.+ Il popolo lo deve lapidare. 3 Io stesso volgerò la mia faccia contro quell’uomo e lo stroncherò* di mezzo al suo popolo, perché ha offerto qualcuno della sua progenie a Mòloc e ha contaminato il mio luogo santo+ e ha profanato il mio santo nome. 4 Nel caso in cui il popolo chiuda di proposito gli occhi davanti a ciò che fa quell’uomo quando offre la sua progenie a Mòloc e non lo metta a morte,+ 5 io stesso certamente volgerò la mia faccia contro quell’uomo e la sua famiglia.+ Stroncherò* di mezzo al suo popolo lui e tutti quelli che insieme a lui si prostituiscono a Mòloc.
+
+6 “‘Se una persona* si rivolge ai medium+ e agli indovini+ per prostituirsi spiritualmente con loro, volgerò di certo la mia faccia contro di lei* e la stroncherò* di mezzo al suo popolo.+
+
+7 “‘Voi dovete santificarvi e diventare santi,+ perché io sono Geova vostro Dio. 8 E dovete osservare i miei decreti e metterli in pratica.+ Io sono Geova, colui che vi santifica.+
+
+9 “‘Se un uomo maledice* suo padre o sua madre, deve assolutamente essere messo a morte.+ Dato che ha maledetto suo padre o sua madre, il suo sangue ricade su di lui.
+
+10 “‘Se un uomo commette adulterio con la moglie di un altro, se commette adulterio con la moglie del suo prossimo, sia l’adultero che l’adultera devono assolutamente essere messi a morte.+ 11 L’uomo che ha rapporti sessuali con la moglie di suo padre disonora* suo padre.+ Entrambi devono assolutamente essere messi a morte. Il loro sangue ricade su di loro. 12 Se un uomo ha rapporti sessuali con sua nuora, entrambi devono assolutamente essere messi a morte. È una violazione di ciò che è naturale. Il loro sangue ricade su di loro.+
+
+13 “‘Se un uomo ha rapporti sessuali con un maschio come li avrebbe con una donna, entrambi fanno una cosa detestabile.+ Devono assolutamente essere messi a morte. Il loro sangue ricade su di loro.
+
+14 “‘Se un uomo prende una donna e la madre di lei, è un atto osceno.*+ Sia lui che loro devono essere bruciati nel fuoco,+ perché tra voi cessi la condotta oscena.
+
+15 “‘Se un uomo ha rapporti sessuali con un animale, deve assolutamente essere messo a morte, e dovete uccidere l’animale.+ 16 Se una donna si avvicina a un qualunque animale per avere rapporti sessuali con esso,+ devi uccidere la donna e l’animale. Devono assolutamente essere messi a morte. Il loro sangue ricade su di loro.
+
+17 “‘Se un uomo ha rapporti sessuali con sua sorella, figlia di suo padre o di sua madre, e vede la nudità di lei e lei vede la nudità di lui, è una vergogna.+ Devono essere stroncati* davanti agli occhi dei figli del loro popolo. L’uomo ha disonorato* sua sorella. Deve rispondere del suo errore.
+
+18 “‘Se un uomo ha rapporti sessuali con una donna che ha le mestruazioni, entrambi mettono a nudo il flusso di sangue di lei,+ ed entrambi devono essere stroncati* di mezzo al loro popolo.
+
+19 “‘Non devi avere rapporti sessuali con la sorella di tua madre o di tuo padre, perché significherebbe disonorare una parente consanguinea.+ Risponderete entrambi del vostro errore. 20 L’uomo che ha rapporti sessuali con la moglie di suo zio disonora* suo zio.+ Devono rispondere del loro peccato. Devono morire senza figli. 21 Se un uomo prende la moglie di suo fratello, è qualcosa di ripugnante.+ Ha disonorato* suo fratello. Devono rimanere senza figli.
+
+22 “‘Dovete osservare tutti i miei decreti e tutte le mie decisioni giudiziarie+ e metterli in pratica,+ affinché il paese nel quale vi conduco perché vi dimoriate non vi vomiti.+ 23 Non dovete seguire le usanze delle nazioni che scaccio davanti a voi,+ perché hanno fatto tutte queste cose e io le detesto.+ 24 Per questo vi ho detto: “Voi prenderete possesso della loro terra, e io ve la darò in proprietà, un paese dove scorrono latte e miele.+ Io sono Geova vostro Dio, colui che vi ha separato dagli altri popoli”.+ 25 Dovete fare una distinzione fra l’animale puro e quello impuro e fra il volatile impuro e quello puro;+ non dovete rendervi* ripugnanti per mezzo di un animale, di un volatile o di qualsiasi creatura strisciante che io ho distinto come impuri per voi.+ 26 Dovete essere santi davanti a me, perché io, Geova, sono santo,+ e vi separo dagli altri popoli perché diveniate miei.+
+
+27 “‘Uomini o donne che siano medium o indovini* devono assolutamente essere messi a morte.+ Devono essere lapidati. Il loro sangue ricade su di loro’”.
+<br>
+21 Geova disse ancora a Mosè: “Parla ai sacerdoti, i figli di Aronne, e di’ loro: ‘Nessun sacerdote deve contaminarsi per qualcuno della sua gente che è morto.*+ 2 Ma può contaminarsi per un suo stretto consanguineo, per sua madre, per suo padre, per suo figlio, per sua figlia, per suo fratello 3 e per sua sorella, se questa è una vergine che vive con lui* e non si è ancora sposata. 4 Non può contaminarsi e profanare sé stesso per una donna che appartiene a un marito fra la sua gente. 5 I sacerdoti non devono radersi la testa+ o i lati della barba, e non devono praticarsi tagli sul corpo.+ 6 Devono essere santi davanti al loro Dio,+ e non devono profanare il nome del loro Dio,+ perché presentano le offerte fatte a Geova mediante il fuoco, il pane* del loro Dio, e devono essere santi.+ 7 Non devono sposare una prostituta,+ una donna che è stata disonorata o una donna divorziata dal marito,+ perché il sacerdote è santo davanti al suo Dio. 8 Devi santificarlo,+ perché presenta il pane del tuo Dio. Dev’essere santo davanti a te, perché io, Geova, colui che vi santifica, sono santo.+
+
+9 “‘Se la figlia di un sacerdote profana sé stessa prostituendosi, profana suo padre. Dev’essere bruciata nel fuoco.+
+
+10 “‘Colui che è sommo sacerdote tra i suoi fratelli, sulla testa del quale è stato versato l’olio dell’unzione+ e che è stato insediato* per indossare le vesti sacerdotali,+ non deve lasciarsi i capelli in disordine né strapparsi le vesti.+ 11 Non deve avvicinarsi a nessuna persona morta;*+ non deve contaminarsi nemmeno per suo padre o sua madre. 12 Non deve uscire dal santuario e non deve profanare il santuario del suo Dio,+ perché il segno della dedicazione, l’olio dell’unzione del suo Dio,+ è su di lui. Io sono Geova.
+
+13 “‘Deve prendere in moglie una vergine.+ 14 Non può sposare una vedova, una donna divorziata, una donna che è stata disonorata o una prostituta; come moglie deve prendere una vergine della sua gente. 15 Non deve profanare i suoi discendenti* fra la sua gente,+ perché io sono Geova, colui che lo santifica’”.
+
+16 Geova disse ancora a Mosè: 17 “Di’ ad Aronne: ‘Fra i tuoi discendenti,* di generazione in generazione, nessun uomo che abbia un difetto potrà avvicinarsi per presentare il pane del suo Dio. 18 Non potrà avvicinarsi nessun uomo che abbia un difetto: nessuno che sia cieco, zoppo, sfigurato,* con un arto troppo lungo, 19 con un piede fratturato o una mano fratturata, 20 gobbo, nano,* con un difetto agli occhi, con un eczema o la tigna, o con i testicoli danneggiati.+ 21 Nessun discendente* del sacerdote Aronne che abbia un difetto potrà avvicinarsi per presentare le offerte fatte a Geova mediante il fuoco. Dal momento che ha un difetto, non potrà avvicinarsi per presentare il pane del suo Dio. 22 Potrà mangiare il pane del suo Dio — le cose santissime+ e le cose sante+ — 23 ma non potrà avvicinarsi alla cortina+ e non potrà accostarsi all’altare,+ perché ha un difetto. E non dovrà profanare il mio santuario,+ perché io sono Geova, colui che li santifica’”.+
+
+24 Questo è ciò che Mosè disse ad Aronne, ai suoi figli e a tutti gli israeliti.
+
      `,
   },
   {
     dia: "39",
-    relato: "Levítico 22-23",
-    video: `https://download-a.akamaihd.net/files/media_periodical/ed/jwbmw_S_201603_02_r360P.mp4`,
+    relato: "Levitico 22-23",
     biblia: `
+    22 Geova disse ancora a Mosè: 2 “Di’ ad Aronne e ai suoi figli che devono stare attenti a come trattano* le cose sante che gli israeliti mi consacrano+ e che non devono profanare il mio santo nome.+ Io sono Geova. 3 Di’ loro: ‘Qualsiasi vostro discendente, di generazione in generazione, si avvicini mentre è impuro alle cose sante che gli israeliti consacrano a Geova, quella persona* dev’essere stroncata* dalla mia presenza.+ Io sono Geova. 4 Nessun uomo fra i discendenti di Aronne che abbia la lebbra+ o una perdita+ può mangiare le cose sante finché non sia tornato puro,+ né può farlo l’uomo che tocchi qualcuno che è diventato impuro a causa di una persona morta,*+ né quello che abbia un’emissione seminale,+ 5 né quello che tocchi una creatura brulicante impura+ o che tocchi un uomo che per qualunque motivo è impuro e che può rendere impuro anche lui.+ 6 Chi* abbia uno di tali contatti sarà impuro fino alla sera e non potrà mangiare le cose sante, ma dovrà lavarsi in acqua.+ 7 Quando il sole sarà tramontato lui sarà puro; allora potrà mangiare le cose sante, perché quello è il suo cibo.+ 8 Inoltre non deve mangiare nessun animale trovato morto, o che sia stato ucciso da un animale selvatico, così da rendersi impuro.+ Io sono Geova.
+
+9 “‘I sacerdoti devono osservare il loro obbligo verso di me, affinché non commettano peccato a motivo di ciò e non debbano morire per questo, avendo profanato le cose sante. Io sono Geova, colui che li santifica.
+
+10 “‘Nessuna persona non autorizzata* può mangiare qualcosa di santo.+ Nessuno straniero ospite di un sacerdote e nessun lavoratore salariato possono mangiare qualcosa di santo. 11 Se però un sacerdote acquista qualcuno* con il proprio denaro, tale persona può mangiarne. Anche gli schiavi nati nella sua casa possono mangiare il cibo a lui riservato.+ 12 Se la figlia di un sacerdote sposa qualcuno che non è sacerdote* non può mangiare le cose sante portate come contribuzione. 13 Se invece la figlia di un sacerdote rimane vedova o divorzia senza aver avuto figli e torna a vivere nella casa di suo padre come quando era giovane, può mangiare il cibo di suo padre;+ ma nessuna persona non autorizzata* può mangiarne.
+
+14 “‘Se un uomo mangia per sbaglio una cosa santa, deve aggiungervi un quinto del suo valore e dare l’offerta santa al sacerdote.+ 15 I sacerdoti non devono dunque profanare le cose sante che gli israeliti danno come contribuzione a Geova+ 16 e fare incorrere gli israeliti nella punizione per la colpa di aver mangiato le loro cose sante, perché io sono Geova, colui che li santifica’”.
+
+17 Geova disse ancora a Mosè: 18 “Parla ad Aronne, ai suoi figli e a tutti gli israeliti, e di’ loro: ‘Quando un israelita o uno straniero che risiede in Israele presenta a Geova un olocausto+ per adempiere i suoi voti o fare un’offerta volontaria,+ 19 per essere approvato deve presentare un maschio sano+ preso dalla mandria, dalle pecore o dalle capre. 20 Non dovete presentare niente che abbia un difetto,+ perché non servirà a farvi ottenere l’approvazione.
+
+21 “‘Se un uomo presenta a Geova un sacrificio di comunione+ per adempiere un voto o come offerta volontaria, per essere approvato deve presentare un animale sano preso dalla mandria o dal gregge, che non abbia nessun difetto. 22 Nessun animale offerto dev’essere cieco o avere una frattura, un taglio, una verruca, la scabbia o la tigna; non dovete presentare a Geova nessun animale del genere né fare a Geova offerte simili sull’altare. 23 Un toro, o una pecora, che abbia un arto troppo lungo o troppo corto può essere presentato come offerta volontaria, ma come offerta votiva non sarà approvato. 24 Non dovete presentare a Geova un animale che abbia i testicoli danneggiati, schiacciati, strappati o tagliati; non dovete offrire tali animali nel vostro paese. 25 E non dovete prenderne nessuno dalla mano di uno straniero come offerta* per il vostro Dio, perché sono imperfetti e difettosi. Non saranno accettati in vostro favore’”.
+
+26 Geova disse ancora a Mosè: 27 “Quando nasce un vitello o un agnello o un capretto, deve restare con sua madre sette giorni,+ ma dall’ottavo giorno in poi sarà approvato come offerta, un’offerta fatta a Geova mediante il fuoco. 28 Non dovete scannare lo stesso giorno una vacca, o una pecora, e il suo piccolo.+
+
+29 “Se offrite a Geova un sacrificio di ringraziamento,+ dovete offrirlo in modo da essere approvati. 30 Dev’essere mangiato il giorno stesso. Non dovete lasciarne per il mattino seguente.+ Io sono Geova.
+
+31 “Dovete osservare i miei comandamenti e metterli in pratica.+ Io sono Geova. 32 Non dovete profanare il mio santo nome,+ e devo essere santificato in mezzo agli israeliti.+ Io sono Geova, colui che vi santifica,+ 33 colui che vi ha fatto uscire dal paese d’Egitto per dimostrare di essere il vostro Dio.+ Io sono Geova”.
+<br>
+23 Geova disse ancora a Mosè: 2 “Parla agli israeliti e di’ loro: ‘Le feste periodiche+ di Geova che dovete proclamare+ sono santi congressi. Queste sono le mie feste periodiche.
+
+3 “‘Si può lavorare per sei giorni, ma il settimo giorno è un Sabato di completo riposo,+ un santo congresso. Non potete svolgere nessun tipo di lavoro. Dev’essere un Sabato in onore di Geova ovunque dimoriate.+
+
+4 “‘Queste sono le feste periodiche di Geova, santi congressi che dovrete proclamare ognuno al suo tempo stabilito. 5 Il 1o mese, il 14o giorno del mese,+ al crepuscolo* si terrà la Pasqua+ in onore di Geova.
+
+6 “‘Il 15o giorno di questo mese si terrà la Festa dei Pani Azzimi* in onore di Geova.+ Per sette giorni dovrete mangiare pane senza lievito.+ 7 Il primo giorno terrete un santo congresso.+ Non dovrete svolgere nessun lavoro pesante. 8 Per sette giorni dovrete presentare a Geova un’offerta fatta mediante il fuoco. Il settimo giorno ci sarà un santo congresso. Non dovrete svolgere nessun lavoro pesante’”.
+
+9 Geova disse ancora a Mosè: 10 “Parla agli israeliti e di’ loro: ‘Quando infine sarete entrati nel paese che sto per darvi e ne avrete mietuto la messe, dovrete portare al sacerdote un covone di primizie+ della vostra messe.+ 11 E il sacerdote agiterà il covone avanti e indietro davanti a Geova perché siate approvati. Dovrà agitarlo il giorno dopo il Sabato. 12 Il giorno in cui farete agitare il covone dovrete offrire a Geova in olocausto un agnello sano nel suo primo anno di vita. 13 La relativa offerta di cereali sarà di due decimi di efa* di fior di farina impastata con olio, come offerta fatta a Geova mediante il fuoco, odore gradito.* La relativa libagione* sarà di un quarto di hin* di vino. 14 Non dovrete mangiare pane né grano arrostito né grano nuovo fino a quel giorno, finché non avrete portato l’offerta per il vostro Dio. È un decreto permanente per tutte le vostre generazioni, in tutti i luoghi in cui dimorerete.
+
+15 “‘Dal giorno dopo il Sabato, giorno in cui avrete portato il covone dell’offerta agitata, dovrete contare sette Sabati.+ Dovranno essere settimane complete. 16 Conterete 50 giorni+ fino al giorno dopo il 7o Sabato e poi presenterete a Geova una nuova offerta di cereali.+ 17 Dai luoghi in cui abiterete dovrete portare due pani come offerta agitata. Dovranno essere fatti con due decimi di efa di fior di farina. Dovranno essere preparati con il lievito,+ come primi frutti maturi per Geova.+ 18 E con i pani dovrete presentare sette agnelli sani di un anno, un giovane toro e due montoni.+ Saranno un olocausto per Geova. Insieme alla relativa offerta di cereali e alle relative libagioni saranno un’offerta fatta mediante il fuoco, odore gradito* a Geova. 19 E dovrete offrire un capretto come offerta per il peccato+ e due agnelli di un anno come sacrificio di comunione.+ 20 Il sacerdote agiterà i due agnelli avanti e indietro con i pani dei primi frutti maturi, come offerta agitata davanti a Geova. Saranno qualcosa di consacrato a Geova che spetterà al sacerdote.+ 21 In quel giorno dovrete proclamare+ un santo congresso. Non potrete svolgere nessun lavoro pesante. È un decreto permanente in tutti i luoghi in cui dimorerete, per tutte le vostre generazioni.
+
+22 “‘Quando mieterete la messe della vostra terra, non dovrete mietere completamente i margini del vostro campo e non dovrete raccogliere ciò che resta da spigolare della vostra messe.+ Dovrete lasciarli per il povero*+ e per lo straniero residente.+ Io sono Geova vostro Dio’”.
+
+23 Geova disse ancora a Mosè: 24 “Di’ agli israeliti: ‘Nel 7o mese, il 1o del mese, dovrete osservare un completo riposo, un giorno commemorativo annunciato da squilli di tromba,+ un santo congresso. 25 Non potrete svolgere nessun lavoro pesante, e presenterete a Geova un’offerta fatta mediante il fuoco’”.
+
+26 Geova disse ancora a Mosè: 27 “Il 10o giorno di questo 7o mese sarà il Giorno dell’Espiazione.+ Dovrete tenere un santo congresso, e dovrete affliggervi*+ e presentare a Geova un’offerta fatta mediante il fuoco. 28 Quel giorno non dovrete svolgere nessun tipo di lavoro, perché sarà un giorno di espiazione per fare espiazione+ per voi davanti a Geova vostro Dio. 29 Chiunque* quel giorno non si affligga* sarà stroncato* di mezzo al suo popolo.+ 30 E chiunque* quel giorno svolga qualsiasi tipo di lavoro, io lo annienterò dal suo popolo. 31 Non dovrete svolgere nessun tipo di lavoro. È un decreto permanente per tutte le vostre generazioni, in tutti i luoghi in cui dimorerete. 32 Sarà per voi un Sabato di completo riposo; la sera del nono giorno del mese dovrete affliggervi.+ Dovrete osservare il vostro Sabato da sera a sera”.
+
+33 Geova disse ancora a Mosè: 34 “Di’ agli israeliti: ‘Il 15o giorno di questo 7o mese si terrà per 7 giorni la Festa delle Capanne* in onore di Geova.+ 35 Il primo giorno ci sarà un santo congresso; non potrete svolgere nessun lavoro pesante. 36 Per sette giorni dovrete presentare a Geova un’offerta fatta mediante il fuoco. L’ottavo giorno terrete un santo congresso+ e presenterete a Geova un’offerta fatta mediante il fuoco. Sarà un’assemblea solenne. Non potrete svolgere nessun lavoro pesante.
+
+37 “‘Queste sono le feste periodiche+ di Geova che dovrete proclamare come santi congressi+ per presentare a Geova un’offerta fatta mediante il fuoco, ovvero l’olocausto,+ l’offerta di cereali+ del sacrificio e le libagioni,+ secondo il programma giornaliero. 38 Tali cose si aggiungono a ciò che viene offerto nei Sabati di Geova,+ ai vostri doni,+ alle vostre offerte votive+ e alle vostre offerte volontarie+ che darete a Geova. 39 Comunque, il 15o giorno del 7o mese, quando avrete raccolto i prodotti della terra, dovrete celebrare la festa di Geova per 7 giorni.+ Il primo giorno sarà di completo riposo, e così sarà l’ottavo giorno.+ 40 Il primo giorno prenderete frutti di alberi maestosi, foglie di palme+ e rami di alberi frondosi e pioppi della valle,* e gioirete+ davanti a Geova vostro Dio per sette giorni.+ 41 Celebrerete questa festa in onore di Geova per sette giorni l’anno.+ È un decreto permanente per tutte le vostre generazioni: dovrete celebrarla nel settimo mese. 42 Dovrete dimorare nelle capanne per sette giorni.+ Tutti gli israeliti dovranno dimorare nelle capanne, 43 affinché le vostre generazioni future sappiano+ che feci dimorare gli israeliti in capanne quando li condussi fuori dal paese d’Egitto.+ Io sono Geova vostro Dio’”.
+
+44 Questo è ciò che Mosè disse agli israeliti a proposito delle feste periodiche di Geova.
+
      `,
   },
   {
     dia: "40",
-    relato: "Levítico 24-25",
+    relato: "Levitico 24-25",
     biblia: `
+    24 Geova disse ancora a Mosè: 2 “Comanda agli israeliti di portarti per l’illuminazione olio puro di olive schiacciate, per tenere le lampade regolarmente accese.+ 3 Aronne deve assicurarsi che le lampade all’esterno della cortina della Testimonianza, nella tenda dell’incontro, siano sempre accese davanti a Geova dalla sera alla mattina. È un decreto permanente per tutte le vostre generazioni. 4 Aronne deve occuparsi regolarmente delle lampade sul candelabro+ d’oro puro davanti a Geova.
+
+5 “Prenderai del fior di farina e cuocerai 12 pani a ciambella; in ciascuno di essi andranno due decimi di efa* di fior di farina. 6 Disporrai i pani in due pile, sei per pila,+ sulla tavola d’oro puro davanti a Geova.+ 7 Su ogni pila metterai incenso* puro, che servirà al posto del pane come offerta*+ fatta a Geova mediante il fuoco. 8 Ogni Sabato, regolarmente, il pane dev’essere disposto davanti a Geova.+ È un patto permanente con gli israeliti. 9 Il pane andrà ad Aronne e ai suoi figli,+ e lo mangeranno in un luogo santo,+ perché è qualcosa di santissimo che, tra le offerte fatte a Geova mediante il fuoco, spetta al sacerdote, come norma permanente”.
+
+10 Ora tra gli israeliti c’era il figlio di una israelita e di un egiziano;+ e nell’accampamento scoppiò una lite tra lui e un israelita. 11 Il figlio della donna israelita si mise a bestemmiare il Nome* e a maledirlo.*+ Così lo condussero da Mosè.+ Per inciso, la madre dell’uomo si chiamava Selomìt, figlia di Dibri, della tribù di Dan. 12 In attesa che fosse resa nota la decisione di Geova, misero l’uomo sotto custodia.+
+
+13 E Geova disse a Mosè: 14 “Porta colui che ha maledetto il mio nome fuori dall’accampamento; tutti quelli che l’hanno udito gli devono porre le mani sulla testa, e l’intera assemblea lo deve lapidare.+ 15 E devi dire agli israeliti: ‘Chiunque maledica il suo Dio risponderà del suo peccato. 16 Pertanto chi bestemmia il nome di Geova deve assolutamente essere messo a morte.+ L’intera assemblea deve assolutamente lapidarlo. Sia lo straniero residente sia l’israelita che bestemmiano il Nome devono essere messi a morte.
+
+17 “‘Se un uomo toglie la vita a qualcuno* deve assolutamente essere messo a morte.+ 18 Chiunque colpisca e uccida un animale domestico* deve dare un risarcimento, vita per vita.* 19 Se un uomo ferisce il suo prossimo, ciò che ha fatto dev’essere fatto a lui:+ 20 frattura per frattura, occhio per occhio, dente per dente, lo stesso danno che ha fatto dev’essere fatto a lui.+ 21 Chi colpisce un animale uccidendolo deve dare un risarcimento,+ ma chi colpisce un uomo uccidendolo dev’essere messo a morte.+
+
+22 “‘Che siate stranieri residenti o israeliti, per voi varrà la stessa decisione giudiziaria,+ perché io sono Geova vostro Dio’”.
+
+23 Dopo ciò Mosè parlò agli israeliti, e loro portarono fuori dall’accampamento l’uomo che aveva maledetto il nome di Dio e lo lapidarono.+ Così gli israeliti fecero proprio come Geova aveva comandato a Mosè.
+<br>
+25 Geova parlò ancora a Mosè sul monte Sinai e gli disse: 2 “Parla agli israeliti e di’ loro: ‘Quando infine sarete entrati nel paese che sto per darvi,+ il paese osserverà un Sabato in onore di Geova.+ 3 Per sei anni seminerai il tuo campo e per sei anni poterai la tua vigna, e raccoglierai i prodotti della terra.+ 4 Ma il settimo anno ci sarà per la terra un Sabato di completo riposo, un Sabato in onore di Geova. Non dovrai seminare il tuo campo né potare la tua vigna. 5 Non dovrai mietere ciò che sarà cresciuto spontaneamente dopo l’ultima mietitura, e non dovrai vendemmiare l’uva della tua vite non potata. Ci sarà un anno di completo riposo per la terra. 6 Comunque potrai mangiare ciò che cresce nel paese durante il suo Sabato; potrete mangiarlo tu, il tuo schiavo, la tua schiava, il tuo lavoratore salariato, i forestieri che risiedono con te 7 e gli animali domestici e selvatici che sono nel tuo paese. Si potrà mangiare tutto ciò che la terra produce.
+
+8 “‘Conterai 7 anni sabbatici, 7 volte 7 anni, e i giorni dei 7 anni sabbatici ammonteranno a 49 anni. 9 Nel 7o mese, il 10 del mese, farai suonare forte il corno; il Giorno dell’Espiazione+ dovrete far risuonare il corno in tutto il vostro paese. 10 Dovrete dichiarare santo il 50o anno e proclamare la libertà nel paese per tutti i suoi abitanti.+ Diventerà per voi un Giubileo: ognuno di voi tornerà alla sua proprietà, e ognuno di voi tornerà dalla sua famiglia.+ 11 Quel 50o anno diventerà per voi un Giubileo. Non seminerete né mieterete ciò che sarà cresciuto spontaneamente dopo l’ultima mietitura né vendemmierete l’uva delle viti non potate.+ 12 È infatti un Giubileo. Sarà per voi qualcosa di santo. Potrete mangiare solo ciò che la terra produce spontaneamente.+
+
+13 “‘Nell’anno del Giubileo ciascuno di voi dovrà tornare alla sua proprietà.+ 14 Se vendete qualcosa al prossimo o acquistate qualcosa da lui, non approfittatevi l’uno dell’altro.+ 15 Nell’acquistare un bene dal tuo prossimo dovrai tener conto del numero di anni trascorsi dal Giubileo, e nel vendere a te lui dovrà tener conto di quanti anni di raccolta rimangono.+ 16 Se rimangono molti anni, lui potrà aumentare il prezzo d’acquisto; se invece rimangono pochi anni dovrà ridurre il prezzo d’acquisto, perché ciò che ti venderà sarà il numero dei raccolti. 17 Nessuno di voi deve approfittarsi del suo prossimo,+ e dovete aver timore del vostro Dio,+ perché io sono Geova vostro Dio.+ 18 Rispettando i miei decreti e osservando le mie decisioni giudiziarie dimorerete al sicuro nel paese.+ 19 Il paese darà i suoi frutti,+ e mangerete a sazietà e vi dimorerete al sicuro.+
+
+20 “‘Ma nel caso diciate: “Cosa mangeremo nel settimo anno se non potremo seminare né raccogliere?”,+ 21 ebbene, nel sesto anno manderò su di voi la mia benedizione, e la terra darà un raccolto sufficiente per tre anni.+ 22 Poi nell’ottavo anno seminerete, e mangerete del vecchio raccolto fino al nono anno. Finché non ci sarà il nuovo raccolto mangerete del vecchio.
+
+23 “‘La terra non si dovrà vendere su base permanente,+ perché la terra è mia.+ Infatti, dal mio punto di vista voi siete stranieri residenti e forestieri.+ 24 In tutto il paese in vostro possesso dovrete concedere il diritto di riscattare la terra.
+
+25 “‘Se tuo fratello diventa povero e deve vendere parte della sua proprietà, un suo parente stretto che ha il diritto di riscatto* deve venire e riscattare ciò che lui ha venduto.+ 26 Se qualcuno non ha nessuno che possa riscattare la proprietà ma diventa benestante e trova la somma necessaria per riscattarla, 27 deve calcolarne il valore in base agli anni da che l’ha venduta e rimborsare la differenza all’uomo a cui l’ha venduta. Allora potrà rientrarne in possesso.+
+
+28 “‘Se però non trova la somma necessaria per riscattarla, ciò che ha venduto resterà al compratore fino all’anno del Giubileo;+ nel Giubileo sarà svincolato, e lui rientrerà in possesso della sua proprietà.+
+
+29 “‘Se un uomo vende una casa in una città cinta da mura, potrà esercitare il suo diritto di riscatto entro un anno dalla conclusione della vendita; il suo diritto di riscatto+ potrà essere esercitato per un anno intero. 30 Ma se non viene riscattata prima dello scadere di un anno intero, la casa nella città cinta da mura rimarrà proprietà del compratore per sempre, di generazione in generazione. Non sarà svincolata nel Giubileo. 31 Le case degli abitati che non sono cinti da mura, invece, devono considerarsi parte delle proprietà terriere. Il diritto di riscatto potrà sempre essere esercitato, e nel Giubileo saranno svincolate.
+
+32 “‘Quanto alle case dei leviti all’interno delle loro città,+ i leviti avranno sempre il diritto di riscattarle. 33 Qualora la proprietà dei leviti non venga riscattata, la casa venduta che si trova in una delle loro città sarà svincolata nel Giubileo,+ perché le case delle città dei leviti sono la loro proprietà fra gli israeliti.+ 34 Inoltre non si possono vendere i terreni da pascolo+ intorno alle loro città, perché sono loro proprietà su base permanente.
+
+35 “‘Se tuo fratello che vive accanto a te diventa povero e non è in grado di mantenersi, devi sostenerlo+ come faresti con uno straniero residente o un forestiero,+ in modo che continui a vivere insieme a te. 36 Non chiedergli interessi e non cercare un guadagno.*+ Devi aver timore del tuo Dio,+ e tuo fratello continuerà a vivere insieme a te. 37 Non devi prestargli il tuo denaro a interesse,+ e non devi dargli il tuo cibo per ricavarne un guadagno. 38 Io sono Geova vostro Dio, colui che vi ha fatto uscire dal paese d’Egitto+ per darvi il paese di Cànaan e dimostrare di essere il vostro Dio.+
+
+39 “‘Se tuo fratello che vive accanto a te diventa povero e deve vendersi a te,+ non devi costringerlo a lavorare come schiavo.+ 40 Dev’essere trattato come un lavoratore salariato,+ come un forestiero. Dovrà servire presso di te fino all’anno del Giubileo. 41 Allora ti lascerà, lui e i suoi figli con lui, e tornerà dalla sua famiglia. Dovrà tornare alla proprietà dei suoi antenati.+ 42 La ragione è che gli israeliti sono miei schiavi, che io ho fatto uscire dal paese d’Egitto.+ Non devono vendersi nella maniera in cui viene venduto uno schiavo. 43 Non devi trattarlo con crudeltà+ e devi aver timore del tuo Dio.+ 44 Il tuo schiavo e la tua schiava devono provenire dalle nazioni circostanti; da esse potete comprare schiavi o schiave. 45 Potete comprare schiavi anche tra i figli dei forestieri che risiedono presso di voi+ e tra le famiglie che loro hanno generato nel vostro paese; e diventeranno vostra proprietà. 46 Potete lasciarli in eredità ai vostri figli dopo di voi perché li ereditino come proprietà permanente. Potete impiegare loro al vostro servizio, ma non dovete trattare duramente i vostri fratelli israeliti.+
+
+47 “‘Se uno straniero residente o un forestiero presso di te diventa ricco mentre tuo fratello diventa povero accanto a lui e deve vendersi allo straniero residente o al forestiero che vive presso di te o a qualcuno della famiglia dello straniero residente, 48 dopo essersi venduto, tuo fratello potrà continuare a beneficiare del diritto di riscatto. Potrà riscattarlo uno dei suoi fratelli;+ 49 oppure potrà riscattarlo suo zio, il figlio di suo zio o qualsiasi parente stretto,* uno della famiglia.
+
+“‘Se invece è lui che diventa ricco, potrà riscattarsi da sé.+ 50 Dovrà calcolare con il suo compratore gli anni trascorsi da quando gli si è venduto fino all’anno del Giubileo,+ e il prezzo della vendita dipenderà dal numero degli anni.+ Le giornate lavorative durante quel periodo gli saranno valutate in base alla paga di un lavoratore salariato.+ 51 Se restano ancora molti anni, dovrà pagare il suo prezzo di riscatto in proporzione a essi. 52 Ma se rimangono solo pochi anni al Giubileo, dovrà fare il calcolo e pagare il suo prezzo di riscatto in proporzione a essi. 53 Dovrà continuare a servire il suo padrone di anno in anno come un lavoratore salariato, e tu ti accerterai che non sia trattato con crudeltà.+ 54 Tuttavia, se non potrà riscattarsi a queste condizioni, allora sarà libero nell’anno del Giubileo,+ lui e i suoi figli con lui.
+
+55 “‘La ragione è che gli israeliti sono schiavi miei. Sono miei schiavi, che io ho fatto uscire dal paese d’Egitto.+ Io sono Geova vostro Dio.
+
      `,
   },
   {
     dia: "41",
-    relato: "Levítico 26-27",
+    relato: "Levitico 26-27",
     biblia: `
+    26 “‘Non dovete farvi dèi senza valore,+ non dovete erigervi immagine scolpita+ né colonna sacra e non dovete mettere nel vostro paese una pietra ornata di figure+ per inchinarvi a essa,+ perché io sono Geova vostro Dio. 2 Dovete osservare i miei Sabati e avere rispetto* per il mio santuario. Io sono Geova.
+
+3 “‘Se continuerete a seguire i miei decreti e a osservare i miei comandamenti e li metterete in pratica,+ 4 vi darò rovesci di pioggia a tempo debito,+ la terra darà i suoi prodotti+ e gli alberi del campo daranno i loro frutti. 5 La vostra trebbiatura continuerà fino alla vendemmia e la vendemmia fino alla semina; e mangerete il vostro pane a sazietà e dimorerete al sicuro nel vostro paese.+ 6 Porterò la pace nel paese,+ e quando vi coricherete nessuno vi spaventerà;+ libererò il paese dalle bestie feroci, e attraverso il vostro paese non passerà la spada. 7 Certamente inseguirete i vostri nemici e loro cadranno di spada davanti a voi. 8 Cinque di voi ne inseguiranno cento, e cento di voi ne inseguiranno diecimila, e i vostri nemici cadranno di spada davanti a voi.+
+
+9 “‘Vi concederò il mio favore,* vi renderò fecondi e vi moltiplicherò,+ e terrò fede al mio patto con voi.+ 10 Starete ancora mangiando i prodotti del vecchio raccolto quando dovrete liberarvene per far posto al nuovo. 11 E stabilirò il mio tabernacolo in mezzo a voi,+ e non vi rigetterò.* 12 Camminerò in mezzo a voi e sarò il vostro Dio,+ e voi, da parte vostra, sarete il mio popolo.+ 13 Io sono Geova vostro Dio, colui che vi ha fatto uscire dal paese d’Egitto perché non ne foste più schiavi; ho spezzato il vostro giogo e vi ho fatto camminare a testa alta.*
+
+14 “‘Se invece non mi ascolterete e non osserverete tutti questi comandamenti,+ 15 e se rigetterete i miei decreti+ e disprezzerete* le mie decisioni giudiziarie mancando di osservare tutti i miei comandamenti e infrangendo il mio patto,+ 16 ecco quello che vi farò io: vi punirò con il terrore, con la tubercolosi e la febbre alta, che vi affievoliranno la vista e vi consumeranno.* Seminerete il vostro seme inutilmente, perché a mangiare il raccolto saranno i vostri nemici.+ 17 Volgerò la mia faccia contro di voi, e voi sarete sconfitti dai vostri nemici;+ quelli che vi odiano vi calpesteranno,+ e fuggirete senza che nessuno vi insegua.+
+
+18 “‘Se nemmeno dopo queste cose mi ascolterete, dovrò punirvi sette volte di più per i vostri peccati. 19 Spezzerò il vostro ostinato orgoglio e renderò i vostri cieli come il ferro+ e la vostra terra come il rame. 20 Esaurirete le vostre forze per nulla, perché la terra non darà i suoi prodotti+ e gli alberi della terra non daranno frutti.
+
+21 “‘Ma se continuerete a opporvi a me e rifiuterete di ascoltarmi, allora dovrò colpirvi sette volte tanto, secondo i vostri peccati. 22 Manderò fra voi gli animali selvatici,+ i quali vi priveranno dei vostri figli,+ uccideranno i vostri animali domestici e vi decimeranno, e le vostre strade saranno deserte.+
+
+23 “‘Se nonostante queste cose non vi lascerete correggere da me+ e insisterete nell’opporvi a me, 24 anch’io mi opporrò a voi, e io stesso vi colpirò sette volte per i vostri peccati. 25 Farò venire su di voi una spada vendicatrice perché avrete infranto il patto.+ Se vi rifugerete nelle vostre città, manderò in mezzo a voi un’epidemia+ e sarete dati in mano al nemico.+ 26 Quando avrò distrutto la vostra provvista* di pane,*+ 10 donne potranno cuocere il vostro pane in un solo forno e poi lo razioneranno a peso;+ e voi mangerete ma non vi sazierete.+
+
+27 “‘Se nonostante questo non mi ascolterete e insisterete nell’opporvi a me, 28 io mi opporrò a voi ancor più intensamente,+ e io stesso dovrò punirvi sette volte per i vostri peccati. 29 Dovrete dunque mangiare la carne dei vostri figli, e mangerete la carne delle vostre figlie.+ 30 Annienterò i vostri alti luoghi,*+ abbatterò i vostri altari per l’incenso e ammucchierò i vostri cadaveri sui resti dei vostri disgustosi idoli;*+ e io* vi rigetterò disgustato.+ 31 Farò abbattere la spada sulle vostre città,+ renderò desolati i vostri santuari e non inspirerò il profumo* dei vostri sacrifici. 32 Io stesso renderò desolato il paese,+ e i vostri nemici che lo abiteranno rimarranno sbalorditi.+ 33 Vi disperderò fra le nazioni+ e sguainerò la spada dietro di voi;+ il vostro paese sarà reso desolato+ e le vostre città saranno devastate.
+
+34 “‘In quel tempo il paese sconterà i suoi Sabati tutti i giorni in cui rimarrà desolato, mentre voi sarete nel paese dei vostri nemici. In quel tempo il paese riposerà,* dal momento che dovrà scontare i suoi Sabati.+ 35 Per tutti i giorni in cui rimarrà desolato riposerà, per il fatto che non avrà riposato durante i Sabati in cui vi abitavate.
+
+36 “‘Quanto a quelli che sopravvivranno,+ riempirò i loro cuori di disperazione nei paesi dei loro nemici. Il fruscio di una foglia sospinta dal vento li metterà in fuga, e fuggiranno come chi fugge dalla spada e cadranno senza che nessuno li insegua;+ 37 inciamperanno l’uno sull’altro come chi fugge dalla spada, sebbene nessuno li insegua. Non sarete in grado di tener testa ai vostri nemici.+ 38 Morirete fra le nazioni,+ e il paese dei vostri nemici vi divorerà. 39 Quelli di voi che rimarranno saranno lasciati marcire a causa del loro errore nei paesi dei vostri nemici:+ marciranno per gli errori dei loro padri.+ 40 Allora confesseranno il loro errore+ nonché l’errore e l’infedeltà dei loro padri, e riconosceranno di essersi comportati infedelmente opponendosi a me,+ 41 ragion per cui anch’io mi sarò opposto a loro+ conducendoli nel paese dei loro nemici.+
+
+“‘Forse allora il loro cuore incirconciso* si umilierà,+ e allora sconteranno il loro errore. 42 E io mi ricorderò del mio patto con Giacobbe+ e del mio patto con Isacco;+ mi ricorderò del mio patto con Abraamo+ e mi ricorderò del paese. 43 Mentre rimarrà abbandonato, il paese sconterà i suoi Sabati+ e resterà desolato senza di loro; ed essi sconteranno il loro errore, perché avranno rigettato le mie decisioni giudiziarie e avranno disprezzato* i miei decreti.+ 44 Ma nonostante tutto questo, mentre saranno nel paese dei loro nemici, non li rigetterò mai completamente+ né li ripudierò al punto di sterminarli — cosa che infrangerebbe il mio patto+ con loro — perché io sono Geova loro Dio. 45 Per amor loro mi ricorderò del patto stipulato con i loro antenati,+ che feci uscire dal paese d’Egitto sotto gli occhi delle nazioni+ per dimostrare di essere il loro Dio. Io sono Geova’”.
+
+46 Queste sono le norme, le decisioni giudiziarie e le leggi che Geova stabilì tra sé e gli israeliti sul monte Sinai tramite Mosè.+
+<br>
+27 Geova disse ancora a Mosè: 2 “Parla agli israeliti e di’ loro: ‘Se un uomo fa un voto speciale+ per offrire a Geova il valore stimato di una persona,* 3 il valore stimato di un maschio tra i 20 e i 60 anni d’età sarà di 50 sicli* d’argento in base al siclo ufficiale del luogo santo.* 4 Se è una femmina, il valore stimato sarà di 30 sicli. 5 Se l’età è tra i 5 e i 20 anni, il valore stimato del maschio sarà di 20 sicli e quello della femmina di 10. 6 Se l’età è tra un mese e i 5 anni, il valore stimato del maschio sarà di 5 sicli d’argento e quello della femmina di 3.
+
+7 “‘Se l’età è dai 60 anni in su, il valore stimato sarà di 15 sicli per il maschio e di 10 sicli per la femmina. 8 Ma se chi fa il voto è troppo povero per versare il valore stimato,+ la persona che è oggetto del voto si presenterà davanti al sacerdote, il quale ne stabilirà il valore. Il sacerdote farà la valutazione sulla base di ciò che può permettersi chi fa il voto.+
+
+9 “‘Se il voto riguarda un animale di quelli adatti per essere offerti a Geova, qualunque animale venga offerto a Geova diventerà qualcosa di santo. 10 Chi fa il voto non potrà sostituirlo o cambiarlo né con uno migliore né con uno peggiore. Se però sostituisse un animale con un altro, sia il primo animale che il secondo diventerebbero santi. 11 Se si tratta di un animale impuro+ che non può essere presentato come offerta a Geova, allora lo porterà davanti al sacerdote. 12 Il sacerdote stabilirà il valore dell’animale, a seconda che sia di buona o cattiva qualità. Quale che sia il valore stimato dal sacerdote, quello sarà. 13 Ma se mai chi fa il voto volesse riscattarlo, al valore stimato dovrà aggiungere un quinto.+
+
+14 “‘Se un uomo consacra la sua casa come qualcosa di santo per Geova, allora il sacerdote ne stabilirà il valore, a seconda che sia di buona o cattiva qualità. Quale che sia il valore stimato dal sacerdote, quello sarà.+ 15 Ma se chi ha consacrato la sua casa volesse riscattarla, al valore stimato dovrà aggiungere un quinto, ed essa diventerà sua.
+
+16 “‘Se un uomo consacra a Geova una parte del terreno che possiede, il valore sarà stimato in proporzione alla quantità di seme necessaria per seminarlo: un hòmer* di semi d’orzo corrisponderà a 50 sicli d’argento. 17 Se consacra il suo terreno a partire dall’anno del Giubileo,+ il valore sarà quello stimato. 18 Se invece consacra il suo terreno dopo il Giubileo, il sacerdote gli calcolerà il prezzo in proporzione agli anni che restano fino al Giubileo successivo, e dal valore stimato si dovrà fare una detrazione.+ 19 Se chi ha consacrato il terreno volesse riscattarlo, al valore stimato dovrà aggiungere un quinto, ed esso resterà suo. 20 Se però non riscatta il terreno e questo viene venduto a un altro uomo, non potrà più riscattarlo. 21 Quando sarà svincolato nel Giubileo, il terreno diventerà qualcosa di santo per Geova come terreno dedicato incondizionatamente a lui. Diventerà proprietà dei sacerdoti.+
+
+22 “‘Se un uomo consacra a Geova un terreno da lui acquistato che non fa parte del suo patrimonio ereditario,+ 23 il sacerdote gliene calcolerà il valore fino all’anno del Giubileo, e il giorno stesso l’uomo verserà il valore stimato.+ È qualcosa di santo per Geova. 24 Nell’anno del Giubileo il terreno tornerà a colui dal quale l’aveva acquistato, a cui appartiene la terra.+
+
+25 “‘Ogni stima dev’essere fatta in base al siclo ufficiale del luogo santo. Il siclo deve ammontare a 20 ghera.*
+
+26 “‘Tuttavia, nessuno deve consacrare il primogenito di un animale, perché il primogenito è di Geova.+ Che sia un toro o una pecora, appartiene già a Geova.+ 27 Se si tratta di un animale impuro e lo si riscatta secondo il valore stabilito, a tale valore si dovrà aggiungere un quinto.+ Ma se l’animale non viene riscattato, sarà venduto secondo il valore stabilito.
+
+28 “‘Tuttavia non potrà essere venduta o riscattata nessuna cosa dedicata che un uomo dedichi incondizionatamente* a Geova prendendola da ciò che gli appartiene, che siano persone o animali o terreni. Ogni cosa dedicata incondizionatamente è qualcosa di santissimo per Geova.+ 29 Inoltre non potrà essere riscattata nessuna persona che sia stata destinata* alla distruzione.+ Dovrà assolutamente essere messa a morte.+
+
+30 “‘Ogni decima parte+ della terra, che siano i prodotti dei campi o i frutti degli alberi, appartiene a Geova. È qualcosa di santo per Geova. 31 Se mai un uomo volesse riscattare qualcosa della sua decima, dovrà aggiungervi un quinto. 32 Quanto alla decima della mandria e del gregge, il 10o animale di tutto ciò che passa sotto il bastone del pastore deve diventare qualcosa di santo per Geova. 33 Non deve esaminare se è buono o cattivo, né lo deve sostituire. Ma se mai cercasse di sostituirlo, sia il primo animale che il secondo diventerebbero qualcosa di santo.+ Non potranno essere riscattati’”.
+
+34 Questi sono i comandamenti che Geova diede a Mosè sul monte Sinai per gli israeliti.+
+
     `,
   },
   {
     dia: "42",
-    relato: "Números 1-3",
-    video: `https://download-a.akamaihd.net/files/media_publication/47/nwtsv_S_040_r360P.mp4`,
+    relato: "Numeri 1-3",
+    video: `https://download-a.akamaihd.net/files/media_publication/23/nwtsv_I_040_r240P.mp4`,
     biblia: `
+    
      `,
   },
   {
     dia: "43",
-    relato: "Números 4-6",
+    relato: "Numeri 4-6",
     biblia: `
      `,
   },
   {
     dia: "44",
-    relato: "Números 7-9",
+    relato: "Numeri 7-9",
     biblia: `
     `,
   },
   {
     dia: "45",
-    relato: "Números 10-12",
+    relato: "Numeri 10-12",
     biblia: `
     `,
   },
   {
     dia: "46",
-    relato: "Números 13-15",
+    relato: "Numeri 13-15",
     biblia: `
     `,
   },
   {
     dia: "47",
-    relato: "Números 16-18",
+    relato: "Numeri 16-18",
     biblia: `
     `,
   },
   {
     dia: "48",
-    relato: "Números 19-21",
+    relato: "Numeri 19-21",
     biblia: `
      `,
   },
   {
     dia: "49",
-    relato: "Números 22-24",
+    relato: "Numeri 22-24",
     biblia: `
     `,
   },
   {
     dia: "50",
-    relato: "Números 25-27",
+    relato: "Numeri 25-27",
     biblia: `
     `,
   },
   {
     dia: "51",
-    relato: "Números 28-30",
+    relato: "Numeri 28-30",
     biblia: `
       `,
   },
   {
     dia: "52",
-    relato: "Números 31-32",
+    relato: "Numeri 31-32",
     biblia: `
      `,
   },
   {
     dia: "53",
-    relato: "Números 33-36",
+    relato: "Numeri 33-36",
     biblia: `
       `,
   },
