@@ -1,21 +1,21 @@
 import React, { lazy, Suspense } from "react";
 import { Routes, Route, HashRouter } from "react-router-dom";
 import Conmemoracion from "./components/commemoracion.js";
-import MenuApp from "./components/layaut/index.js";
 import Pie from "./components/layaut/pie.js";
-import Lectura from "./components/lectura.js";
 import LecturaConme from "./components/LecturaConme.js";
-import Relatos from "./components/relatos.js";
 import Videos from "./components/videos.js";
 import LoadingInicial from "./components/loading";
 import { CheckedContextComponent } from "./components/checkedContex/index";
+const MenuApp = lazy(()=> import("./components/layaut/index.js"))
 const Libros = lazy(() => import("./components/libros.js"));
+const Relatos = lazy(()=> import("./components/relatos.js")) ;
+const Lectura = lazy(()=> import("./components/lectura.js")) ;
 
 function App() {
   return (
     <HashRouter>
-      <Suspense fallback={<LoadingInicial />}>
-        <CheckedContextComponent>
+      <CheckedContextComponent>
+        <Suspense fallback={<LoadingInicial />}>
           <MenuApp />
           <Routes>
             <Route path="/">
@@ -34,8 +34,8 @@ function App() {
             <Route path="*" element={<Libros />} />
           </Routes>
           <Pie />
-        </CheckedContextComponent>
-      </Suspense>
+        </Suspense>
+      </CheckedContextComponent>
     </HashRouter>
   );
 }
