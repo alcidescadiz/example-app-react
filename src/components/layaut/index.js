@@ -6,8 +6,8 @@ export default function MenuApp() {
   let {
     trueList,
     trueListIT,
-    inicialContent,
-    setIdioma,
+    inicialContent, inicialBiblia,
+    setIdioma, setBiblia,
     lenguaje,
     setLenguaje,
   } = useContext(CheckedContext);
@@ -18,6 +18,7 @@ export default function MenuApp() {
       ? localStorage.setItem("app_bible_lang", JSON.stringify("IT"))
       : localStorage.setItem("app_bible_lang", JSON.stringify("ES"));
     setIdioma(lenguaje === "ES" ? inicialContent.it : inicialContent.es);
+    setBiblia(lenguaje === "ES" ? inicialBiblia.it : inicialBiblia.es)
   }
 
   const divStyle = {

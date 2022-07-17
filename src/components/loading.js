@@ -1,13 +1,10 @@
 export default function LoadingInicial() {
   return (
     <>
-      <div className="container d-flex align-items-center m-5">
-        <strong>Loading...</strong>
-        <div
-          className="spinner-border ms-auto"
-          role="status"
-          aria-hidden="true"
-        ></div>
+      <div className="d-flex justify-content-center m-5">
+        <div className="spinner-border" role="status">
+          <span className="visually-hidden">Loading...</span>
+        </div>
       </div>
     </>
   );

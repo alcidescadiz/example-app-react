@@ -5,21 +5,21 @@ import CheckedContext from "./checkedContex";
 import Cronometro from "./cronometro/Cronometro";
 
 export default function Lectura() {
-  let { idioma } = useContext(CheckedContext);
+  let { idioma, biblia } = useContext(CheckedContext);
   let { id, idl, inicio, fin } = useParams();
 
   useEffect(()=>{
-    if (typeof idioma.biblia[id].biblia === "string") {
+    if (typeof biblia.biblia[id].biblia === "string") {
       document.querySelector("#relato").innerHTML =
-        idioma.biblia[id].biblia
+      biblia.biblia[id].biblia
     }else {
-      document.querySelector("#relato1").innerHTML =idioma.biblia[id].relato[0]
-      document.querySelector("#relato1a").innerHTML =idioma.biblia[id].biblia[0]
-      document.querySelector("#relato2").innerHTML =idioma.biblia[id].relato[1]
-      document.querySelector("#relato2a").innerHTML =idioma.biblia[id].biblia[1]
+      document.querySelector("#relato1").innerHTML =biblia.biblia[id].relato[0]
+      document.querySelector("#relato1a").innerHTML =biblia.biblia[id].biblia[0]
+      document.querySelector("#relato2").innerHTML =biblia.biblia[id].relato[1]
+      document.querySelector("#relato2a").innerHTML =biblia.biblia[id].biblia[1]
     }
 
-  },[id, idioma])
+  },[id, idioma, biblia])
   return (
     <>
       <div className="mt-5" id="textoBiblia">
@@ -33,9 +33,9 @@ export default function Lectura() {
           </Link>
         </div>
         <h3 className="text-center">
-          {typeof idioma.biblia[id].relato === "object"
-            ? idioma.biblia[id].relato[0] + " y " + idioma.biblia[id].relato[1]
-            : idioma.biblia[id].relato}
+          {typeof biblia.biblia[id].relato === "object"
+            ? biblia.biblia[id].relato[0] + " y " + biblia.biblia[id].relato[1]
+            : biblia.biblia[id].relato}
         </h3>
         <div className="container " id="relato" >
             <h2 id="relato1">{''}</h2> <div id="relato1a">{''}</div>

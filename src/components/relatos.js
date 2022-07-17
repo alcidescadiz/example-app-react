@@ -4,7 +4,7 @@ import { Link, useParams } from "react-router-dom";
 import CheckedContext from "./checkedContex";
 
 export default function Relatos() {
-  let { idioma } = useContext(CheckedContext);
+  let { idioma, biblia } = useContext(CheckedContext);
   let { id, inicio, fin } = useParams();
   let { checkedList, setCheckedList, setTrueList, 
        checkedListIT,setCheckedListIT,setTrueListIT,
@@ -54,7 +54,7 @@ export default function Relatos() {
     }
   }
 
-  let relato = idioma.biblia.filter((e, i) => i >= inicio && i <= fin);
+  let relato = biblia.biblia.filter((e, i) => i >= inicio && i <= fin);
   return (
     <>
       <div className="mt-5 container bg-light">

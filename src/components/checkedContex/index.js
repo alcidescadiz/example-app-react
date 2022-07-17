@@ -9,15 +9,21 @@ import {
 
 const CheckedContext = createContext();
 
+const inicialBiblia = {
+  es: {
+    biblia: biblia
+  },
+  it: {
+    biblia: bibbia
+  },
+}
 const inicialContent = {
   es: {
-    biblia: biblia,
     detalles: detalles,
     commemoracion: commemoracion,
     titulos: titulos,
   },
   it: {
-    biblia: bibbia,
     detalles: detagli,
     commemoracion: commemorazione,
     titulos: titoli,
@@ -26,6 +32,7 @@ const inicialContent = {
 
 export function CheckedContextComponent({ children }) {
   let [idioma, setIdioma] = useState(inicialContent.es);
+  let [biblia, setBiblia] = useState(inicialBiblia.es);
   let [checkedList, setCheckedList] = useState([]);
   let [trueList, setTrueList] = useState(0);
   let [checkedListIT, setCheckedListIT] = useState([]);
@@ -55,8 +62,9 @@ export function CheckedContextComponent({ children }) {
     trueListIT, 
     setTrueListIT,
     inicialContent,
-    idioma,
-    setIdioma,
+    inicialBiblia,
+    idioma, setIdioma,
+    biblia, setBiblia,
     lenguaje, 
     setLenguaje
   };
