@@ -4,9 +4,8 @@ import { Link, useParams } from "react-router-dom";
 import CheckedContext from "./checkedContex";
 
 export default function Relatos() {
-  let { idioma, biblia } = useContext(CheckedContext);
   let { id, inicio, fin } = useParams();
-  let { checkedList, setCheckedList, setTrueList, 
+  let { idioma, biblia , checkedList, setCheckedList, setTrueList, 
        checkedListIT,setCheckedListIT,setTrueListIT,
        lenguaje} = useContext(CheckedContext);
   let [arrayCheck, setarrayCheck]=useState(checkedList)
