@@ -1,16 +1,22 @@
 import React, { useContext } from "react";
 import { Link } from "react-router-dom";
 import CheckedContext from "./checkedContex";
+import { commemoracion } from "../data.js";
+import { commemoracion as commemorazione } from "../dataIT.js";
 
 export default function Conmemoracion(){
-    let {idioma} = useContext(CheckedContext)
+    let {lenguaje,idioma} = useContext(CheckedContext)
+    const dataCommemoracion = {
+        ES: commemoracion,
+        IT: commemorazione
+      }
     let titulos = idioma.titulos
     return (
         <div className="container">
             <h1 className="m-2 text-center mt-5 display-3">
                 { titulos.tituloCommemoracion }
             </h1>
-            { idioma.commemoracion.map((e,i) =>  (
+            { dataCommemoracion[lenguaje].map((e,i) =>  (
                 <React.Fragment key={i+'divPrincipal'}>
                     <div  className="d-flex m-2 border bg-light">
                         <div  className="col-4"> {e.dia} </div>

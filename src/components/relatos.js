@@ -2,16 +2,26 @@ import React, { useContext, useState } from "react";
 import { useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
 import CheckedContext from "./checkedContex";
+import { biblia } from "../data.js";
+import { biblia as bibbia } from "../dataIT.js";
+
 
 export default function Relatos() {
   let { id, inicio, fin } = useParams();
-  let { idioma, biblia , checkedList, setCheckedList, setTrueList, 
+  let { idioma, checkedList, setCheckedList, setTrueList, 
        checkedListIT,setCheckedListIT,setTrueListIT,
        lenguaje} = useContext(CheckedContext);
+       const inicialBiblia = {
+        ES: {
+          biblia: biblia
+        },
+        IT: {
+          biblia: bibbia
+        },
+      }
   let [arrayCheck, setarrayCheck]=useState(checkedList)
 
   useEffect(() => {
-    console.log("hola");
     if (typeof idioma.detalles[id].detalles === "string") {
       document.querySelector("#contenido").innerHTML =
         idioma.detalles[id].detalles;
@@ -53,7 +63,7 @@ export default function Relatos() {
     }
   }
 
-  let relato = biblia.biblia.filter((e, i) => i >= inicio && i <= fin);
+  let relato = inicialBiblia[lenguaje].biblia.filter((e, i) => i >= inicio && i <= fin);
   return (
     <>
       <div className="mt-5 container bg-light">

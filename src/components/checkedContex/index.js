@@ -1,38 +1,30 @@
 import { createContext, useEffect, useState } from "react";
-import { biblia, detalles, commemoracion, titulos } from "../../data";
+import { detalles, titulos } from "../../data.js";
 import {
-  biblia as bibbia,
   detalles as detagli,
-  commemoracion as commemorazione,
   titulos as titoli,
-} from "../../dataIT";
+} from "../../dataIT.js";
 
 const CheckedContext = createContext();
 
-const inicialBiblia = {
-  es: {
-    biblia: biblia
-  },
-  it: {
-    biblia: bibbia
-  },
-}
 const inicialContent = {
   es: {
     detalles: detalles,
-    commemoracion: commemoracion,
     titulos: titulos,
   },
   it: {
     detalles: detagli,
-    commemoracion: commemorazione,
     titulos: titoli,
   },
 };
 
+let texto = `
+█▀▀▄ ─▀─ █▀▀ █▀▀▄ ▀█─█▀ █▀▀ █▀▀▄ ─▀─ █▀▀▄ █▀▀█ 
+█▀▀▄ ▀█▀ █▀▀ █──█ ─█▄█─ █▀▀ █──█ ▀█▀ █──█ █──█ 
+▀▀▀─ ▀▀▀ ▀▀▀ ▀──▀ ──▀── ▀▀▀ ▀──▀ ▀▀▀ ▀▀▀─ ▀▀▀▀
+`
 export function CheckedContextComponent({ children }) {
   let [idioma, setIdioma] = useState(inicialContent.es);
-  let [biblia, setBiblia] = useState(inicialBiblia.es);
   let [checkedList, setCheckedList] = useState([]);
   let [trueList, setTrueList] = useState(0);
   let [checkedListIT, setCheckedListIT] = useState([]);
@@ -51,6 +43,7 @@ export function CheckedContextComponent({ children }) {
     setTrueListIT(
       ((checkedIT.filter((e) => e === true).length * 100) / 365).toFixed(2)
     );
+    console.log(texto)
   }, []);
   let data = {
     checkedList,
@@ -62,9 +55,7 @@ export function CheckedContextComponent({ children }) {
     trueListIT, 
     setTrueListIT,
     inicialContent,
-    inicialBiblia,
     idioma, setIdioma,
-    biblia, setBiblia,
     lenguaje, 
     setLenguaje
   };
